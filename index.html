@@ -5,7 +5,7 @@
 <!--********************************************* Ting Loop ********************************************-->
 <!--******************************************* July 29, 2026 ******************************************-->
 <!--****************************************************************************************************-->
-<!--******************************************* Version 3.09 *******************************************-->
+<!--******************************************* Version 3.11 *******************************************-->
 <!--******************************************* October 7, 2026 *****************************************-->
 <!--****************************************************************************************************-->
 <!---------------------------------------------------------------------------------------------------- --->
@@ -158,9 +158,6 @@ html, body {
 }
 
 
-.right-buttons {
-    bottom: var(--y);
-}
 	
 #video-player {
     position: relative;
@@ -270,7 +267,7 @@ html.tl-early-student-mode #landscape-mode-message { display: none !important; }
 
 
 #video-player .overlay-btn,
-#speed-btn, #toggleFont-btn, #forward-btn, #pause-btn,
+#speed-btn, #toggleFont-btn, #forward-btn,
 #abxButton-btn, #rewind-btn, #play-stop-btn, #settingsWindow-btn, #micro-btn, #aMinus-btn, #aPlus-btn, #bMinus-btn, #bPlus-btn, #sMinus-btn, #sPlus-btn, #sAdd-btn, #sDelete-btn, #sZero-btn, #sCounter-btn, #sAuto-btn, #sPause-btn  {
     position: absolute;
     right: 3px;
@@ -369,18 +366,6 @@ html.tl-early-student-mode #landscape-mode-message { display: none !important; }
     cursor: pointer;
 }
 
-.file-label {
-    position: absolute;
-    top: 10px;
-    left: 10px;
-    z-index: 100;
-    background-color: rgba(0, 60, 168, 0.7);
-    color: white;
-    padding: 5px 10px;
-    border-radius: 5px;
-    cursor: pointer;
-}
-
 #micro-btn { top: calc(var(--y) + 0px);  right: 100px; height: 47px}
 #abxButton-btn { top: calc(var(--y) + 0px);   width: 94px; height: 80px; }
 #speed-btn     { top: calc(var(--y) + 53px);  right: 88px; }
@@ -471,10 +456,6 @@ font-family: Arial;
     width: auto;
 }
 
-.parent-or-container-of-pleco-world-display {
-    position: relative;
-    width: 100%;
-}
 
 
 #pleco-world-display a { text-decoration: none; color: #E2E2E2; }
@@ -866,32 +847,6 @@ font-family: Arial;
 #storageRestore  { left: 140px; }
 
 
-#buttonContainer {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-	padding: 0;
-    padding: 0px 0px 0px 0px;
-}
-.changeValue-btn {
-    background-color: rgba(160, 240, 176, 0.2);
-    color: #404040;
-    border: none;
-    cursor: pointer;
-    border-radius: 50%;
-    opacity: 0.7;
-    font-size: 10px;
-    width: 50px;
-    height: 50px;
-    margin: 10px 5px;
-    z-index: 10;
-}
-
-#changeValue-minus { left: 20px; }
-#changeValue-reset { left: 40px; }
-#changeValue-plus { left: 60px; }
-.changeValue-btn:hover { background-color: rgba(160, 240, 176, 0.35); }
-
 
 #settingsWindow-btn { 
     position: absolute !important;
@@ -1270,18 +1225,6 @@ details[open] > .sw-shortcuts-summary::before { content: '▾ '; }
 }
 
 
-#feedbackModal {
-    display: none;
-    position: fixed;
-    left: 50%;
-    top: 50%;
-    transform: translate(-50%, -50%);
-    padding: 20px;
-    background: white;
-    border: 1px solid black;
-    z-index: 100;
-}
-
 #sAuto-btn, #sPause-btn { display: none !important; }
 
 .tag-btn, .filter-btn {
@@ -1313,7 +1256,6 @@ details[open] > .sw-shortcuts-summary::before { content: '▾ '; }
 }
 
 #filter-all-btn { width: 60px; height: 60px; font-size: 12px; }
-#filter-all-btn.filter-all-dim { opacity: 0.35; }
 
 #tag1-btn { top: calc(var(--y) + 188px); right: 250px; }
 #tag2-btn { top: calc(var(--y) + 232px); right: 250px; }
@@ -1528,19 +1470,6 @@ body.tl-kaiti-mode .sw-preview-zh {
 .rf-lesson-num {
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
     font-size: 0.75em;
-}
-
-.hl-ctrl-btn {
-    font-size: 10px;
-    padding: 2px 6px;
-    border: 1px solid var(--tl-border, #e0e0e0);
-    border-radius: 6px;
-    background: #ffffff;
-    cursor: pointer;
-    min-width: 24px;
-    text-align: center;
-    touch-action: manipulation;
-    color: var(--tl-text, #212121);
 }
 
 .sw-data-btn {
@@ -1771,19 +1700,6 @@ body.tl-student-mode #brand-watermark { display: none !important; }
     position: relative;
     z-index: 5;
 }
-
-.tl-logo {
-    font-size: 0.4rem;
-    font-weight: 400;
-    letter-spacing: 0.3px;
-    color: var(--tl-text);
-    padding: 0 4px 0 2px;
-    margin-right: 2px;
-    cursor: pointer;
-    user-select: none;
-    transition: opacity 0.2s ease;
-}
-.tl-logo:hover { opacity: 0.7; }
 
 .tl-pack-pill {
     appearance: none;
@@ -2329,14 +2245,6 @@ body.tl-dark-mode .tl-navbtn-preview-btn {
 }
 #tl-tts-reading-mode.tl-rm-visible { display: flex; }
 
-/* Translation line within a dense Reading Mode row — subdued, smaller,
-   matching the general "translation text" treatment used elsewhere. */
-.tl-rm-row .tl-rm-en {
-    display: block;
-    font-size: 13px;
-    color: #888;
-    margin-top: 2px;
-}
 
 /* TTS Reading Mode row states — mirrors Chinese's own exact two-state
    violet system precisely (studied directly from .tl-rm-row.tl-rm-current
@@ -2355,13 +2263,11 @@ body.tl-dark-mode .tl-navbtn-preview-btn {
     background: #9575cd;
 }
 .tl-rm-row.tl-tts-rm-current .tl-rm-num,
-.tl-rm-row.tl-tts-rm-current .tl-rm-zh,
-.tl-rm-row.tl-tts-rm-current .tl-rm-en {
+.tl-rm-row.tl-tts-rm-current .tl-rm-zh {
     color: #000000;
 }
 .tl-rm-row.tl-tts-rm-current.tl-tts-rm-looping .tl-rm-num,
-.tl-rm-row.tl-tts-rm-current.tl-tts-rm-looping .tl-rm-zh,
-.tl-rm-row.tl-tts-rm-current.tl-tts-rm-looping .tl-rm-en {
+.tl-rm-row.tl-tts-rm-current.tl-tts-rm-looping .tl-rm-zh {
     color: #ffffff;
 }
 
@@ -3949,10 +3855,6 @@ body.tl-student-mode #landscape-mode-message { display: none !important; }
     background: var(--tl-nav-bg, #f5f5f5);
     color: var(--tl-text-secondary, #757575);
 }
-.tl-about-lang-chip-soon {
-    background: transparent;
-    border: 1px dashed var(--tl-border, #e0e0e0);
-}
 
 .tl-about-features { margin: 0 0 1.3rem; text-align: left; }
 .tl-about-feature-list { margin: 0; padding: 0; list-style: none; }
@@ -4532,8 +4434,7 @@ body.tl-dark-mode .tl-filternav-btn {
 body.tl-dark-mode #settingsWindow,
 body.tl-dark-mode #sw-translation-select,
 body.tl-dark-mode .tl-course-picker-trigger,
-body.tl-dark-mode .tl-course-picker,
-body.tl-dark-mode #feedbackModal {
+body.tl-dark-mode .tl-course-picker {
     background: var(--tl-surface);
     color: var(--tl-text);
     border-color: var(--tl-border);
@@ -4550,7 +4451,6 @@ body.tl-dark-mode .sw-font-preview { background: #161b20; border: 1px solid var(
 body.tl-dark-mode .sw-preview-zh,
 body.tl-dark-mode .sw-preview-en { color: var(--tl-text); }
 body.tl-dark-mode .sw-preview-pinyin { color: var(--tl-text-secondary); }
-body.tl-dark-mode .hl-ctrl-btn { background: #20262d; color: var(--tl-text); border-color: var(--tl-border); }
 
 /* Danger Zone: preserve warning semantics without a glaring white/red inversion. */
 body.tl-dark-mode .sw-danger-zone { background: #1d1718; border-color: #56363a; }
@@ -4569,7 +4469,6 @@ body.tl-dark-mode .tl-gate-input::placeholder { color: #7f8993; }
 body.tl-dark-mode .tl-about-content { background: var(--tl-surface); color: var(--tl-text); border: 1px solid var(--tl-border); }
 body.tl-dark-mode .tl-about-backdrop { background: rgba(0,0,0,0.68); }
 body.tl-dark-mode .tl-about-lang-chip { background: var(--tl-nav-bg); }
-body.tl-dark-mode .tl-about-lang-chip-soon { background: transparent; }
 
 /* Chinese + TTS card view. Existing engine-specific selectors remain untouched. */
 body.tl-dark-mode.tl-student-mode #reading-frame { background: var(--tl-bg); color: var(--tl-text); }
@@ -4622,17 +4521,14 @@ body.tl-dark-mode .filter-btn { background: rgba(100,181,246,0.12); color: var(-
 /* Chinese Reading Mode + TTS Reading Mode, including their gear sheets and peek popup. */
 body.tl-dark-mode #tl-reading-mode,
 body.tl-dark-mode #tl-tts-reading-mode { background: var(--tl-bg); color: var(--tl-text); }
-body.tl-dark-mode .tl-rm-row .tl-rm-en { color: var(--tl-text-secondary); }
 body.tl-dark-mode .tl-rm-row.tl-rm-current,
 body.tl-dark-mode .tl-rm-row.tl-tts-rm-current { background: #4c3f66; box-shadow: 0 3px 12px rgba(0,0,0,0.5); }
 body.tl-dark-mode .tl-rm-row.tl-rm-current.tl-rm-looping,
 body.tl-dark-mode .tl-rm-row.tl-tts-rm-current.tl-tts-rm-looping { background: #7157a4; }
 body.tl-dark-mode .tl-rm-row.tl-rm-current .tl-rm-num,
 body.tl-dark-mode .tl-rm-row.tl-rm-current .tl-rm-zh,
-body.tl-dark-mode .tl-rm-row.tl-rm-current .tl-rm-en,
 body.tl-dark-mode .tl-rm-row.tl-tts-rm-current .tl-rm-num,
-body.tl-dark-mode .tl-rm-row.tl-tts-rm-current .tl-rm-zh,
-body.tl-dark-mode .tl-rm-row.tl-tts-rm-current .tl-rm-en { color: #ffffff; }
+body.tl-dark-mode .tl-rm-row.tl-tts-rm-current .tl-rm-zh { color: #ffffff; }
 body.tl-dark-mode .tl-rm-pill-badge,
 body.tl-dark-mode .tl-rm-settings-btn,
 body.tl-dark-mode .tl-rm-pinyin-modal { background: var(--tl-surface); color: var(--tl-text-secondary); }
@@ -5921,6 +5817,21 @@ const IS_ADMIN = (ADMINISTRATOR === 1);
 // root URL with no params is completely unaffected.
 const TL_COURSE_ID = new URLSearchParams(location.search).get('course') || 'chinese_100';
 
+// The app's own folder (where index.html, config.json and data/ live), as an absolute URL.
+// Every data file is loaded relative to it, so the same index.html works on any domain and
+// in any folder: aiopop.com/TingLoop/, bsk54.github.io/tingloop/, a local test server…
+// A plain relative fetch('config.json') would not be enough: on a URL without the trailing
+// slash (…/TingLoop) it would resolve one folder too high. So a last path segment without a
+// dot (no file name like index.html) is treated as the folder itself.
+const TL_BASE = (function () {
+    let path = location.pathname;
+    if (!path.endsWith('/')) {
+        const last = path.slice(path.lastIndexOf('/') + 1);
+        path = last.indexOf('.') !== -1 ? path.slice(0, path.length - last.length) : path + '/';
+    }
+    return new URL(path, location.href).href;
+})();
+
 const TL_ADMIN_PREFIX   = `TingLoop_${TL_COURSE_ID}_`;
 const TL_STUDENT_PREFIX = `TingLoopStudent_${TL_COURSE_ID}_`;
 const TL_PREFIX = IS_ADMIN ? TL_ADMIN_PREFIX : TL_STUDENT_PREFIX;
@@ -6149,7 +6060,7 @@ let tlSuppressUnloadPersist = false;
 
         let rootCfg = null;
         try {
-            const res = await fetch('/TingLoop/config.json', { cache: 'no-store' }); // absolute path — a relative fetch here resolves differently depending on whether the visited URL happened to have a trailing slash, which is exactly the kind of ambiguity that shouldn't determine whether the password gate shows
+            const res = await fetch(TL_BASE + 'config.json', { cache: 'no-store' }); // TL_BASE, not a plain relative path — a relative fetch here resolves differently depending on whether the visited URL happened to have a trailing slash, which is exactly the kind of ambiguity that shouldn't determine whether the password gate shows
             if (res.ok) rootCfg = await res.json();
         } catch (e) {
             console.warn('Ting Loop: could not load root config.json for gate check', e);
@@ -7023,13 +6934,6 @@ applyNeutralButtonStartupPalette();
     const leftButtonBlockHeight = 65 * 4;
     const subtitleDivIds = ['subtitles', 'subtitles-2', 'subtitles-3'];
     
-const backgroundColors = ['rgba(20,20,25,0.92)','rgba(20,20,25,0.92)','rgba(20,20,25,0.92)','rgba(20,20,25,0.92)','rgba(20,20,25,0.92)','rgba(20,20,25,0.92)','rgba(20,20,25,0.92)'];
-
-function updateBackgroundColor(currentIndex) {
-  const settingsWindow = document.getElementById('settingsWindow');
-  const safeIndex = currentIndex % backgroundColors.length;
-  settingsWindow.style.backgroundColor = backgroundColors[safeIndex];
-}
 
 function setNowPlayingTitle(fileNameKey) {
     const base = (fileNameKey || '').split('/').pop();
@@ -7045,72 +6949,6 @@ function setNowPlayingTitle(fileNameKey) {
 }
 
 
-    const settingsContent = [
-    {
-        title: "1. Navigation Buttons",
-        description: "Use + / - to adjust. Press 0 to reset.",
-        buttons: [
-            { id: 'button-plus', text: '+', action: () => adjustButtonPosition(8) },
-            { id: 'button-minus', text: '-', action: () => adjustButtonPosition(-8) },
-            { id: 'button-reset', text: '0', action: () => adjustButtonPosition(0) }
-        ]
-    },
-    {
-        title: "2. SRT1 font size ",
-        description: "Use - and + to adjust. Press 0 to reset.",
-        buttons: [
-            { id: 'fontSize-plus1', text: '+', action: () => adjustFontSize('subtitles', 2) },
-            { id: 'fontSize-minus1', text: '-', action: () => adjustFontSize('subtitles', -2) },
-            { id: 'fontSize-reset1', text: '0', action: () => adjustFontSize('subtitles', 0) }
-        ]
-    },
-    {
-        title: "3. SRT1 position",
-        description: "Use - and + to adjust. Press 0 to reset.",
-        buttons: [
-            { id: 'position-plus1',  text: '+', action: () => adjustSubtitlePosition('subtitles', 5) },
-            { id: 'position-minus1', text: '-', action: () => adjustSubtitlePosition('subtitles', -5) },
-            { id: 'position-reset1', text: '0', action: () => adjustSubtitlePosition('subtitles', 0) }
-        ]
-    },
-    {
-        title: "4. SRT2 font size ",
-        description: "Use - and + to adjust. Press 0 to reset.",
-        buttons: [
-            { id: 'fontSize-plus2', text: '+', action: () => adjustFontSize('subtitles-2', 2) },
-            { id: 'fontSize-minus2', text: '-', action: () => adjustFontSize('subtitles-2', -2) },
-            { id: 'fontSize-reset2', text: '0', action: () => adjustFontSize('subtitles-2', 0) }
-        ]
-    },
-    {
-        title: "5. SRT2 position",
-        description: "Use - and + to adjust. Press 0 to reset.",
-        buttons: [
-        { id:  'position-plus2',  text: '+', action: () => adjustSubtitlePosition('subtitles-2', 5) },
-        { id: 'position-minus2',  text: '-', action: () => adjustSubtitlePosition('subtitles-2', -5) },
-        { id: 'position-reset2',  text: '0', action: () => adjustSubtitlePosition('subtitles-2', 0) }
-        ]
-    },	
-    {
-        title: "6. SRT3 font size",
-        description: "Use - and + to adjust. Press 0 to reset.",
-        buttons: [
-            { id: 'fontSize-plus3', text: '+', action: () => adjustFontSize('subtitles-3', 2) },
-            { id: 'fontSize-minus3', text: '-', action: () => adjustFontSize('subtitles-3', -2) },
-            { id: 'fontSize-reset3', text: '0', action: () => adjustFontSize('subtitles-3', 0) }
-        ]
-    }, 
-    {
-        title: "7. SRT3 position ",
-        description: "Use - and + to adjust. Press 0 to reset.",
-        buttons: [
-        { id:  'position-plus3',  text: '+', action: () => adjustSubtitlePosition('subtitles-3', 5) },
-        { id: 'position-minus3',  text: '-', action: () => adjustSubtitlePosition('subtitles-3', -5) },
-        { id: 'position-reset3',  text: '0', action: () => adjustSubtitlePosition('subtitles-3', 0) }
-        ]
-    } 
-    
-  ];
 
     let currentFontSizeIndex = 0;
     toggleFontBtn.textContent = fontSizes[currentFontSizeIndex];
@@ -7130,7 +6968,6 @@ function setNowPlayingTitle(fileNameKey) {
 	
     let subtitleDelay = 0;
 
-    let currentContentIndex = 0;
 
 
 const videoPlayer = document.getElementById('video-player');
@@ -8524,28 +8361,6 @@ window.addEventListener('resize', adjustYMax);
         }
     }
     
-async function loadAndDisplaySRTUrl(url, subtitlesDiv, showPlecoBtn = false) {
-    try {
-        const resp = await fetch(url, { cache: "no-cache" });
-        if (!resp.ok) throw new Error(`HTTP ${resp.status} for ${url}`);
-
-        const srtText = await resp.text();
-        const subtitles = parseSRT(srtText);
-
-        if (showPlecoBtn) srt1Subtitles = subtitles;
-        if (subtitlesDiv === subtitlesDiv2) srt2Subtitles = subtitles;
-        if (subtitlesDiv === subtitlesDiv3) srt3Subtitles = subtitles;
-        displaySubtitles(video, subtitles, subtitlesDiv, showPlecoBtn ? PlecoButtonDisplay : undefined, showPlecoBtn);
-        return true;
-    } catch (err) {
-        console.error("Subtitle load failed:", url, err);
-        subtitlesDiv.innerHTML = '';
-        if (showPlecoBtn) {
-            PlecoButtonDisplay.innerHTML = '';
-        }
-        return false;
-    }
-}
 
 function loadVideoSource(videoSrcUrl, fileNameKey) {
     video.setAttribute("controls", "controls");
@@ -8662,20 +8477,6 @@ loadHighlights(fileNameKey);
     instructionsDiv.style.display = 'none';
 
     setNowPlayingTitle(fileNameKey);
-}
-
-function enableSubtitleUi() {
-    toggleFontBtn.style.display = '';
-
-    srt1Btn.style.backgroundColor = 'rgba(160, 240, 176, 0.2)';
-    srt1Btn.style.color = 'white';
-    srt2Btn.style.backgroundColor = 'rgba(160, 240, 176, 0.2)';
-    srt2Btn.style.color = 'white';
-    srt3Btn.style.backgroundColor = 'rgba(160, 240, 176, 0.2)';
-    srt3Btn.style.color = 'white';
-
-    settingsWindowBtn.style.backgroundColor = 'rgba(160, 240, 176, 0.2)';
-    settingsWindowBtn.style.color = 'white';
 }
 
 let currentLessonData = null;
@@ -8838,7 +8639,7 @@ function realignSavedLoops() {
 }
 
 async function loadAudioPack(episodeId) {
-    const base = `data/${episodeId}`;
+    const base = `${TL_BASE}data/${episodeId}`;   // same app folder as everything else
     const audioUrl = `${base}.mp3`;
     const jsonUrl = `${base}.json`;
 
@@ -9761,51 +9562,7 @@ function displaySubtitles(video, subtitles, container, PlecoButtonContainer = nu
     }
 }
 
-    function adjustFontSize(subtitleDivId, amount) {
-        let currentFontSize = parseInt(document.getElementById(subtitleDivId).style.fontSize) || 16;
-        if (amount === 0) {
-            currentFontSize = 16;
-        } else {
-            currentFontSize += amount;
-        }
-        document.getElementById(subtitleDivId).style.fontSize = `${currentFontSize}px`;
-        
-        tlSet(subtitleDivId + "-F", currentFontSize);
- 
-    }
 
-    function adjustSubtitlePosition(elementId, change) {
-        let element = document.getElementById(elementId);
-		        let vh = video.getBoundingClientRect().height - 7;
-
-        let currentBottomY = parseInt(window.getComputedStyle(element).bottom, 10);
-      
-        if (change === 0) {
-          switch(elementId) {
-            case 'subtitles':
-                currentBottomY = 110;
-                break;
-            case 'subtitles-2':
-                currentBottomY = 80;
-                break;
-            case 'subtitles-3':
-                currentBottomY = 145;
-            }
-            
-        } else {
-            currentBottomY += change;
-            
-        }
-        
-        if (currentBottomY < 7) {
-          currentBottomY = 7;
-        }
-        
-        element.style.bottom = `${currentBottomY}px`;
-        
-        tlSet(elementId + "-Y", currentBottomY);
-        
-    }
 
 const TL_NAVBTN_SIZE = 78; // matches .tl-filternav-btn's own width/height
 let tlNavBtnOffset = parseInt(tlGet('navBtnOffset'), 10) || 0;
@@ -10019,13 +9776,6 @@ function adjustButtonPosition(change, absolute) {
     document.documentElement.style.setProperty('--y', `${currentY}px`);
 }
 
-function triggerButtonAction(action) {
-    const actionButtons = document.querySelectorAll(`.changeValue-btn[data-action*="${action}"]`);
-    if (actionButtons.length) {
-        actionButtons[0].click();
-    }
-}
-
 let loopResetInFlight = false;
 
 // Cancellation token for the plain-loop pause-resume timer scheduled in
@@ -10220,17 +9970,6 @@ function displayCurrentLoop() {
 }
 
 document.getElementById('sAdd-btn').addEventListener('click', displayCurrentLoop);
-
-function updateLoop() {
-    if (savedLoops.length === 0) {
-        alert("No loops saved.");
-        return;
-    }
-    const safeIndex = currentIndex % savedLoops.length;
-    const aPoint = savedLoops[safeIndex][0];
-    const bPoint = savedLoops[safeIndex][1];
-    ABLoop(aPoint, bPoint);
-}
 
 function nextLoop() {
     if (micState !== 'idle') stopMicAlternation();
@@ -11181,30 +10920,6 @@ function playSavedLoops() {
     playNextLoop();
 }
 
-function updateSettingsWindowContent() {
-    const content = settingsContent[currentContentIndex];
-    const titleElement = document.getElementById('settingsTitle');
-    const descriptionElement = document.getElementById('settingsDescription');
-    const buttonContainer = document.getElementById('buttonContainer');
-    const settingsWindow = document.getElementById('settingsWindow');
-
-    titleElement.innerText = content.title;
-    descriptionElement.innerText = content.description;
-
-    buttonContainer.innerHTML = '';
-    content.buttons.forEach((btn, index) => {
-        const button = document.createElement('button');
-        button.classList.add('changeValue-btn');
-        button.textContent = btn.text;
-        button.setAttribute('data-action', btn.id);
-        button.addEventListener('click', btn.action);
-        buttonContainer.appendChild(button);
-    });
-
-    const colorIndex = currentContentIndex % backgroundColors.length;
-    settingsWindow.style.backgroundColor = backgroundColors[colorIndex];
-}
-
 function buildAndDownloadBackup(scope) {
     if (video.src && video.currentTime > 0) {
         tlSet('lsLastPosition', video.currentTime);
@@ -11705,8 +11420,6 @@ if (!IS_ADMIN && tlShell) {
         openEpisodeMenu(tlPackPill);
     });
     tlHamburgerBtn.addEventListener('click', function() { settingsWindowBtn.click(); });
-    const tlLogoBtn = document.getElementById('tl-logo-btn');
-    if (tlLogoBtn) tlLogoBtn.addEventListener('click', function() { videoBtn.click(); });
 
     const tlSettingsTitle = document.getElementById('settingsWindow-title');
     if (tlSettingsTitle) tlSettingsTitle.textContent = 'Settings';
@@ -12982,7 +12695,7 @@ async function resolveCourseAccess() {
         allowedCourseIds = ['mfr'];
         defaultCourseId = 'mfr';
         try {
-            const res = await fetch('/TingLoop/config.json', { cache: 'no-store' }); // absolute path — a relative fetch here resolves differently depending on whether the visited URL happened to have a trailing slash, which is exactly the kind of ambiguity that shouldn't determine whether the password gate shows
+            const res = await fetch(TL_BASE + 'config.json', { cache: 'no-store' }); // TL_BASE, not a plain relative path — a relative fetch here resolves differently depending on whether the visited URL happened to have a trailing slash, which is exactly the kind of ambiguity that shouldn't determine whether the password gate shows
             if (res.ok) {
                 const rootCfg = await res.json();
                 if (Array.isArray(rootCfg.allowedCourses) && rootCfg.allowedCourses.length) {
@@ -13009,7 +12722,7 @@ async function resolveCourseAccess() {
 
     let courses = [];
     try {
-        const res = await fetch('/TingLoop/data/courses.json', { cache: 'no-store' }); // absolute path, same reasoning as config.json above — a relative fetch here has the same trailing-slash ambiguity
+        const res = await fetch(TL_BASE + 'data/courses.json', { cache: 'no-store' }); // absolute path, same reasoning as config.json above — a relative fetch here has the same trailing-slash ambiguity
         if (res.ok) {
             const manifest = await res.json();
             courses = manifest.courses || [];
@@ -15383,7 +15096,6 @@ function ttsSwitchNotesToVocab() {
     const modal = document.getElementById('tl-notes-modal');
     if (!modal) return;
     document.getElementById('tl-notes-close')?.addEventListener('click', ttsCloseNotesModal);
-    document.getElementById('tl-notes-close-bottom')?.addEventListener('click', ttsCloseNotesModal);
     document.getElementById('tl-notes-backdrop')?.addEventListener('click', ttsCloseNotesModal);
     document.getElementById('tl-notes-prev')?.addEventListener('click', () => ttsNavigateNotesModal(-1));
     document.getElementById('tl-notes-next')?.addEventListener('click', () => ttsNavigateNotesModal(1));
@@ -16247,7 +15959,7 @@ async function loadAndRenderTtsCourse(course, episodeId) {
             packageData = window.TLLab.buildPackage(course.manual_id); // a Manual lives in localStorage, not on the server
             if (!packageData) throw new Error('Manual not found');
         } else {
-            const res = await fetch(`/TingLoop/data/${targetPackage.episode_id}.json`, { cache: 'no-store' }); // absolute path, same trailing-slash-ambiguity reasoning
+            const res = await fetch(`${TL_BASE}data/${targetPackage.episode_id}.json`, { cache: 'no-store' }); // absolute path, same trailing-slash-ambiguity reasoning
             if (!res.ok) throw new Error('HTTP ' + res.status);
             packageData = await res.json();
         }
@@ -16278,7 +15990,7 @@ async function loadAndRenderTtsCourse(course, episodeId) {
             try { ttsActiveVocabByLesson = window.TLLab.buildVocab(course.manual_id) || {}; } catch (e) { ttsActiveVocabByLesson = {}; }
         } else {
             try {
-                const vres = await fetch(`/TingLoop/data/${targetPackage.episode_id}_vocab.json`, { cache: 'no-store' });
+                const vres = await fetch(`${TL_BASE}data/${targetPackage.episode_id}_vocab.json`, { cache: 'no-store' });
                 if (vres.ok) {
                     const vocabData = await vres.json();
                     (vocabData.lessons || []).forEach(l => {
@@ -16300,7 +16012,7 @@ async function loadAndRenderTtsCourse(course, episodeId) {
             try { ttsActiveNotesByLesson = window.TLLab.buildNotes(course.manual_id) || {}; } catch (e) { ttsActiveNotesByLesson = {}; }
         } else {
             try {
-                const nres = await fetch(`/TingLoop/data/${targetPackage.episode_id}_notes.json`, { cache: 'no-store' });
+                const nres = await fetch(`${TL_BASE}data/${targetPackage.episode_id}_notes.json`, { cache: 'no-store' });
                 if (nres.ok) {
                     const notesData = await nres.json();
                     (notesData.lessons || []).forEach(l => {
