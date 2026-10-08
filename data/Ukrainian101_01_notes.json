@@ -1,0 +1,1222 @@
+{
+  "course_id": "ukrainian_101",
+  "format": "Notes per lesson. lines = line ids in Ukrainian101_01.json (empty = lesson note). text supports **bold** and *italic* only.",
+  "lessons": [
+    {
+      "lesson": 1,
+      "notes": [
+        {
+          "lines": [
+            4,
+            6
+          ],
+          "title": "У мене все добре. / А в тебе?",
+          "text": {
+            "en": "The present tense of “to be” is often left out: *“With me, everything [is] fine.”* **У** and **в** often alternate to make speech flow, so **у мене** and **в тебе** have the same function. **я** and **ти** appear as **мене** and **тебе**. Learn both as chunks."
+          }
+        },
+        {
+          "lines": [
+            8
+          ],
+          "title": "Радий тебе бачити.",
+          "text": {
+            "en": "A woman says **рада**: **Рада тебе бачити.**"
+          }
+        },
+        {
+          "lines": [
+            9,
+            10
+          ],
+          "title": "До зустрічі! / До завтра!",
+          "text": {
+            "en": "**до** means *“until”* in farewells. The following word may change form. Learn both as fixed expressions."
+          }
+        },
+        {
+          "lines": [],
+          "title": "Stress and vowels",
+          "text": {
+            "en": "Stress is not predictable, so the transcription marks it: *Pryvít*, *správy*, *dóbre*. Learn it with the word. **и** and **і** are different vowels: **і** is a clear i, while **и** is more central and less sharp. The transcription writes **и** as *y* and **і** as *i*. Before or after a vowel, *y* is the y in *“yes”*: *Yak*, *Diákuyu*."
+          }
+        }
+      ]
+    },
+    {
+      "lesson": 2,
+      "notes": [
+        {
+          "lines": [
+            9
+          ],
+          "title": "Я не проти.",
+          "text": {
+            "en": "**не** is the basic negative word. It goes directly before the word it negates."
+          }
+        },
+        {
+          "lines": [
+            4
+          ],
+          "title": "Вибач, будь ласка.",
+          "text": {
+            "en": "**Вибач** means *“sorry / excuse me”* to one person, informally; to a stranger, say **Вибачте**. **Будь ласка** is best learned as a fixed expression: *“please / you’re welcome”*."
+          }
+        },
+        {
+          "lines": [
+            5
+          ],
+          "title": "Нічого страшного.",
+          "text": {
+            "en": "**г** sounds like a voiced, breathy h, not like g in *“go”*: *nichóho*, *stráshnoho*."
+          }
+        },
+        {
+          "lines": [
+            11
+          ],
+          "title": "Без проблем.",
+          "text": {
+            "en": "After **без** *“without”*, the following word can change form. For now, recognize **без проблем** as a useful model."
+          }
+        }
+      ]
+    },
+    {
+      "lesson": 3,
+      "notes": [
+        {
+          "lines": [
+            3,
+            4
+          ],
+          "title": "Повтори, будь ласка. / Говори трохи повільніше.",
+          "text": {
+            "en": "These are informal requests to one person, called imperatives. Learn the complete forms at first. With these verbs, the polite/plural forms are **Повторіть** and **Говоріть**."
+          }
+        },
+        {
+          "lines": [
+            11
+          ],
+          "title": "Можеш показати?",
+          "text": {
+            "en": "After **можеш** *“you can”*, the second verb stays in the infinitive: **показати** *“to show”*. Modal verb + infinitive is a very useful pattern."
+          }
+        },
+        {
+          "lines": [
+            8,
+            9
+          ],
+          "title": "Я забув це слово. / Тепер зрозумів.",
+          "text": {
+            "en": "**забув** and **зрозумів** are past forms used by a man. Singular past forms change with gender: a woman says **забула**, **зрозуміла**."
+          }
+        }
+      ]
+    },
+    {
+      "lesson": 4,
+      "notes": [
+        {
+          "lines": [
+            2,
+            3
+          ],
+          "title": "Як тебе звати? / Мене звати Марко.",
+          "text": {
+            "en": "This is the normal Ukrainian way to ask and give a name. Notice **тебе** and **мене**, not the basic forms **ти** and **я**. For now, learn **тебе звати / мене звати** as a pattern."
+          }
+        },
+        {
+          "lines": [
+            6,
+            7
+          ],
+          "title": "Це моя подруга. / Це мій друг.",
+          "text": {
+            "en": "Words for *“my”* change with the noun: **моя** with feminine **подруга**, **мій** with masculine **друг**. Ukrainian will show this kind of matching again and again."
+          }
+        },
+        {
+          "lines": [
+            10,
+            11
+          ],
+          "title": "бачимося / познайомитися",
+          "text": {
+            "en": "Many Ukrainian verbs end in **-ся**. Here **бачимося** means *“we see each other”* and **познайомитися** means *“to get acquainted / meet”*. For now, learn each verb as a whole."
+          }
+        }
+      ]
+    },
+    {
+      "lesson": 5,
+      "notes": [
+        {
+          "lines": [
+            5,
+            6,
+            10
+          ],
+          "title": "З якого ти міста? / від Києва / від України",
+          "text": {
+            "en": "After words such as **з** *“from”* and **від** *“from / away from”*, nouns can change their endings: **місто → міста**, **Київ → Києва**, **Україна → України**. The foreign place name **Кальярі** in **в Кальярі** does not change."
+          }
+        },
+        {
+          "lines": [
+            7
+          ],
+          "title": "Твоє місто велике?",
+          "text": {
+            "en": "**місто** is a neuter noun, so **твоє** *“your”* and **велике** *“big”* take matching neuter forms."
+          }
+        },
+        {
+          "lines": [
+            9
+          ],
+          "title": "Тобі тут подобається?",
+          "text": {
+            "en": "Ukrainian builds *“Do you like it here?”* differently from English: **тобі** is literally *“to you”*. Learn **тобі подобається** as a useful chunk for now."
+          }
+        },
+        {
+          "lines": [
+            11
+          ],
+          "title": "Я ніколи там не був.",
+          "text": {
+            "en": "**був** is the masculine past form of *“to be”*. A woman says **Я ніколи там не була.**"
+          }
+        },
+        {
+          "lines": [
+            11
+          ],
+          "title": "був",
+          "text": {
+            "en": "At the end of a syllable, Ukrainian **в** is often pronounced with a short w-like sound rather than a strong English v. You can hear this in **був**."
+          }
+        }
+      ]
+    },
+    {
+      "lesson": 6,
+      "notes": [
+        {
+          "lines": [
+            2,
+            3
+          ],
+          "title": "говориш / говорю",
+          "text": {
+            "en": "Verb endings show who is acting: **говориш** means *“you speak”*, while **говорю** means *“I speak”*. Because the ending carries this information, Ukrainian can often leave out the pronoun."
+          }
+        },
+        {
+          "lines": [
+            2,
+            3,
+            9,
+            10
+          ],
+          "title": "італійською / українською",
+          "text": {
+            "en": "With languages, Ukrainian often uses a changed form ending in **-ською** here: **італійською**, **українською**. Learn these forms with the expressions **говорити українською** and **сказати італійською**."
+          }
+        },
+        {
+          "lines": [
+            11
+          ],
+          "title": "Мені треба більше практикуватися.",
+          "text": {
+            "en": "**мені треба + infinitive** is a very useful pattern meaning *“I need to / I have to …”*: **мені треба практикуватися** *“I need to practise”*."
+          }
+        }
+      ]
+    },
+    {
+      "lesson": 7,
+      "notes": [
+        {
+          "lines": [
+            2,
+            3,
+            4,
+            5
+          ],
+          "title": "У тебе є… / У мене є…",
+          "text": {
+            "en": "This is a basic Ukrainian way to express possession: **У мене є сестра** *“I have a sister”*, literally roughly *“with me there is a sister.”*"
+          }
+        },
+        {
+          "lines": [
+            3
+          ],
+          "title": "двоє дітей",
+          "text": {
+            "en": "After some quantity words, the noun changes form. Compare **діти** *“children”* with **двоє дітей** *“two children”*. Learn the whole expression for now."
+          }
+        },
+        {
+          "lines": [
+            10
+          ],
+          "title": "Передавай їм привіт.",
+          "text": {
+            "en": "**їм** means *“to them”*. Ukrainian uses changed pronoun forms to show who receives something: here, the greeting is passed **to them**."
+          }
+        },
+        {
+          "lines": [
+            2,
+            4,
+            5
+          ],
+          "title": "є",
+          "text": {
+            "en": "At the beginning of a word, **є** is pronounced *ye*, as shown in the transcription. Here **є** also means *“there is / there are”* inside the possession pattern **у мене є…**."
+          }
+        }
+      ]
+    },
+    {
+      "lesson": 8,
+      "notes": [
+        {
+          "lines": [
+            2,
+            5,
+            6,
+            7,
+            10
+          ],
+          "title": "минув / втомився / був / працював / були",
+          "text": {
+            "en": "The past tense changes with gender and number. These masculine forms include **минув**, **втомився**, **був**, **працював**; plural **вихідні** takes **були**. A woman would say **втомилася**, **була**, **працювала**."
+          }
+        },
+        {
+          "lines": [
+            4
+          ],
+          "title": "Було багато справ.",
+          "text": {
+            "en": "After **багато** *“a lot of / many”*, the following noun changes form: **справи → справ**. This same pattern will return with many other nouns."
+          }
+        },
+        {
+          "lines": [
+            9
+          ],
+          "title": "Було щось цікаве?",
+          "text": {
+            "en": "**було** is the neuter past form of *“to be”*. Ukrainian often uses neuter **було** in impersonal expressions such as *“Was there anything interesting?”*"
+          }
+        }
+      ]
+    },
+    {
+      "lesson": 9,
+      "notes": [
+        {
+          "lines": [
+            7
+          ],
+          "title": "Завтра я працюю.",
+          "text": {
+            "en": "A present-tense verb can describe a planned future action when the time is clear: **Завтра я працюю** literally uses *“I work”*, but means *“I’m working tomorrow.”*"
+          }
+        },
+        {
+          "lines": [
+            4,
+            9,
+            11
+          ],
+          "title": "піду / побачимось / напишу",
+          "text": {
+            "en": "Ukrainian can also express a future action in a single verb: **піду** *“I’ll go”*, **побачимось** *“we’ll see each other”*, **напишу** *“I’ll write”*. We will return to how these verbs work later."
+          }
+        },
+        {
+          "lines": [
+            11
+          ],
+          "title": "Напишу тобі пізніше.",
+          "text": {
+            "en": "**тобі** means *“to you”*. As with **їм** in Lesson 7, the changed pronoun shows the recipient of the action."
+          }
+        }
+      ]
+    },
+    {
+      "lesson": 10,
+      "notes": [
+        {
+          "lines": [
+            3,
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "title": "п'ю / обідаю / відпочиваю / гуляю",
+          "text": {
+            "en": "In a routine, Ukrainian often leaves out **я** because the verb ending already means *“I”*: **п'ю**, **обідаю**, **відпочиваю**, **гуляю**."
+          }
+        },
+        {
+          "lines": [
+            4
+          ],
+          "title": "на роботу",
+          "text": {
+            "en": "With movement toward a destination, the noun can change form: **робота → на роботу** *“to work”*. We will give this change its grammatical name later."
+          }
+        },
+        {
+          "lines": [
+            5,
+            6
+          ],
+          "title": "близько першої / після обіду",
+          "text": {
+            "en": "After **близько** *“around”* and **після** *“after”*, the following word changes form: **першої**, **обіду**. These are examples of a pattern you have already seen after other small words."
+          }
+        },
+        {
+          "lines": [
+            3
+          ],
+          "title": "п'ю",
+          "text": {
+            "en": "The apostrophe keeps the consonant separate from the following **ю**. In **п'ю**, the transcription *pyu* shows the y-sound clearly."
+          }
+        }
+      ]
+    },
+    {
+      "lesson": 11,
+      "notes": [
+        {
+          "lines": [
+            2,
+            3,
+            4,
+            5,
+            11
+          ],
+          "title": "Котра година? / о третій / о п'ятій",
+          "text": {
+            "en": "Clock time uses special forms. **Котра година?** asks *“What time is it?”*; after **о** *“at”*, the hour appears as **третій**, **п'ятій**, and so on."
+          }
+        },
+        {
+          "lines": [
+            7,
+            8
+          ],
+          "title": "буду / запізнюся",
+          "text": {
+            "en": "Ukrainian has more than one way to talk about the future. **буду** is the future of *“to be”*, while **запізнюся** expresses *“I’ll be late”* in one word."
+          }
+        },
+        {
+          "lines": [
+            9
+          ],
+          "title": "Не поспішай.",
+          "text": {
+            "en": "A negative command is simply **не + imperative**: **Не поспішай** *“Don’t rush.”*"
+          }
+        }
+      ]
+    },
+    {
+      "lesson": 12,
+      "notes": [
+        {
+          "lines": [
+            2,
+            4,
+            5,
+            6,
+            9
+          ],
+          "title": "кави / чаю / води / без цукру",
+          "text": {
+            "en": "These are examples of the **genitive case**. It appears after **без** *“without”* and often with an unspecified amount of food or drink: **кави**, **чаю**, **води**, **без цукру**. You have already met the same case in **до зустрічі** (Lesson 1), **без проблем** (Lesson 2), **багато справ** (Lesson 8), and **після обіду** (Lesson 10)."
+          }
+        },
+        {
+          "lines": [
+            8
+          ],
+          "title": "з цукром",
+          "text": {
+            "en": "**цукром** is the **instrumental case** after **з** meaning *“with”*: **з цукром** *“with sugar”*. The language forms **італійською / українською** in Lesson 6 are also instrumental."
+          }
+        },
+        {
+          "lines": [
+            10
+          ],
+          "title": "Ще одну каву?",
+          "text": {
+            "en": "A feminine direct object changes form: **одна кава → одну каву**. We will give this form its case name in Lesson 15."
+          }
+        },
+        {
+          "lines": [
+            11
+          ],
+          "title": "Ні, мені досить.",
+          "text": {
+            "en": "**мені** literally means *“to me”*. Ukrainian often uses this kind of form for personal states and judgements: **мені досить** *“that’s enough for me.”*"
+          }
+        }
+      ]
+    },
+    {
+      "lesson": 13,
+      "notes": [
+        {
+          "lines": [
+            2
+          ],
+          "title": "Ти вже снідала?",
+          "text": {
+            "en": "**снідала** is a feminine past form because the person being addressed is a woman. A man would say **Ти вже снідав?**"
+          }
+        },
+        {
+          "lines": [
+            10,
+            11
+          ],
+          "title": "будемо вечеряти / поїм",
+          "text": {
+            "en": "Two future patterns appear together. **будемо вечеряти** uses future **бути + infinitive** and presents the activity without focusing on its completion; **поїм** expresses a future action in one word."
+          }
+        },
+        {
+          "lines": [
+            4
+          ],
+          "title": "Що приготуємо на обід?",
+          "text": {
+            "en": "**приготуємо** means *“we’ll prepare / shall we make”*. Like **напишу** and **піду** in Lesson 9, it presents the future action as a whole."
+          }
+        },
+        {
+          "lines": [
+            5
+          ],
+          "title": "Смачного!",
+          "text": {
+            "en": "**Смачного!** is a fixed wish meaning *“Enjoy your meal!”* The changed ending is part of a common Ukrainian pattern used in wishes; you will see it again in Lesson 30."
+          }
+        }
+      ]
+    },
+    {
+      "lesson": 14,
+      "notes": [
+        {
+          "lines": [
+            2,
+            9,
+            3
+          ],
+          "title": "подобається / люблю",
+          "text": {
+            "en": "Ukrainian has two common ways to express liking. **Я люблю піцу** works much like *“I like/love pizza”*. With **подобається**, the person appears in a form like **тобі / мені**: **Тобі подобається паста?**"
+          }
+        },
+        {
+          "lines": [
+            4,
+            5
+          ],
+          "title": "вмієш варити / хочу спробувати",
+          "text": {
+            "en": "After verbs such as **вмієш** *“you know how”* and **хочу** *“I want”*, the next verb is an infinitive: **варити**, **спробувати**."
+          }
+        },
+        {
+          "lines": [
+            6,
+            7
+          ],
+          "title": "українська страва / сардинська страва",
+          "text": {
+            "en": "Adjectives change to match the noun. **страва** is feminine, so the adjectives appear as **українська**, **типова**, **сардинська**."
+          }
+        },
+        {
+          "lines": [
+            10,
+            11
+          ],
+          "title": "Це гостре. / Це ніжне.",
+          "text": {
+            "en": "With **це** *“this / it”*, descriptive adjectives often appear in the neuter form: **гостре**, **ніжне**."
+          }
+        }
+      ]
+    },
+    {
+      "lesson": 15,
+      "notes": [
+        {
+          "lines": [
+            9
+          ],
+          "title": "оливкову олію",
+          "text": {
+            "en": "**оливкову олію** is in the **accusative case**, used here for a direct object. Compare earlier **на роботу** (Lesson 10), **одну каву** (Lesson 12), and **піцу** (Lesson 14): feminine words often show the change clearly."
+          }
+        },
+        {
+          "lines": [
+            8
+          ],
+          "title": "Мені потрібен сир.",
+          "text": {
+            "en": "**мені** is the **dative case**, often used for the person who experiences, needs, receives, or is affected by something. You have already seen it in **тобі подобається** (Lesson 5), **мені треба** (Lesson 6), **їм** (Lesson 7), and **тобі** in Lesson 9."
+          }
+        },
+        {
+          "lines": [
+            2
+          ],
+          "title": "Треба купити хліб.",
+          "text": {
+            "en": "**треба + infinitive** expresses necessity without naming a subject: **Треба купити** *“We need to buy / It is necessary to buy.”*"
+          }
+        },
+        {
+          "lines": [
+            4
+          ],
+          "title": "трохи фруктів",
+          "text": {
+            "en": "After **трохи** *“a little / some”*, Ukrainian uses the genitive: **фрукти → фруктів**. This extends the genitive pattern named in Lesson 12."
+          }
+        }
+      ]
+    },
+    {
+      "lesson": 16,
+      "notes": [
+        {
+          "lines": [
+            6,
+            9,
+            10,
+            7
+          ],
+          "title": "дорогі / нормальна / хороша / подорожчала",
+          "text": {
+            "en": "Ukrainian **agreement** means that related words change to match gender or number. You have already seen **мій / моя** (Lesson 4), **твоє місто** (Lesson 5), and gendered past forms. Here **дорогі** is plural, **нормальна / хороша** are feminine, and **подорожчала** is feminine because **кава** is feminine."
+          }
+        },
+        {
+          "lines": [
+            3,
+            5,
+            8
+          ],
+          "title": "дешевше / дорожче",
+          "text": {
+            "en": "Comparatives often use forms in **-ше / -іше**: **дешевше** *“cheaper”*, **дорожче** *“more expensive”*. You have already seen **повільніше** *“more slowly”* in Lesson 3."
+          }
+        },
+        {
+          "lines": [
+            4
+          ],
+          "title": "Ціни знову виросли.",
+          "text": {
+            "en": "**виросли** is a plural past form because **ціни** *“prices”* is plural. Past verbs agree with a singular subject’s gender or with a plural subject’s number."
+          }
+        }
+      ]
+    },
+    {
+      "lesson": 17,
+      "notes": [
+        {
+          "lines": [
+            3,
+            5,
+            8
+          ],
+          "title": "тепло / хмарно / прохолодно",
+          "text": {
+            "en": "Weather is often described impersonally, with no present-tense *“is”* and no equivalent of English *“it”*: **Сьогодні тепло**, **хмарно**, **прохолодно**."
+          }
+        },
+        {
+          "lines": [
+            6,
+            11
+          ],
+          "title": "буде дощ / буде краще",
+          "text": {
+            "en": "**буде** means *“will be”*. It is common in weather expressions: **буде дощ** *“there will be rain / it will rain”*, **буде краще** *“it will be better.”*"
+          }
+        },
+        {
+          "lines": [
+            10,
+            11
+          ],
+          "title": "тепліше / краще",
+          "text": {
+            "en": "These are comparative forms: **тепліше** *“warmer”*, **краще** *“better”*. They follow the same broad comparative pattern seen with **дешевше** in Lesson 16."
+          }
+        }
+      ]
+    },
+    {
+      "lesson": 18,
+      "notes": [
+        {
+          "lines": [
+            10,
+            11
+          ],
+          "title": "на сонці / в тіні",
+          "text": {
+            "en": "These are examples of the **locative case**, used after certain prepositions to say where something is: **на сонці** *“in the sun”*, **в тіні** *“in the shade”*. You met the same location idea in **живу в Кальярі** (Lesson 5), although the indeclinable name **Кальярі** itself does not change."
+          }
+        },
+        {
+          "lines": [
+            5
+          ],
+          "title": "Уночі було спекотно.",
+          "text": {
+            "en": "Past impersonal descriptions often use neuter **було**: **було спекотно** *“it was hot.”* Compare **Було багато справ** in Lesson 8."
+          }
+        },
+        {
+          "lines": [
+            6
+          ],
+          "title": "Пий більше води.",
+          "text": {
+            "en": "**Пий** is an imperative: *“Drink.”* After **більше** *“more”*, **вода** appears as genitive **води**."
+          }
+        },
+        {
+          "lines": [
+            8
+          ],
+          "title": "Увімкнути кондиціонер?",
+          "text": {
+            "en": "A bare infinitive can work as a short conversational offer or suggestion: **Увімкнути кондиціонер?** roughly *“Shall I turn on the air conditioner?”*"
+          }
+        }
+      ]
+    },
+    {
+      "lesson": 19,
+      "notes": [
+        {
+          "lines": [
+            4
+          ],
+          "title": "Ходімо на пляж?",
+          "text": {
+            "en": "**Ходімо** is a useful *“let’s go”* form that includes both speaker and listener."
+          }
+        },
+        {
+          "lines": [
+            7
+          ],
+          "title": "Ти будеш плавати?",
+          "text": {
+            "en": "**будеш + infinitive** forms a future for an ongoing activity: **будеш плавати** *“will you swim / are you going to swim?”*"
+          }
+        },
+        {
+          "lines": [
+            8
+          ],
+          "title": "Не забудь рушник.",
+          "text": {
+            "en": "As in Lesson 11, a negative command is **не + imperative**: **Не забудь** *“Don’t forget.”*"
+          }
+        },
+        {
+          "lines": [
+            4,
+            10
+          ],
+          "title": "на пляж / на сонці",
+          "text": {
+            "en": "Compare movement **на пляж** *“to the beach”* with location **на сонці** *“in the sun”* from Lesson 18. The same preposition **на** can use different cases depending on whether the meaning is destination or location."
+          }
+        }
+      ]
+    },
+    {
+      "lesson": 20,
+      "notes": [
+        {
+          "lines": [],
+          "title": "The case system",
+          "text": {
+            "en": "The ending changes you have been seeing are not random: Ukrainian uses **cases** to show a word’s role in the sentence. So far you have named the **genitive** and **instrumental** (Lesson 12), the **accusative** and **dative** (Lesson 15), and the **locative** (Lesson 18). The unchanged dictionary form is usually the **nominative**. You do not need full case tables yet."
+          }
+        },
+        {
+          "lines": [
+            6,
+            10
+          ],
+          "title": "багато гарних місць / багато туристів",
+          "text": {
+            "en": "After **багато**, Ukrainian uses the genitive. In **багато гарних місць**, the adjective changes too: **гарних** matches genitive plural **місць**."
+          }
+        },
+        {
+          "lines": [
+            9
+          ],
+          "title": "Тут люблять довгі обіди.",
+          "text": {
+            "en": "A third-person plural verb can be used without saying who *“they”* are: **Тут люблять…** means roughly *“People here like…”*."
+          }
+        },
+        {
+          "lines": [
+            11
+          ],
+          "title": "Я покажу тобі місто.",
+          "text": {
+            "en": "**тобі** is dative, marking the recipient: *“I’ll show **you** the city.”*"
+          }
+        }
+      ]
+    },
+    {
+      "lesson": 21,
+      "notes": [
+        {
+          "lines": [
+            2,
+            8
+          ],
+          "title": "йдеш / їде",
+          "text": {
+            "en": "Ukrainian distinguishes movement on foot from movement by vehicle. **йти** means to go on foot; **їхати** means to go by transport. Compare earlier **іду** (Lesson 10) and **піду** (Lesson 9)."
+          }
+        },
+        {
+          "lines": [
+            3,
+            4
+          ],
+          "title": "автобусом / на машині",
+          "text": {
+            "en": "Two common transport patterns appear here. **автобусом** is instrumental: *“by bus”*. **на машині** literally uses a location form and means *“by car / in the car.”*"
+          }
+        },
+        {
+          "lines": [
+            7
+          ],
+          "title": "Можна дійти пішки.",
+          "text": {
+            "en": "**можна + infinitive** means *“one can / it is possible to …”*: **Можна дійти пішки** *“You can walk there.”*"
+          }
+        },
+        {
+          "lines": [
+            10,
+            11
+          ],
+          "title": "приїдемо / підвезу",
+          "text": {
+            "en": "These verbs describe completed movement events in the future: **приїдемо** *“we’ll arrive”*, **підвезу** *“I’ll give you a ride.”*"
+          }
+        },
+        {
+          "lines": [
+            3,
+            8
+          ],
+          "title": "ї",
+          "text": {
+            "en": "The letter **ї** includes a y-sound: at the start of a word, **їде** is transcribed *yíde*; after a vowel, as in **поїду**, the y-sound is also heard: *poyídu*."
+          }
+        }
+      ]
+    },
+    {
+      "lesson": 22,
+      "notes": [
+        {
+          "lines": [
+            2,
+            5
+          ],
+          "title": "багато машин / немає місця",
+          "text": {
+            "en": "Both **багато** *“many / a lot of”* and **немає** *“there is no / there are no”* are followed by the genitive: **машин**, **місця**."
+          }
+        },
+        {
+          "lines": [
+            4,
+            7
+          ],
+          "title": "можна / не можна",
+          "text": {
+            "en": "**можна** means something is possible or permitted; **не можна** means it is not possible or not allowed: **Тут не можна паркуватися** *“You can’t park here.”*"
+          }
+        },
+        {
+          "lines": [
+            11
+          ],
+          "title": "Знайти місце важко.",
+          "text": {
+            "en": "An infinitive phrase can act like the subject of a sentence: literally *“To find a place is difficult.”*"
+          }
+        }
+      ]
+    },
+    {
+      "lesson": 23,
+      "notes": [
+        {
+          "lines": [
+            2
+          ],
+          "title": "найближчий",
+          "text": {
+            "en": "The prefix **най-** forms the superlative: **ближчий** *“closer”* → **найближчий** *“closest / nearest.”*"
+          }
+        },
+        {
+          "lines": [
+            4
+          ],
+          "title": "в кав'ярню",
+          "text": {
+            "en": "Movement toward a destination uses the accusative after **в** here: **кав'ярня → в кав'ярню** *“to the café.”*"
+          }
+        },
+        {
+          "lines": [
+            7
+          ],
+          "title": "сюди ходжу",
+          "text": {
+            "en": "**ходжу** is used for repeated or habitual movement: **Я часто сюди ходжу** *“I come/go here often.”* Compare one-direction **йдеш / іду** in Lessons 21 and 10."
+          }
+        },
+        {
+          "lines": [
+            10
+          ],
+          "title": "Ринок уже закритий.",
+          "text": {
+            "en": "**закритий** *“closed”* behaves like an adjective and agrees with masculine **ринок**."
+          }
+        }
+      ]
+    },
+    {
+      "lesson": 24,
+      "notes": [
+        {
+          "lines": [
+            4
+          ],
+          "title": "У мене болить голова.",
+          "text": {
+            "en": "Ukrainian structures this literally as *“With me, the head hurts.”* **голова** is the thing that hurts, while **у мене** identifies the person affected."
+          }
+        },
+        {
+          "lines": [
+            6
+          ],
+          "title": "Мені вже краще.",
+          "text": {
+            "en": "The dative is common for personal states: **мені краще** literally means roughly *“to me, [it is] better.”*"
+          }
+        },
+        {
+          "lines": [
+            7,
+            8
+          ],
+          "title": "відпочинь / випий",
+          "text": {
+            "en": "These imperatives present the action as one completed act: **відпочинь** *“have a rest”*, **випий** *“drink / have some.”* This contrast will become part of the aspect system in Lesson 26."
+          }
+        },
+        {
+          "lines": [
+            9
+          ],
+          "title": "без сил",
+          "text": {
+            "en": "After **без**, use the genitive: **сили → без сил** *“without strength / out of energy.”*"
+          }
+        }
+      ]
+    },
+    {
+      "lesson": 25,
+      "notes": [
+        {
+          "lines": [
+            4
+          ],
+          "title": "Тобі потрібні ліки?",
+          "text": {
+            "en": "**тобі** is dative for the person who needs something. **потрібні** is plural because it matches plural **ліки** *“medicine(s).”*"
+          }
+        },
+        {
+          "lines": [
+            5,
+            6
+          ],
+          "title": "у фармацевта / лікарю",
+          "text": {
+            "en": "In **спитай у фармацевта**, **у + genitive** identifies the person you ask. In **подзвонити лікарю**, the doctor is the recipient, so **лікарю** is dative."
+          }
+        },
+        {
+          "lines": [
+            11
+          ],
+          "title": "Бережи себе.",
+          "text": {
+            "en": "**себе** is the reflexive pronoun *“oneself”*. Its English form depends on the subject; here **Бережи себе** means *“Take care of yourself.”*"
+          }
+        }
+      ]
+    },
+    {
+      "lesson": 26,
+      "notes": [
+        {
+          "lines": [
+            5
+          ],
+          "title": "Це можна не робити.",
+          "text": {
+            "en": "**можна не + infinitive** means *“you don’t have to / it isn’t necessary to …”*: **Це можна не робити** *“You needn’t do this.”*"
+          }
+        },
+        {
+          "lines": [
+            5,
+            7,
+            9
+          ],
+          "title": "робити / зроби / зроблю",
+          "text": {
+            "en": "This is a good point to name Ukrainian **verbal aspect**. **робити** is imperfective and presents the activity as ongoing or general; **зробити** is perfective and presents it as a completed whole. **зроби** *“do it”* and **зроблю** *“I’ll do it”* come from the perfective verb. Earlier single-word futures such as **напишу** (Lesson 9) and **приготуємо** (Lesson 13) follow the same perfective idea."
+          }
+        },
+        {
+          "lines": [
+            10
+          ],
+          "title": "Якщо треба, скажи.",
+          "text": {
+            "en": "**якщо** introduces a condition: *“if”*. Ukrainian can use ordinary verb forms after it; there is no special subjunctive form here."
+          }
+        },
+        {
+          "lines": [
+            7
+          ],
+          "title": "невелику перерву",
+          "text": {
+            "en": "This is accusative: feminine **невелика перерва** becomes **невелику перерву** as the direct object of **зроби**."
+          }
+        }
+      ]
+    },
+    {
+      "lesson": 27,
+      "notes": [
+        {
+          "lines": [
+            2
+          ],
+          "title": "Що робитимеш у вихідні?",
+          "text": {
+            "en": "**робитимеш** is the synthetic imperfective future: Ukrainian can build the future directly onto an imperfective verb, here *“what will you be doing?”*"
+          }
+        },
+        {
+          "lines": [
+            6
+          ],
+          "title": "з друзями",
+          "text": {
+            "en": "After **з** meaning *“with”*, use the instrumental: **друзі → з друзями** *“with friends.”*"
+          }
+        },
+        {
+          "lines": [
+            7,
+            10
+          ],
+          "title": "у неділю / у суботу",
+          "text": {
+            "en": "Days of the week used for *“on Sunday / on Saturday”* appear in the accusative: **неділя → неділю**, **субота → суботу**."
+          }
+        },
+        {
+          "lines": [
+            8
+          ],
+          "title": "Якщо буде гарна погода.",
+          "text": {
+            "en": "After **якщо** *“if”*, Ukrainian can use an ordinary future form: **якщо буде…** literally *“if there will be…”*."
+          }
+        }
+      ]
+    },
+    {
+      "lesson": 28,
+      "notes": [
+        {
+          "lines": [
+            4,
+            9,
+            10
+          ],
+          "title": "Заходь / не принось / приходь",
+          "text": {
+            "en": "These are familiar singular imperatives. The negative form is **не + imperative**: **Нічого не принось** *“Don’t bring anything.”*"
+          }
+        },
+        {
+          "lines": [
+            6
+          ],
+          "title": "Коли тобі зручно?",
+          "text": {
+            "en": "The dative again marks the person experiencing a state: **тобі зручно** means roughly *“it is convenient for you.”*"
+          }
+        },
+        {
+          "lines": [
+            10
+          ],
+          "title": "близько восьмої",
+          "text": {
+            "en": "With approximate clock time, **близько** takes the genitive: **близько восьмої** *“around eight.”*"
+          }
+        }
+      ]
+    },
+    {
+      "lesson": 29,
+      "notes": [
+        {
+          "lines": [
+            5
+          ],
+          "title": "Напиши, коли зможеш.",
+          "text": {
+            "en": "**коли** introduces a subordinate clause. Ukrainian naturally uses future **зможеш** *“you will be able”* where English often says simply *“when you can.”*"
+          }
+        },
+        {
+          "lines": [
+            6
+          ],
+          "title": "Плани трохи змінилися.",
+          "text": {
+            "en": "Here **-ся** helps express that the plans themselves changed, without naming someone who changed them. This is another use of the **-ся** ending first noticed in Lesson 4."
+          }
+        },
+        {
+          "lines": [
+            9
+          ],
+          "title": "Сьогодні не вийде.",
+          "text": {
+            "en": "This is a very common impersonal expression meaning *“It won’t work / I can’t make it today.”* Learn **не вийде** as a conversational chunk."
+          }
+        },
+        {
+          "lines": [
+            10
+          ],
+          "title": "Я дам тобі знати пізніше.",
+          "text": {
+            "en": "**дати знати** literally means *“to give to know”*, but the natural meaning is *“to let someone know.”* **тобі** is dative: *“I’ll let you know later.”*"
+          }
+        }
+      ]
+    },
+    {
+      "lesson": 30,
+      "notes": [
+        {
+          "lines": [
+            2
+          ],
+          "title": "Мені вже треба йти.",
+          "text": {
+            "en": "This brings back an essential pattern: **dative + треба + infinitive**. **Мені треба йти** means *“I need / have to go.”*"
+          }
+        },
+        {
+          "lines": [
+            5
+          ],
+          "title": "у п'ятницю",
+          "text": {
+            "en": "As in Lesson 27, a day used for *“on Friday”* appears in the accusative: **п'ятниця → у п'ятницю**."
+          }
+        },
+        {
+          "lines": [
+            8,
+            9
+          ],
+          "title": "Гарного вечора! / Гарних вихідних!",
+          "text": {
+            "en": "Good wishes often use the genitive with the verb *“wish”* left unstated: literally roughly *“[I wish you] a good evening / good weekend.”*"
+          }
+        },
+        {
+          "lines": [
+            11
+          ],
+          "title": "До скорої зустрічі!",
+          "text": {
+            "en": "After **до**, both the adjective and noun appear in the genitive: **скора зустріч → до скорої зустрічі**. This completes the farewell pattern first introduced in Lesson 1."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,219 @@
+{
+  "course_id": "spanish_101",
+  "course_title": "Spanish — with Chinese, Italian, and German translations",
+  "playback": {
+    "mode": "tts",
+    "tts_lang": "es-ES",
+    "voice_hint": "es-ES-Standard"
+  },
+  "transliteration": null,
+  "translations": ["zh", "it", "de"],
+  "lessons": [
+    {
+      "lesson": 1,
+      "title_native": "1",
+      "source_file": "Spanish01.srt",
+      "lines": [
+        {
+          "id": 1,
+          "type": "title",
+          "original": "Lección uno",
+          "zh": "第一课",
+          "it": "Prima lezione",
+          "de": "Erste Lektion"
+        },
+        {
+          "id": 2,
+          "type": "label",
+          "original": "¿Cómo está usted?",
+          "zh": "您好吗？",
+          "it": "Come sta?",
+          "de": "Wie geht es Ihnen?"
+        },
+        {
+          "id": 3,
+          "type": "line",
+          "original": "Buenos días Juana, ¿cómo está usted?",
+          "zh": "你好，胡安娜，您好吗？",
+          "it": "Buongiorno Juana, come sta?",
+          "de": "Guten Tag Juana, wie geht es Ihnen?"
+        },
+        {
+          "id": 4,
+          "type": "line",
+          "original": "Bien, ¿y usted?",
+          "zh": "很好，您呢？",
+          "it": "Bene, e lei?",
+          "de": "Gut, und Ihnen?"
+        },
+        {
+          "id": 5,
+          "type": "line",
+          "original": "Muy bien, gracias.",
+          "zh": "很好，谢谢。",
+          "it": "Molto bene, grazie.",
+          "de": "Sehr gut, danke."
+        },
+        {
+          "id": 6,
+          "type": "line",
+          "original": "Le presento a mi hija, Sofía.",
+          "zh": "我给您介绍一下我的女儿，索菲亚。",
+          "it": "Le presento mia figlia, Sofía.",
+          "de": "Ich stelle Ihnen meine Tochter Sofía vor."
+        },
+        {
+          "id": 7,
+          "type": "line",
+          "original": "Hola, Sofía. ¿Cómo estás?",
+          "zh": "你好，索菲亚。你好吗？",
+          "it": "Ciao, Sofía. Come stai?",
+          "de": "Hallo, Sofía. Wie geht's?"
+        },
+        {
+          "id": 8,
+          "type": "line",
+          "original": "Buenos días, ¿cómo está usted?",
+          "zh": "你好，您好吗？",
+          "it": "Buongiorno, come sta?",
+          "de": "Guten Tag, wie geht es Ihnen?"
+        },
+        {
+          "id": 9,
+          "type": "line",
+          "original": "Muy bien.",
+          "zh": "很好。",
+          "it": "Molto bene.",
+          "de": "Sehr gut."
+        },
+        {
+          "id": 10,
+          "type": "line",
+          "original": "¿Cómo estás, Juan?",
+          "zh": "你好吗，胡安？",
+          "it": "Come stai, Juan?",
+          "de": "Wie geht's, Juan?"
+        },
+        {
+          "id": 11,
+          "type": "line",
+          "original": "Le presento a mi hija.",
+          "zh": "我给您介绍一下我的女儿。",
+          "it": "Le presento mia figlia.",
+          "de": "Ich stelle Ihnen meine Tochter vor."
+        },
+        {
+          "id": 12,
+          "type": "line",
+          "original": "Sofía está muy bien.",
+          "zh": "索菲亚很好。",
+          "it": "Sofía sta molto bene.",
+          "de": "Sofía geht es sehr gut."
+        }
+      ]
+    },
+    {
+      "lesson": 2,
+      "title_native": "2",
+      "source_file": "Spanish02.srt",
+      "lines": [
+        {
+          "id": 1,
+          "type": "title",
+          "original": "Lección dos",
+          "zh": "第二课",
+          "it": "Seconda lezione",
+          "de": "Zweite Lektion"
+        },
+        {
+          "id": 2,
+          "type": "label",
+          "original": "El café",
+          "zh": "咖啡",
+          "it": "Il caffè",
+          "de": "Der Kaffee"
+        },
+        {
+          "id": 3,
+          "type": "line",
+          "original": "Señor, señora, ¿qué desean?",
+          "zh": "先生，女士，您们要点什么？",
+          "it": "Signore, signora, cosa desiderate?",
+          "de": "Mein Herr, meine Dame, was wünschen Sie?"
+        },
+        {
+          "id": 4,
+          "type": "line",
+          "original": "Dos cafés y dos cruasanes, por favor.",
+          "zh": "请给我们两杯咖啡和两个牛角包。",
+          "it": "Due caffè e due croissant, per favore.",
+          "de": "Zwei Kaffee und zwei Croissants, bitte."
+        },
+        {
+          "id": 5,
+          "type": "line",
+          "original": "No, prefiero una tostada con mantequilla para el desayuno.",
+          "zh": "不，早餐我更喜欢吃黄油面包片。",
+          "it": "No, preferisco una tartina imburrata per colazione.",
+          "de": "Nein, ich bevorzuge zum Frühstück ein Butterbrot."
+        },
+        {
+          "id": 6,
+          "type": "line",
+          "original": "Entonces, ¿dos expresos, un cruasán y una tostada?",
+          "zh": "那么，两杯浓缩咖啡，一个牛角包和一片面包？",
+          "it": "Quindi, due espressi, un croissant e una tartina?",
+          "de": "Also, zwei Espresso, ein Croissant und ein Butterbrot?"
+        },
+        {
+          "id": 7,
+          "type": "line",
+          "original": "Sí, eso es. El cruasán es para mí y la tostada para ella.",
+          "zh": "是的，没错。牛角包是给我的，面包是给她的。",
+          "it": "Sì, esatto. Il croissant è per me e la tartina per lei.",
+          "de": "Ja, genau. Das Croissant ist für mich und das Butterbrot für sie."
+        },
+        {
+          "id": 8,
+          "type": "line",
+          "original": "Prefiero un cruasán para el desayuno.",
+          "zh": "早餐我更喜欢吃牛角包。",
+          "it": "Preferisco un croissant per colazione.",
+          "de": "Ich bevorzuge zum Frühstück ein Croissant."
+        },
+        {
+          "id": 9,
+          "type": "line",
+          "original": "Un café, por favor.",
+          "zh": "请给我一杯咖啡。",
+          "it": "Un caffè, per favore.",
+          "de": "Einen Kaffee, bitte."
+        },
+        {
+          "id": 10,
+          "type": "line",
+          "original": "Sí, eso es.",
+          "zh": "是的，没错。",
+          "it": "Sì, esatto.",
+          "de": "Ja, genau."
+        },
+        {
+          "id": 11,
+          "type": "line",
+          "original": "La tostada es para ella.",
+          "zh": "面包是给她的。",
+          "it": "La tartina è per lei.",
+          "de": "Das Butterbrot ist für sie."
+        },
+        {
+          "id": 12,
+          "type": "line",
+          "original": "Y el expreso es para mí.",
+          "zh": "浓缩咖啡是给我的。",
+          "it": "E l'espresso è per me.",
+          "de": "Und der Espresso ist für mich."
+        }
+      ]
+    }
+  ]
+}

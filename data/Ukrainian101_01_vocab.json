@@ -1,0 +1,3375 @@
+{
+  "course_id": "ukrainian_101",
+  "lessons": [
+    {
+      "lesson": 1,
+      "words": [
+        {
+          "original": "привіт",
+          "pinyin": "pryvít",
+          "it": "ciao",
+          "en": "hi",
+          "zh": "你好"
+        },
+        {
+          "original": "як",
+          "pinyin": "yak",
+          "it": "come",
+          "en": "how",
+          "zh": "怎么"
+        },
+        {
+          "original": "справи",
+          "pinyin": "správy",
+          "it": "cose",
+          "en": "things",
+          "zh": "情况"
+        },
+        {
+          "original": "у",
+          "pinyin": "u",
+          "it": "presso",
+          "en": "at",
+          "zh": "在"
+        },
+        {
+          "original": "мене",
+          "pinyin": "mené",
+          "it": "me",
+          "en": "me",
+          "zh": "我"
+        },
+        {
+          "original": "все",
+          "pinyin": "vse",
+          "it": "tutto",
+          "en": "everything",
+          "zh": "一切"
+        },
+        {
+          "original": "добре",
+          "pinyin": "dóbre",
+          "it": "bene",
+          "en": "well",
+          "zh": "好"
+        },
+        {
+          "original": "дякую",
+          "pinyin": "diákuyu",
+          "it": "grazie",
+          "en": "thank you",
+          "zh": "谢谢"
+        },
+        {
+          "original": "а",
+          "pinyin": "a",
+          "it": "e",
+          "en": "and",
+          "zh": "那"
+        },
+        {
+          "original": "в",
+          "pinyin": "v",
+          "it": "presso",
+          "en": "at",
+          "zh": "在"
+        },
+        {
+          "original": "тебе",
+          "pinyin": "tebé",
+          "it": "te",
+          "en": "you",
+          "zh": "你"
+        },
+        {
+          "original": "теж",
+          "pinyin": "tezh",
+          "it": "anche",
+          "en": "also",
+          "zh": "也"
+        },
+        {
+          "original": "непогано",
+          "pinyin": "nepoháno",
+          "it": "discretamente",
+          "en": "not bad",
+          "zh": "还不错"
+        },
+        {
+          "original": "радий",
+          "pinyin": "rádyi",
+          "it": "contento",
+          "en": "glad",
+          "zh": "高兴"
+        },
+        {
+          "original": "бачити",
+          "pinyin": "báchyty",
+          "it": "vedere",
+          "en": "to see",
+          "zh": "见到"
+        },
+        {
+          "original": "до",
+          "pinyin": "do",
+          "it": "fino",
+          "en": "to",
+          "zh": "到"
+        },
+        {
+          "original": "зустрічі",
+          "pinyin": "zústrichi",
+          "it": "incontro",
+          "en": "meeting",
+          "zh": "见面"
+        },
+        {
+          "original": "завтра",
+          "pinyin": "závtra",
+          "it": "domani",
+          "en": "tomorrow",
+          "zh": "明天"
+        },
+        {
+          "original": "доброго",
+          "pinyin": "dóbroho",
+          "it": "buon",
+          "en": "good",
+          "zh": "好"
+        },
+        {
+          "original": "ранку",
+          "pinyin": "ránku",
+          "it": "mattino",
+          "en": "morning",
+          "zh": "早晨"
+        }
+      ]
+    },
+    {
+      "lesson": 2,
+      "words": [
+        {
+          "original": "тобі",
+          "pinyin": "tobí",
+          "it": "ti",
+          "en": "to you",
+          "zh": "你"
+        },
+        {
+          "original": "будь",
+          "pinyin": "bud",
+          "it": "sii",
+          "en": "be",
+          "zh": "请"
+        },
+        {
+          "original": "ласка",
+          "pinyin": "láska",
+          "it": "favore",
+          "en": "favor",
+          "zh": "好意"
+        },
+        {
+          "original": "вибач",
+          "pinyin": "výbach",
+          "it": "scusa",
+          "en": "sorry",
+          "zh": "对不起"
+        },
+        {
+          "original": "нічого",
+          "pinyin": "nichóho",
+          "it": "niente",
+          "en": "nothing",
+          "zh": "没什么"
+        },
+        {
+          "original": "страшного",
+          "pinyin": "stráshnoho",
+          "it": "grave",
+          "en": "serious",
+          "zh": "严重"
+        },
+        {
+          "original": "нема",
+          "pinyin": "nemá",
+          "it": "non c'è",
+          "en": "there isn't",
+          "zh": "没有"
+        },
+        {
+          "original": "за",
+          "pinyin": "za",
+          "it": "per",
+          "en": "for",
+          "zh": "为"
+        },
+        {
+          "original": "що",
+          "pinyin": "shcho",
+          "it": "cosa",
+          "en": "what",
+          "zh": "什么"
+        },
+        {
+          "original": "звісно",
+          "pinyin": "zvísno",
+          "it": "certo",
+          "en": "of course",
+          "zh": "当然"
+        },
+        {
+          "original": "можливо",
+          "pinyin": "mozhlývo",
+          "it": "forse",
+          "en": "maybe",
+          "zh": "也许"
+        },
+        {
+          "original": "я",
+          "pinyin": "ya",
+          "it": "io",
+          "en": "I",
+          "zh": "我"
+        },
+        {
+          "original": "не",
+          "pinyin": "ne",
+          "it": "non",
+          "en": "not",
+          "zh": "不"
+        },
+        {
+          "original": "проти",
+          "pinyin": "próty",
+          "it": "contro",
+          "en": "against",
+          "zh": "反对"
+        },
+        {
+          "original": "домовились",
+          "pinyin": "domóvylys",
+          "it": "ci siamo accordati",
+          "en": "agreed",
+          "zh": "说定了"
+        },
+        {
+          "original": "без",
+          "pinyin": "bez",
+          "it": "senza",
+          "en": "without",
+          "zh": "没有"
+        },
+        {
+          "original": "проблем",
+          "pinyin": "problém",
+          "it": "problemi",
+          "en": "problems",
+          "zh": "问题"
+        }
+      ]
+    },
+    {
+      "lesson": 3,
+      "words": [
+        {
+          "original": "розумію",
+          "pinyin": "rozumíyu",
+          "it": "capisco",
+          "en": "understand",
+          "zh": "明白"
+        },
+        {
+          "original": "повтори",
+          "pinyin": "povtorý",
+          "it": "ripeti",
+          "en": "repeat",
+          "zh": "重复"
+        },
+        {
+          "original": "говори",
+          "pinyin": "hovorý",
+          "it": "parla",
+          "en": "speak",
+          "zh": "说"
+        },
+        {
+          "original": "трохи",
+          "pinyin": "trókhy",
+          "it": "un po'",
+          "en": "a bit",
+          "zh": "一点"
+        },
+        {
+          "original": "повільніше",
+          "pinyin": "povílnishe",
+          "it": "più piano",
+          "en": "more slowly",
+          "zh": "慢一点"
+        },
+        {
+          "original": "ще",
+          "pinyin": "shche",
+          "it": "ancora",
+          "en": "again",
+          "zh": "再"
+        },
+        {
+          "original": "раз",
+          "pinyin": "raz",
+          "it": "volta",
+          "en": "time",
+          "zh": "次"
+        },
+        {
+          "original": "це",
+          "pinyin": "tse",
+          "it": "questo",
+          "en": "this",
+          "zh": "这个"
+        },
+        {
+          "original": "означає",
+          "pinyin": "oznáchaye",
+          "it": "significa",
+          "en": "means",
+          "zh": "意思是"
+        },
+        {
+          "original": "сказати",
+          "pinyin": "skazáty",
+          "it": "dire",
+          "en": "to say",
+          "zh": "说"
+        },
+        {
+          "original": "забув",
+          "pinyin": "zabúv",
+          "it": "ho dimenticato",
+          "en": "forgot",
+          "zh": "忘了"
+        },
+        {
+          "original": "слово",
+          "pinyin": "slóvo",
+          "it": "parola",
+          "en": "word",
+          "zh": "词"
+        },
+        {
+          "original": "тепер",
+          "pinyin": "tepér",
+          "it": "adesso",
+          "en": "now",
+          "zh": "现在"
+        },
+        {
+          "original": "зрозумів",
+          "pinyin": "zrozumív",
+          "it": "ho capito",
+          "en": "understood",
+          "zh": "明白了"
+        },
+        {
+          "original": "так",
+          "pinyin": "tak",
+          "it": "così",
+          "en": "so",
+          "zh": "这样"
+        },
+        {
+          "original": "правильно",
+          "pinyin": "právylno",
+          "it": "giusto",
+          "en": "correctly",
+          "zh": "正确"
+        },
+        {
+          "original": "можеш",
+          "pinyin": "mózhesh",
+          "it": "puoi",
+          "en": "can",
+          "zh": "你可以"
+        },
+        {
+          "original": "показати",
+          "pinyin": "pokazáty",
+          "it": "mostrare",
+          "en": "to show",
+          "zh": "给……看"
+        }
+      ]
+    },
+    {
+      "lesson": 4,
+      "words": [
+        {
+          "original": "звати",
+          "pinyin": "zváty",
+          "it": "chiamarsi",
+          "en": "to be called",
+          "zh": "叫"
+        },
+        {
+          "original": "Марко",
+          "pinyin": "Márko",
+          "it": "Marco",
+          "en": "Marco",
+          "zh": "马尔科"
+        },
+        {
+          "original": "дуже",
+          "pinyin": "dúzhe",
+          "it": "molto",
+          "en": "very",
+          "zh": "很"
+        },
+        {
+          "original": "приємно",
+          "pinyin": "pryyémno",
+          "it": "piacere",
+          "en": "pleasant",
+          "zh": "高兴"
+        },
+        {
+          "original": "ми",
+          "pinyin": "my",
+          "it": "noi",
+          "en": "we",
+          "zh": "我们"
+        },
+        {
+          "original": "вже",
+          "pinyin": "vzhe",
+          "it": "già",
+          "en": "already",
+          "zh": "已经"
+        },
+        {
+          "original": "знайомі",
+          "pinyin": "znaiómi",
+          "it": "conosciuti",
+          "en": "acquainted",
+          "zh": "认识"
+        },
+        {
+          "original": "моя",
+          "pinyin": "moyá",
+          "it": "mia",
+          "en": "my",
+          "zh": "我的"
+        },
+        {
+          "original": "подруга",
+          "pinyin": "pódruha",
+          "it": "amica",
+          "en": "(female) friend",
+          "zh": "朋友（女）"
+        },
+        {
+          "original": "мій",
+          "pinyin": "miy",
+          "it": "mio",
+          "en": "my",
+          "zh": "我的"
+        },
+        {
+          "original": "друг",
+          "pinyin": "druh",
+          "it": "amico",
+          "en": "friend",
+          "zh": "朋友（男）"
+        },
+        {
+          "original": "ти",
+          "pinyin": "ty",
+          "it": "tu",
+          "en": "you",
+          "zh": "你"
+        },
+        {
+          "original": "знаєш",
+          "pinyin": "znáyesh",
+          "it": "sai",
+          "en": "(you) know",
+          "zh": "认识"
+        },
+        {
+          "original": "Анну",
+          "pinyin": "Ánnu",
+          "it": "Anna",
+          "en": "Anna",
+          "zh": "安娜"
+        },
+        {
+          "original": "знаю",
+          "pinyin": "znáyu",
+          "it": "so",
+          "en": "(I) know",
+          "zh": "认识"
+        },
+        {
+          "original": "часто",
+          "pinyin": "chásto",
+          "it": "spesso",
+          "en": "often",
+          "zh": "经常"
+        },
+        {
+          "original": "бачимося",
+          "pinyin": "báchymosia",
+          "it": "ci vediamo",
+          "en": "(we) see each other",
+          "zh": "见面"
+        },
+        {
+          "original": "познайомитися",
+          "pinyin": "poznaiómytysia",
+          "it": "conoscersi",
+          "en": "to get acquainted",
+          "zh": "结识"
+        }
+      ]
+    },
+    {
+      "lesson": 5,
+      "words": [
+        {
+          "original": "звідки",
+          "pinyin": "zvídky",
+          "it": "da dove",
+          "en": "from where",
+          "zh": "从哪里"
+        },
+        {
+          "original": "італієць",
+          "pinyin": "italíyets",
+          "it": "italiano",
+          "en": "Italian (man)",
+          "zh": "意大利人（男）"
+        },
+        {
+          "original": "живу",
+          "pinyin": "zhyvú",
+          "it": "vivo",
+          "en": "(I) live",
+          "zh": "住"
+        },
+        {
+          "original": "Кальярі",
+          "pinyin": "Kályari",
+          "it": "Cagliari",
+          "en": "Cagliari",
+          "zh": "卡利亚里"
+        },
+        {
+          "original": "з",
+          "pinyin": "z",
+          "it": "da",
+          "en": "from",
+          "zh": "从"
+        },
+        {
+          "original": "якого",
+          "pinyin": "yakóho",
+          "it": "quale",
+          "en": "which",
+          "zh": "哪个"
+        },
+        {
+          "original": "міста",
+          "pinyin": "místa",
+          "it": "città",
+          "en": "city",
+          "zh": "城市"
+        },
+        {
+          "original": "далеко",
+          "pinyin": "daléko",
+          "it": "lontano",
+          "en": "far",
+          "zh": "远"
+        },
+        {
+          "original": "від",
+          "pinyin": "vid",
+          "it": "da",
+          "en": "from",
+          "zh": "离"
+        },
+        {
+          "original": "Києва",
+          "pinyin": "Kýyeva",
+          "it": "Kyiv",
+          "en": "Kyiv",
+          "zh": "基辅"
+        },
+        {
+          "original": "твоє",
+          "pinyin": "tvoyé",
+          "it": "tua",
+          "en": "your",
+          "zh": "你的"
+        },
+        {
+          "original": "місто",
+          "pinyin": "místo",
+          "it": "città",
+          "en": "city",
+          "zh": "城市"
+        },
+        {
+          "original": "велике",
+          "pinyin": "velýke",
+          "it": "grande",
+          "en": "big",
+          "zh": "大"
+        },
+        {
+          "original": "давно",
+          "pinyin": "davnó",
+          "it": "da molto tempo",
+          "en": "for a long time",
+          "zh": "很久"
+        },
+        {
+          "original": "тут",
+          "pinyin": "tut",
+          "it": "qui",
+          "en": "here",
+          "zh": "这里"
+        },
+        {
+          "original": "живеш",
+          "pinyin": "zhyvésh",
+          "it": "vivi",
+          "en": "(you) live",
+          "zh": "住"
+        },
+        {
+          "original": "подобається",
+          "pinyin": "podóbayetsia",
+          "it": "piace",
+          "en": "pleases",
+          "zh": "喜欢"
+        },
+        {
+          "original": "Сардинія",
+          "pinyin": "Sardýniya",
+          "it": "Sardegna",
+          "en": "Sardinia",
+          "zh": "撒丁岛"
+        },
+        {
+          "original": "України",
+          "pinyin": "Ukrayíny",
+          "it": "Ucraina",
+          "en": "Ukraine",
+          "zh": "乌克兰"
+        },
+        {
+          "original": "ніколи",
+          "pinyin": "nikóly",
+          "it": "mai",
+          "en": "never",
+          "zh": "从不"
+        },
+        {
+          "original": "там",
+          "pinyin": "tam",
+          "it": "là",
+          "en": "there",
+          "zh": "那里"
+        },
+        {
+          "original": "був",
+          "pinyin": "buv",
+          "it": "stato",
+          "en": "was",
+          "zh": "去过"
+        }
+      ]
+    },
+    {
+      "lesson": 6,
+      "words": [
+        {
+          "original": "говориш",
+          "pinyin": "hovorýsh",
+          "it": "parli",
+          "en": "(you) speak",
+          "zh": "说"
+        },
+        {
+          "original": "італійською",
+          "pinyin": "italíyskoyu",
+          "it": "in italiano",
+          "en": "in Italian",
+          "zh": "用意大利语"
+        },
+        {
+          "original": "говорю",
+          "pinyin": "hovoriú",
+          "it": "parlo",
+          "en": "(I) speak",
+          "zh": "说"
+        },
+        {
+          "original": "українською",
+          "pinyin": "ukrayínskoyu",
+          "it": "in ucraino",
+          "en": "in Ukrainian",
+          "zh": "用乌克兰语"
+        },
+        {
+          "original": "вчуся",
+          "pinyin": "vchúsia",
+          "it": "sto imparando",
+          "en": "(I) am learning",
+          "zh": "学习"
+        },
+        {
+          "original": "українська",
+          "pinyin": "ukrayínska",
+          "it": "ucraino",
+          "en": "Ukrainian (language)",
+          "zh": "乌克兰语"
+        },
+        {
+          "original": "непроста",
+          "pinyin": "neprostá",
+          "it": "non facile",
+          "en": "not easy",
+          "zh": "不简单"
+        },
+        {
+          "original": "італійська",
+          "pinyin": "italíyska",
+          "it": "italiano",
+          "en": "Italian (language)",
+          "zh": "意大利语"
+        },
+        {
+          "original": "цього",
+          "pinyin": "tsóho",
+          "it": "questo",
+          "en": "this",
+          "zh": "这个"
+        },
+        {
+          "original": "слова",
+          "pinyin": "slóva",
+          "it": "parola",
+          "en": "word",
+          "zh": "词"
+        },
+        {
+          "original": "буде",
+          "pinyin": "búde",
+          "it": "sarà",
+          "en": "will be",
+          "zh": "会"
+        },
+        {
+          "original": "скажи",
+          "pinyin": "skazhý",
+          "it": "dillo",
+          "en": "say (it)",
+          "zh": "说一下"
+        },
+        {
+          "original": "мені",
+          "pinyin": "mení",
+          "it": "a me",
+          "en": "to me",
+          "zh": "我"
+        },
+        {
+          "original": "треба",
+          "pinyin": "tréba",
+          "it": "bisogna",
+          "en": "need to",
+          "zh": "需要"
+        },
+        {
+          "original": "більше",
+          "pinyin": "bílshe",
+          "it": "di più",
+          "en": "more",
+          "zh": "更多"
+        },
+        {
+          "original": "практикуватися",
+          "pinyin": "praktykuvátysia",
+          "it": "esercitarsi",
+          "en": "to practice",
+          "zh": "练习"
+        }
+      ]
+    },
+    {
+      "lesson": 7,
+      "words": [
+        {
+          "original": "є",
+          "pinyin": "ye",
+          "it": "c'è",
+          "en": "is/are",
+          "zh": "有"
+        },
+        {
+          "original": "діти",
+          "pinyin": "díty",
+          "it": "figli",
+          "en": "children",
+          "zh": "孩子"
+        },
+        {
+          "original": "двоє",
+          "pinyin": "dvóye",
+          "it": "due",
+          "en": "two",
+          "zh": "两个"
+        },
+        {
+          "original": "дітей",
+          "pinyin": "ditéi",
+          "it": "figli",
+          "en": "children",
+          "zh": "孩子"
+        },
+        {
+          "original": "брати",
+          "pinyin": "bratý",
+          "it": "fratelli",
+          "en": "brothers",
+          "zh": "兄弟"
+        },
+        {
+          "original": "чи",
+          "pinyin": "chy",
+          "it": "o",
+          "en": "or",
+          "zh": "还是"
+        },
+        {
+          "original": "сестри",
+          "pinyin": "séstry",
+          "it": "sorelle",
+          "en": "sisters",
+          "zh": "姐妹"
+        },
+        {
+          "original": "сестра",
+          "pinyin": "sestrá",
+          "it": "sorella",
+          "en": "sister",
+          "zh": "姐姐或妹妹"
+        },
+        {
+          "original": "твої",
+          "pinyin": "tvoyí",
+          "it": "tuoi",
+          "en": "your",
+          "zh": "你的"
+        },
+        {
+          "original": "батьки",
+          "pinyin": "batký",
+          "it": "genitori",
+          "en": "parents",
+          "zh": "父母"
+        },
+        {
+          "original": "них",
+          "pinyin": "nykh",
+          "it": "loro",
+          "en": "them",
+          "zh": "他们"
+        },
+        {
+          "original": "усе",
+          "pinyin": "usé",
+          "it": "tutto",
+          "en": "everything",
+          "zh": "一切"
+        },
+        {
+          "original": "вони",
+          "pinyin": "voný",
+          "it": "loro",
+          "en": "they",
+          "zh": "他们"
+        },
+        {
+          "original": "живуть",
+          "pinyin": "zhyvút",
+          "it": "vivono",
+          "en": "(they) live",
+          "zh": "住"
+        },
+        {
+          "original": "розмовляємо",
+          "pinyin": "rozmovliáyemo",
+          "it": "ci sentiamo",
+          "en": "(we) talk",
+          "zh": "聊天"
+        },
+        {
+          "original": "телефоном",
+          "pinyin": "telefónom",
+          "it": "telefono",
+          "en": "phone",
+          "zh": "电话"
+        },
+        {
+          "original": "передавай",
+          "pinyin": "peredavái",
+          "it": "saluta da parte mia",
+          "en": "pass on greetings",
+          "zh": "转达"
+        },
+        {
+          "original": "їм",
+          "pinyin": "yim",
+          "it": "a loro",
+          "en": "to them",
+          "zh": "他们"
+        },
+        {
+          "original": "сподіваюся",
+          "pinyin": "spodiváyusia",
+          "it": "spero",
+          "en": "(I) hope",
+          "zh": "希望"
+        },
+        {
+          "original": "усі",
+          "pinyin": "usí",
+          "it": "tutti",
+          "en": "everyone",
+          "zh": "大家"
+        },
+        {
+          "original": "здорові",
+          "pinyin": "zdoróvi",
+          "it": "sani",
+          "en": "healthy",
+          "zh": "健康"
+        }
+      ]
+    },
+    {
+      "lesson": 8,
+      "words": [
+        {
+          "original": "минув",
+          "pinyin": "mynúv",
+          "it": "è passato",
+          "en": "passed",
+          "zh": "过去了"
+        },
+        {
+          "original": "тиждень",
+          "pinyin": "týzhden",
+          "it": "settimana",
+          "en": "week",
+          "zh": "一周"
+        },
+        {
+          "original": "але",
+          "pinyin": "alé",
+          "it": "ma",
+          "en": "but",
+          "zh": "但是"
+        },
+        {
+          "original": "швидко",
+          "pinyin": "shvýdko",
+          "it": "in fretta",
+          "en": "quickly",
+          "zh": "很快"
+        },
+        {
+          "original": "було",
+          "pinyin": "buló",
+          "it": "è stato",
+          "en": "was",
+          "zh": "有"
+        },
+        {
+          "original": "багато",
+          "pinyin": "baháto",
+          "it": "molto",
+          "en": "a lot",
+          "zh": "很多"
+        },
+        {
+          "original": "справ",
+          "pinyin": "sprav",
+          "it": "cose/impegni",
+          "en": "things",
+          "zh": "事情"
+        },
+        {
+          "original": "втомився",
+          "pinyin": "vtomývsia",
+          "it": "mi sono stancato",
+          "en": "got tired",
+          "zh": "累了"
+        },
+        {
+          "original": "спокійний",
+          "pinyin": "spokíynyi",
+          "it": "tranquillo",
+          "en": "calm",
+          "zh": "平静"
+        },
+        {
+          "original": "працював",
+          "pinyin": "pratsiuváv",
+          "it": "ho lavorato",
+          "en": "worked",
+          "zh": "工作了"
+        },
+        {
+          "original": "твій",
+          "pinyin": "tviy",
+          "it": "tuo",
+          "en": "your",
+          "zh": "你的"
+        },
+        {
+          "original": "щось",
+          "pinyin": "shchos",
+          "it": "qualcosa",
+          "en": "something",
+          "zh": "什么"
+        },
+        {
+          "original": "цікаве",
+          "pinyin": "tsikáve",
+          "it": "interessante",
+          "en": "interesting",
+          "zh": "有意思"
+        },
+        {
+          "original": "вихідні",
+          "pinyin": "vykhidní",
+          "it": "fine settimana",
+          "en": "weekend",
+          "zh": "周末"
+        },
+        {
+          "original": "були",
+          "pinyin": "bulý",
+          "it": "erano",
+          "en": "were",
+          "zh": "是"
+        },
+        {
+          "original": "гарні",
+          "pinyin": "hárni",
+          "it": "belli",
+          "en": "nice",
+          "zh": "不错"
+        },
+        {
+          "original": "п'ятниця",
+          "pinyin": "pyátnytsia",
+          "it": "venerdì",
+          "en": "Friday",
+          "zh": "星期五"
+        }
+      ]
+    },
+    {
+      "lesson": 9,
+      "words": [
+        {
+          "original": "робиш",
+          "pinyin": "róbysh",
+          "it": "fai",
+          "en": "(you) do",
+          "zh": "做"
+        },
+        {
+          "original": "сьогодні",
+          "pinyin": "sohódni",
+          "it": "oggi",
+          "en": "today",
+          "zh": "今天"
+        },
+        {
+          "original": "вдома",
+          "pinyin": "vdóma",
+          "it": "a casa",
+          "en": "at home",
+          "zh": "在家"
+        },
+        {
+          "original": "потім",
+          "pinyin": "pótim",
+          "it": "dopo",
+          "en": "then",
+          "zh": "然后"
+        },
+        {
+          "original": "піду",
+          "pinyin": "pidú",
+          "it": "vado",
+          "en": "will go",
+          "zh": "去"
+        },
+        {
+          "original": "центр",
+          "pinyin": "tsentr",
+          "it": "centro",
+          "en": "center",
+          "zh": "市中心"
+        },
+        {
+          "original": "працюю",
+          "pinyin": "pratsiúyu",
+          "it": "lavoro",
+          "en": "(I) work",
+          "zh": "工作"
+        },
+        {
+          "original": "вільний",
+          "pinyin": "vílnyi",
+          "it": "libero",
+          "en": "free",
+          "zh": "有空"
+        },
+        {
+          "original": "може",
+          "pinyin": "mózhe",
+          "it": "magari",
+          "en": "maybe",
+          "zh": "也许"
+        },
+        {
+          "original": "побачимось",
+          "pinyin": "pobáchymos",
+          "it": "ci vediamo",
+          "en": "(we) will see each other",
+          "zh": "见"
+        },
+        {
+          "original": "напишу",
+          "pinyin": "napyshú",
+          "it": "scrivo",
+          "en": "will write",
+          "zh": "会写"
+        },
+        {
+          "original": "пізніше",
+          "pinyin": "pizníshe",
+          "it": "più tardi",
+          "en": "later",
+          "zh": "晚一点"
+        }
+      ]
+    },
+    {
+      "lesson": 10,
+      "words": [
+        {
+          "original": "рано",
+          "pinyin": "ráno",
+          "it": "presto",
+          "en": "early",
+          "zh": "早"
+        },
+        {
+          "original": "встаю",
+          "pinyin": "vstayú",
+          "it": "mi alzo",
+          "en": "(I) get up",
+          "zh": "起床"
+        },
+        {
+          "original": "зранку",
+          "pinyin": "zránku",
+          "it": "la mattina",
+          "en": "in the morning",
+          "zh": "早上"
+        },
+        {
+          "original": "п'ю",
+          "pinyin": "pyu",
+          "it": "bevo",
+          "en": "(I) drink",
+          "zh": "喝"
+        },
+        {
+          "original": "каву",
+          "pinyin": "kávu",
+          "it": "il caffè",
+          "en": "coffee",
+          "zh": "咖啡"
+        },
+        {
+          "original": "іду",
+          "pinyin": "idú",
+          "it": "vado",
+          "en": "(I) go",
+          "zh": "去"
+        },
+        {
+          "original": "на",
+          "pinyin": "na",
+          "it": "a",
+          "en": "to",
+          "zh": "到"
+        },
+        {
+          "original": "роботу",
+          "pinyin": "robótu",
+          "it": "lavoro",
+          "en": "work",
+          "zh": "工作"
+        },
+        {
+          "original": "обідаю",
+          "pinyin": "obídayu",
+          "it": "pranzo",
+          "en": "(I) have lunch",
+          "zh": "吃午饭"
+        },
+        {
+          "original": "близько",
+          "pinyin": "blýzko",
+          "it": "verso",
+          "en": "around",
+          "zh": "大约"
+        },
+        {
+          "original": "першої",
+          "pinyin": "pérshoyi",
+          "it": "una",
+          "en": "one (o'clock)",
+          "zh": "一点"
+        },
+        {
+          "original": "після",
+          "pinyin": "píslia",
+          "it": "dopo",
+          "en": "after",
+          "zh": "之后"
+        },
+        {
+          "original": "обіду",
+          "pinyin": "obídu",
+          "it": "pranzo",
+          "en": "lunch",
+          "zh": "午饭"
+        },
+        {
+          "original": "відпочиваю",
+          "pinyin": "vidpochyváyu",
+          "it": "mi riposo",
+          "en": "(I) rest",
+          "zh": "休息"
+        },
+        {
+          "original": "увечері",
+          "pinyin": "uvécheri",
+          "it": "la sera",
+          "en": "in the evening",
+          "zh": "晚上"
+        },
+        {
+          "original": "гуляю",
+          "pinyin": "huliáyu",
+          "it": "faccio una passeggiata",
+          "en": "(I) take a walk",
+          "zh": "散步"
+        },
+        {
+          "original": "іноді",
+          "pinyin": "ínodi",
+          "it": "a volte",
+          "en": "sometimes",
+          "zh": "有时"
+        },
+        {
+          "original": "дивлюся",
+          "pinyin": "dyvliúsia",
+          "it": "guardo",
+          "en": "(I) watch",
+          "zh": "看"
+        },
+        {
+          "original": "телевізор",
+          "pinyin": "televízor",
+          "it": "la televisione",
+          "en": "television",
+          "zh": "电视"
+        },
+        {
+          "original": "лягаю",
+          "pinyin": "liaháyu",
+          "it": "vado a letto",
+          "en": "(I) go to bed",
+          "zh": "上床睡觉"
+        },
+        {
+          "original": "досить",
+          "pinyin": "dósyt",
+          "it": "abbastanza",
+          "en": "quite",
+          "zh": "相当"
+        },
+        {
+          "original": "пізно",
+          "pinyin": "pízno",
+          "it": "tardi",
+          "en": "late",
+          "zh": "晚"
+        },
+        {
+          "original": "встаєш",
+          "pinyin": "vstayésh",
+          "it": "ti alzi",
+          "en": "(you) get up",
+          "zh": "起床"
+        },
+        {
+          "original": "кожен",
+          "pinyin": "kózhen",
+          "it": "ogni",
+          "en": "each",
+          "zh": "每"
+        },
+        {
+          "original": "день",
+          "pinyin": "den",
+          "it": "giorno",
+          "en": "day",
+          "zh": "天"
+        },
+        {
+          "original": "по-різному",
+          "pinyin": "po-ríznomu",
+          "it": "in modo diverso",
+          "en": "differently",
+          "zh": "不一样"
+        }
+      ]
+    },
+    {
+      "lesson": 11,
+      "words": [
+        {
+          "original": "котра",
+          "pinyin": "kotrá",
+          "it": "quale",
+          "en": "which",
+          "zh": "第几"
+        },
+        {
+          "original": "година",
+          "pinyin": "hodýna",
+          "it": "ora",
+          "en": "hour",
+          "zh": "点钟"
+        },
+        {
+          "original": "зараз",
+          "pinyin": "záraz",
+          "it": "adesso",
+          "en": "now",
+          "zh": "现在"
+        },
+        {
+          "original": "десята",
+          "pinyin": "desiáta",
+          "it": "le dieci",
+          "en": "ten (o'clock)",
+          "zh": "十点"
+        },
+        {
+          "original": "о",
+          "pinyin": "o",
+          "it": "a",
+          "en": "at",
+          "zh": "在"
+        },
+        {
+          "original": "котрій",
+          "pinyin": "kotríy",
+          "it": "quale",
+          "en": "which",
+          "zh": "几点"
+        },
+        {
+          "original": "зустрінемось",
+          "pinyin": "zustrínemos",
+          "it": "ci vediamo",
+          "en": "(we) will meet",
+          "zh": "见面"
+        },
+        {
+          "original": "давай",
+          "pinyin": "davái",
+          "it": "facciamo",
+          "en": "let's",
+          "zh": "就……吧"
+        },
+        {
+          "original": "третій",
+          "pinyin": "trétiy",
+          "it": "le tre",
+          "en": "three (o'clock)",
+          "zh": "三点"
+        },
+        {
+          "original": "підходить",
+          "pinyin": "pidkhódyt",
+          "it": "va bene",
+          "en": "suits",
+          "zh": "合适"
+        },
+        {
+          "original": "буду",
+          "pinyin": "búdu",
+          "it": "sarò",
+          "en": "will be",
+          "zh": "会"
+        },
+        {
+          "original": "вчасно",
+          "pinyin": "vchásno",
+          "it": "puntuale",
+          "en": "on time",
+          "zh": "准时"
+        },
+        {
+          "original": "запізнюся",
+          "pinyin": "zapizniúsia",
+          "it": "farò tardi",
+          "en": "will be late",
+          "zh": "迟到"
+        },
+        {
+          "original": "поспішай",
+          "pinyin": "pospishái",
+          "it": "affrettati",
+          "en": "hurry",
+          "zh": "着急"
+        },
+        {
+          "original": "прийшов",
+          "pinyin": "pryishóv",
+          "it": "sono arrivato",
+          "en": "arrived",
+          "zh": "到了"
+        },
+        {
+          "original": "п'ятій",
+          "pinyin": "pyátiy",
+          "it": "le cinque",
+          "en": "five (o'clock)",
+          "zh": "五点"
+        }
+      ]
+    },
+    {
+      "lesson": 12,
+      "words": [
+        {
+          "original": "хочеш",
+          "pinyin": "khóchesh",
+          "it": "vuoi",
+          "en": "(you) want",
+          "zh": "想要"
+        },
+        {
+          "original": "кави",
+          "pinyin": "kávy",
+          "it": "un caffè",
+          "en": "coffee",
+          "zh": "咖啡"
+        },
+        {
+          "original": "із",
+          "pinyin": "iz",
+          "it": "con",
+          "en": "with",
+          "zh": "带着"
+        },
+        {
+          "original": "задоволенням",
+          "pinyin": "zadovólenniam",
+          "it": "piacere",
+          "en": "pleasure",
+          "zh": "乐意"
+        },
+        {
+          "original": "чаю",
+          "pinyin": "cháyu",
+          "it": "un tè",
+          "en": "tea",
+          "zh": "茶"
+        },
+        {
+          "original": "краще",
+          "pinyin": "kráshche",
+          "it": "preferisco",
+          "en": "rather",
+          "zh": "更好"
+        },
+        {
+          "original": "вип'ю",
+          "pinyin": "výpyu",
+          "it": "berrò",
+          "en": "will drink",
+          "zh": "喝"
+        },
+        {
+          "original": "води",
+          "pinyin": "vodý",
+          "it": "acqua",
+          "en": "water",
+          "zh": "水"
+        },
+        {
+          "original": "цукром",
+          "pinyin": "tsúkrom",
+          "it": "zucchero",
+          "en": "sugar",
+          "zh": "糖"
+        },
+        {
+          "original": "цукру",
+          "pinyin": "tsúkru",
+          "it": "zucchero",
+          "en": "sugar",
+          "zh": "糖"
+        },
+        {
+          "original": "одну",
+          "pinyin": "odnú",
+          "it": "un'altra",
+          "en": "another",
+          "zh": "一"
+        },
+        {
+          "original": "ні",
+          "pinyin": "ni",
+          "it": "no",
+          "en": "no",
+          "zh": "不"
+        }
+      ]
+    },
+    {
+      "lesson": 13,
+      "words": [
+        {
+          "original": "снідала",
+          "pinyin": "snídala",
+          "it": "hai fatto colazione",
+          "en": "had breakfast",
+          "zh": "吃过早饭了"
+        },
+        {
+          "original": "голодний",
+          "pinyin": "holódnyi",
+          "it": "affamato",
+          "en": "hungry",
+          "zh": "饿"
+        },
+        {
+          "original": "приготуємо",
+          "pinyin": "pryhotúyemo",
+          "it": "prepariamo",
+          "en": "(we) will prepare",
+          "zh": "做"
+        },
+        {
+          "original": "обід",
+          "pinyin": "obíd",
+          "it": "pranzo",
+          "en": "lunch",
+          "zh": "午饭"
+        },
+        {
+          "original": "смачного",
+          "pinyin": "smachnóho",
+          "it": "buon appetito",
+          "en": "enjoy your meal",
+          "zh": "请慢用"
+        },
+        {
+          "original": "смачно",
+          "pinyin": "smáchno",
+          "it": "buono",
+          "en": "tasty",
+          "zh": "好吃"
+        },
+        {
+          "original": "спробуй",
+          "pinyin": "spróbui",
+          "it": "assaggia",
+          "en": "try",
+          "zh": "尝尝"
+        },
+        {
+          "original": "наївся",
+          "pinyin": "nayívsia",
+          "it": "sono sazio",
+          "en": "am full",
+          "zh": "吃饱了"
+        },
+        {
+          "original": "коли",
+          "pinyin": "kolý",
+          "it": "quando",
+          "en": "when",
+          "zh": "什么时候"
+        },
+        {
+          "original": "будемо",
+          "pinyin": "búdemo",
+          "it": "faremo",
+          "en": "will (we)",
+          "zh": "会"
+        },
+        {
+          "original": "вечеряти",
+          "pinyin": "vechériaty",
+          "it": "cenare",
+          "en": "to have dinner",
+          "zh": "吃晚饭"
+        },
+        {
+          "original": "поїм",
+          "pinyin": "poyím",
+          "it": "mangerò",
+          "en": "will eat",
+          "zh": "吃"
+        }
+      ]
+    },
+    {
+      "lesson": 14,
+      "words": [
+        {
+          "original": "паста",
+          "pinyin": "pásta",
+          "it": "la pasta",
+          "en": "pasta",
+          "zh": "意大利面"
+        },
+        {
+          "original": "люблю",
+          "pinyin": "liubliú",
+          "it": "amo",
+          "en": "love",
+          "zh": "喜欢"
+        },
+        {
+          "original": "піцу",
+          "pinyin": "pítsu",
+          "it": "pizza",
+          "en": "pizza",
+          "zh": "披萨"
+        },
+        {
+          "original": "вмієш",
+          "pinyin": "vmíyesh",
+          "it": "sai fare",
+          "en": "know how to",
+          "zh": "会"
+        },
+        {
+          "original": "варити",
+          "pinyin": "varýty",
+          "it": "cucinare",
+          "en": "to cook",
+          "zh": "煮"
+        },
+        {
+          "original": "борщ",
+          "pinyin": "borshch",
+          "it": "il borscht",
+          "en": "borscht",
+          "zh": "红菜汤"
+        },
+        {
+          "original": "хочу",
+          "pinyin": "khóchu",
+          "it": "voglio",
+          "en": "(I) want",
+          "zh": "想"
+        },
+        {
+          "original": "спробувати",
+          "pinyin": "spróbuvaty",
+          "it": "assaggiare",
+          "en": "to try",
+          "zh": "尝尝"
+        },
+        {
+          "original": "страва",
+          "pinyin": "stráva",
+          "it": "piatto",
+          "en": "dish",
+          "zh": "菜"
+        },
+        {
+          "original": "типова",
+          "pinyin": "typóva",
+          "it": "tipica",
+          "en": "typical",
+          "zh": "典型"
+        },
+        {
+          "original": "сардинська",
+          "pinyin": "sardýnska",
+          "it": "sarda",
+          "en": "Sardinian",
+          "zh": "撒丁岛的"
+        },
+        {
+          "original": "смак",
+          "pinyin": "smak",
+          "it": "sapore",
+          "en": "taste",
+          "zh": "味道"
+        },
+        {
+          "original": "зовсім",
+          "pinyin": "zóvsim",
+          "it": "completamente",
+          "en": "completely",
+          "zh": "完全"
+        },
+        {
+          "original": "інший",
+          "pinyin": "ínshyi",
+          "it": "diverso",
+          "en": "different",
+          "zh": "不一样"
+        },
+        {
+          "original": "гостре",
+          "pinyin": "hóstre",
+          "it": "piccante",
+          "en": "spicy",
+          "zh": "辣"
+        },
+        {
+          "original": "ніжне",
+          "pinyin": "nízhne",
+          "it": "delicato",
+          "en": "delicate",
+          "zh": "清淡"
+        }
+      ]
+    },
+    {
+      "lesson": 15,
+      "words": [
+        {
+          "original": "купити",
+          "pinyin": "kupýty",
+          "it": "comprare",
+          "en": "to buy",
+          "zh": "买"
+        },
+        {
+          "original": "хліб",
+          "pinyin": "khlib",
+          "it": "il pane",
+          "en": "bread",
+          "zh": "面包"
+        },
+        {
+          "original": "молоко",
+          "pinyin": "molokó",
+          "it": "il latte",
+          "en": "milk",
+          "zh": "牛奶"
+        },
+        {
+          "original": "купимо",
+          "pinyin": "kúpymo",
+          "it": "compriamo",
+          "en": "(we) will buy",
+          "zh": "买"
+        },
+        {
+          "original": "фруктів",
+          "pinyin": "frúktiv",
+          "it": "frutta",
+          "en": "fruit",
+          "zh": "水果"
+        },
+        {
+          "original": "помідори",
+          "pinyin": "pomidóry",
+          "it": "i pomodori",
+          "en": "tomatoes",
+          "zh": "西红柿"
+        },
+        {
+          "original": "ці",
+          "pinyin": "tsi",
+          "it": "queste",
+          "en": "these",
+          "zh": "这些"
+        },
+        {
+          "original": "яблука",
+          "pinyin": "yábluka",
+          "it": "mele",
+          "en": "apples",
+          "zh": "苹果"
+        },
+        {
+          "original": "солодкі",
+          "pinyin": "solódki",
+          "it": "dolci",
+          "en": "sweet",
+          "zh": "甜"
+        },
+        {
+          "original": "де",
+          "pinyin": "de",
+          "it": "dove",
+          "en": "where",
+          "zh": "哪里"
+        },
+        {
+          "original": "овочі",
+          "pinyin": "óvochi",
+          "it": "verdure",
+          "en": "vegetables",
+          "zh": "蔬菜"
+        },
+        {
+          "original": "потрібен",
+          "pinyin": "potríben",
+          "it": "serve",
+          "en": "needed",
+          "zh": "需要"
+        },
+        {
+          "original": "сир",
+          "pinyin": "syr",
+          "it": "formaggio",
+          "en": "cheese",
+          "zh": "奶酪"
+        },
+        {
+          "original": "візьмемо",
+          "pinyin": "vízmemo",
+          "it": "prendiamo",
+          "en": "(we) will take",
+          "zh": "拿"
+        },
+        {
+          "original": "оливкову",
+          "pinyin": "olývkovu",
+          "it": "d'oliva",
+          "en": "olive",
+          "zh": "橄榄的"
+        },
+        {
+          "original": "олію",
+          "pinyin": "olíyu",
+          "it": "olio",
+          "en": "oil",
+          "zh": "油"
+        },
+        {
+          "original": "супермаркет",
+          "pinyin": "supermárket",
+          "it": "supermercato",
+          "en": "supermarket",
+          "zh": "超市"
+        }
+      ]
+    },
+    {
+      "lesson": 16,
+      "words": [
+        {
+          "original": "дорого",
+          "pinyin": "dóroho",
+          "it": "caro",
+          "en": "expensive",
+          "zh": "贵"
+        },
+        {
+          "original": "дешевше",
+          "pinyin": "deshévshe",
+          "it": "costa meno",
+          "en": "cheaper",
+          "zh": "更便宜"
+        },
+        {
+          "original": "ціни",
+          "pinyin": "tsíny",
+          "it": "prezzi",
+          "en": "prices",
+          "zh": "价格"
+        },
+        {
+          "original": "знову",
+          "pinyin": "znóvu",
+          "it": "di nuovo",
+          "en": "again",
+          "zh": "又"
+        },
+        {
+          "original": "виросли",
+          "pinyin": "výrosly",
+          "it": "sono aumentati",
+          "en": "have risen",
+          "zh": "涨了"
+        },
+        {
+          "original": "стало",
+          "pinyin": "stálo",
+          "it": "è diventato",
+          "en": "has become",
+          "zh": "变得"
+        },
+        {
+          "original": "дорожче",
+          "pinyin": "dorózhche",
+          "it": "più caro",
+          "en": "more expensive",
+          "zh": "更贵"
+        },
+        {
+          "original": "продукти",
+          "pinyin": "prodúkty",
+          "it": "prodotti",
+          "en": "products",
+          "zh": "食品"
+        },
+        {
+          "original": "дорогі",
+          "pinyin": "dorohí",
+          "it": "cari",
+          "en": "expensive",
+          "zh": "贵"
+        },
+        {
+          "original": "кава",
+          "pinyin": "káva",
+          "it": "caffè",
+          "en": "coffee",
+          "zh": "咖啡"
+        },
+        {
+          "original": "подорожчала",
+          "pinyin": "podorozhchála",
+          "it": "è aumentato",
+          "en": "has gone up in price",
+          "zh": "涨价了"
+        },
+        {
+          "original": "раніше",
+          "pinyin": "raníshe",
+          "it": "prima",
+          "en": "before",
+          "zh": "以前"
+        },
+        {
+          "original": "ціна",
+          "pinyin": "tsiná",
+          "it": "prezzo",
+          "en": "price",
+          "zh": "价格"
+        },
+        {
+          "original": "нормальна",
+          "pinyin": "normálna",
+          "it": "ragionevole",
+          "en": "reasonable",
+          "zh": "合理"
+        },
+        {
+          "original": "хороша",
+          "pinyin": "khorósha",
+          "it": "buona",
+          "en": "good",
+          "zh": "不错"
+        },
+        {
+          "original": "економити",
+          "pinyin": "ekonómyty",
+          "it": "risparmiare",
+          "en": "to save money",
+          "zh": "省钱"
+        }
+      ]
+    },
+    {
+      "lesson": 17,
+      "words": [
+        {
+          "original": "яка",
+          "pinyin": "yaká",
+          "it": "che",
+          "en": "what",
+          "zh": "什么样"
+        },
+        {
+          "original": "погода",
+          "pinyin": "pohóda",
+          "it": "tempo",
+          "en": "weather",
+          "zh": "天气"
+        },
+        {
+          "original": "тепло",
+          "pinyin": "téplo",
+          "it": "caldo",
+          "en": "warm",
+          "zh": "暖和"
+        },
+        {
+          "original": "сонце",
+          "pinyin": "sóntse",
+          "it": "sole",
+          "en": "sun",
+          "zh": "太阳"
+        },
+        {
+          "original": "пече",
+          "pinyin": "peché",
+          "it": "picchia",
+          "en": "beats down",
+          "zh": "晒"
+        },
+        {
+          "original": "хмарно",
+          "pinyin": "khmárno",
+          "it": "nuvoloso",
+          "en": "cloudy",
+          "zh": "多云"
+        },
+        {
+          "original": "здається",
+          "pinyin": "zdayétsia",
+          "it": "sembra",
+          "en": "it seems",
+          "zh": "好像"
+        },
+        {
+          "original": "дощ",
+          "pinyin": "doshch",
+          "it": "pioggia",
+          "en": "rain",
+          "zh": "雨"
+        },
+        {
+          "original": "сильний",
+          "pinyin": "sýlnyi",
+          "it": "forte",
+          "en": "strong",
+          "zh": "大"
+        },
+        {
+          "original": "вітер",
+          "pinyin": "víter",
+          "it": "vento",
+          "en": "wind",
+          "zh": "风"
+        },
+        {
+          "original": "надворі",
+          "pinyin": "nadvorí",
+          "it": "fuori",
+          "en": "outside",
+          "zh": "外面"
+        },
+        {
+          "original": "прохолодно",
+          "pinyin": "prokholódno",
+          "it": "fresco",
+          "en": "cool",
+          "zh": "凉快"
+        },
+        {
+          "original": "змінюється",
+          "pinyin": "zmíniuyetsia",
+          "it": "cambia",
+          "en": "changes",
+          "zh": "变化"
+        },
+        {
+          "original": "учора",
+          "pinyin": "uchóra",
+          "it": "ieri",
+          "en": "yesterday",
+          "zh": "昨天"
+        },
+        {
+          "original": "тепліше",
+          "pinyin": "teplíshe",
+          "it": "più caldo",
+          "en": "warmer",
+          "zh": "更暖和"
+        }
+      ]
+    },
+    {
+      "lesson": 18,
+      "words": [
+        {
+          "original": "страшна",
+          "pinyin": "strashná",
+          "it": "tremenda",
+          "en": "terrible",
+          "zh": "厉害"
+        },
+        {
+          "original": "спека",
+          "pinyin": "spéka",
+          "it": "caldo",
+          "en": "heat",
+          "zh": "酷热"
+        },
+        {
+          "original": "улітку",
+          "pinyin": "ulítku",
+          "it": "d'estate",
+          "en": "in summer",
+          "zh": "夏天"
+        },
+        {
+          "original": "жарко",
+          "pinyin": "zhárko",
+          "it": "caldo",
+          "en": "hot",
+          "zh": "热"
+        },
+        {
+          "original": "погано",
+          "pinyin": "poháno",
+          "it": "male",
+          "en": "badly",
+          "zh": "不好"
+        },
+        {
+          "original": "спав",
+          "pinyin": "spav",
+          "it": "ho dormito",
+          "en": "slept",
+          "zh": "睡了"
+        },
+        {
+          "original": "уночі",
+          "pinyin": "unochí",
+          "it": "di notte",
+          "en": "at night",
+          "zh": "夜里"
+        },
+        {
+          "original": "спекотно",
+          "pinyin": "spekótno",
+          "it": "caldo",
+          "en": "hot",
+          "zh": "炎热"
+        },
+        {
+          "original": "пий",
+          "pinyin": "pyi",
+          "it": "bevi",
+          "en": "drink",
+          "zh": "喝"
+        },
+        {
+          "original": "холодної",
+          "pinyin": "kholódnoyi",
+          "it": "fredda",
+          "en": "cold",
+          "zh": "冷"
+        },
+        {
+          "original": "увімкнути",
+          "pinyin": "uvimknúty",
+          "it": "accendere",
+          "en": "to switch on",
+          "zh": "打开"
+        },
+        {
+          "original": "кондиціонер",
+          "pinyin": "kondytsionér",
+          "it": "aria condizionata",
+          "en": "air conditioner",
+          "zh": "空调"
+        },
+        {
+          "original": "вентилятор",
+          "pinyin": "ventyliátor",
+          "it": "ventilatore",
+          "en": "fan",
+          "zh": "风扇"
+        },
+        {
+          "original": "допомагає",
+          "pinyin": "dopomaháye",
+          "it": "aiuta",
+          "en": "helps",
+          "zh": "管用"
+        },
+        {
+          "original": "сонці",
+          "pinyin": "sóntsi",
+          "it": "sole",
+          "en": "sun",
+          "zh": "太阳"
+        },
+        {
+          "original": "бути",
+          "pinyin": "búty",
+          "it": "stare",
+          "en": "to be",
+          "zh": "待"
+        },
+        {
+          "original": "тіні",
+          "pinyin": "tíni",
+          "it": "ombra",
+          "en": "shade",
+          "zh": "阴凉处"
+        }
+      ]
+    },
+    {
+      "lesson": 19,
+      "words": [
+        {
+          "original": "любиш",
+          "pinyin": "liúbysh",
+          "it": "ti piace",
+          "en": "(you) like",
+          "zh": "喜欢"
+        },
+        {
+          "original": "море",
+          "pinyin": "móre",
+          "it": "mare",
+          "en": "sea",
+          "zh": "海"
+        },
+        {
+          "original": "ходімо",
+          "pinyin": "khodímo",
+          "it": "andiamo",
+          "en": "let's go",
+          "zh": "我们去吧"
+        },
+        {
+          "original": "пляж",
+          "pinyin": "pliazh",
+          "it": "spiaggia",
+          "en": "beach",
+          "zh": "海滩"
+        },
+        {
+          "original": "спокійне",
+          "pinyin": "spokíyne",
+          "it": "calmo",
+          "en": "calm",
+          "zh": "平静"
+        },
+        {
+          "original": "вода",
+          "pinyin": "vodá",
+          "it": "acqua",
+          "en": "water",
+          "zh": "水"
+        },
+        {
+          "original": "тепла",
+          "pinyin": "tépla",
+          "it": "calda",
+          "en": "warm",
+          "zh": "暖"
+        },
+        {
+          "original": "будеш",
+          "pinyin": "búdesh",
+          "it": "farai",
+          "en": "will (you)",
+          "zh": "会"
+        },
+        {
+          "original": "плавати",
+          "pinyin": "plávaty",
+          "it": "nuotare",
+          "en": "to swim",
+          "zh": "游泳"
+        },
+        {
+          "original": "забудь",
+          "pinyin": "zabúd",
+          "it": "dimentica",
+          "en": "forget",
+          "zh": "忘记"
+        },
+        {
+          "original": "рушник",
+          "pinyin": "rushnýk",
+          "it": "asciugamano",
+          "en": "towel",
+          "zh": "毛巾"
+        },
+        {
+          "original": "взяти",
+          "pinyin": "vziáty",
+          "it": "prendere",
+          "en": "to take",
+          "zh": "带"
+        },
+        {
+          "original": "крем",
+          "pinyin": "krem",
+          "it": "crema",
+          "en": "cream",
+          "zh": "乳霜"
+        },
+        {
+          "original": "сонця",
+          "pinyin": "sóntsia",
+          "it": "sole",
+          "en": "sun",
+          "zh": "太阳"
+        },
+        {
+          "original": "гарний",
+          "pinyin": "hárnyi",
+          "it": "bello",
+          "en": "nice",
+          "zh": "漂亮"
+        }
+      ]
+    },
+    {
+      "lesson": 20,
+      "words": [
+        {
+          "original": "гарне",
+          "pinyin": "hárne",
+          "it": "bello",
+          "en": "beautiful",
+          "zh": "漂亮"
+        },
+        {
+          "original": "різна",
+          "pinyin": "rízna",
+          "it": "varia",
+          "en": "varied",
+          "zh": "多样"
+        },
+        {
+          "original": "гарних",
+          "pinyin": "hárnykh",
+          "it": "belli",
+          "en": "nice",
+          "zh": "漂亮"
+        },
+        {
+          "original": "місць",
+          "pinyin": "mists",
+          "it": "posti",
+          "en": "places",
+          "zh": "地方"
+        },
+        {
+          "original": "недалеко",
+          "pinyin": "nedaléko",
+          "it": "non lontano",
+          "en": "not far",
+          "zh": "不远"
+        },
+        {
+          "original": "Поетто",
+          "pinyin": "Poétto",
+          "it": "Poetto",
+          "en": "Poetto",
+          "zh": "波埃托"
+        },
+        {
+          "original": "поруч",
+          "pinyin": "póruch",
+          "it": "vicino",
+          "en": "nearby",
+          "zh": "附近"
+        },
+        {
+          "original": "люблять",
+          "pinyin": "liúbliat",
+          "it": "amano",
+          "en": "(they) love",
+          "zh": "喜欢"
+        },
+        {
+          "original": "довгі",
+          "pinyin": "dóvhi",
+          "it": "lunghi",
+          "en": "long",
+          "zh": "长"
+        },
+        {
+          "original": "обіди",
+          "pinyin": "obídy",
+          "it": "pranzi",
+          "en": "lunches",
+          "zh": "午饭"
+        },
+        {
+          "original": "туристів",
+          "pinyin": "turýstiv",
+          "it": "turisti",
+          "en": "tourists",
+          "zh": "游客"
+        },
+        {
+          "original": "покажу",
+          "pinyin": "pokazhú",
+          "it": "mostrerò",
+          "en": "will show",
+          "zh": "会给……看"
+        }
+      ]
+    },
+    {
+      "lesson": 21,
+      "words": [
+        {
+          "original": "йдеш",
+          "pinyin": "ydesh",
+          "it": "vai",
+          "en": "(you) go (on foot)",
+          "zh": "走"
+        },
+        {
+          "original": "пішки",
+          "pinyin": "píshky",
+          "it": "a piedi",
+          "en": "on foot",
+          "zh": "步行"
+        },
+        {
+          "original": "поїду",
+          "pinyin": "poyídu",
+          "it": "andrò",
+          "en": "will go (by vehicle)",
+          "zh": "去"
+        },
+        {
+          "original": "автобусом",
+          "pinyin": "avtóbusom",
+          "it": "autobus",
+          "en": "bus",
+          "zh": "公交车"
+        },
+        {
+          "original": "машині",
+          "pinyin": "mashýni",
+          "it": "macchina",
+          "en": "car",
+          "zh": "汽车"
+        },
+        {
+          "original": "звідси",
+          "pinyin": "zvídsy",
+          "it": "da qui",
+          "en": "from here",
+          "zh": "从这里"
+        },
+        {
+          "original": "можна",
+          "pinyin": "mózhna",
+          "it": "si può",
+          "en": "one can",
+          "zh": "可以"
+        },
+        {
+          "original": "дійти",
+          "pinyin": "diytý",
+          "it": "raggiungere",
+          "en": "to reach",
+          "zh": "走到"
+        },
+        {
+          "original": "автобус",
+          "pinyin": "avtóbus",
+          "it": "autobus",
+          "en": "bus",
+          "zh": "公交车"
+        },
+        {
+          "original": "уже",
+          "pinyin": "uzhé",
+          "it": "già",
+          "en": "already",
+          "zh": "已经"
+        },
+        {
+          "original": "їде",
+          "pinyin": "yíde",
+          "it": "va",
+          "en": "is going (by vehicle)",
+          "zh": "开"
+        },
+        {
+          "original": "наша",
+          "pinyin": "násha",
+          "it": "nostra",
+          "en": "our",
+          "zh": "我们的"
+        },
+        {
+          "original": "зупинка",
+          "pinyin": "zupýnka",
+          "it": "fermata",
+          "en": "stop",
+          "zh": "车站"
+        },
+        {
+          "original": "скоро",
+          "pinyin": "skóro",
+          "it": "presto",
+          "en": "soon",
+          "zh": "很快"
+        },
+        {
+          "original": "приїдемо",
+          "pinyin": "pryyídemo",
+          "it": "arriveremo",
+          "en": "(we) will arrive",
+          "zh": "到"
+        },
+        {
+          "original": "підвезу",
+          "pinyin": "pidvezú",
+          "it": "darò un passaggio",
+          "en": "will give a lift",
+          "zh": "捎一程"
+        }
+      ]
+    },
+    {
+      "lesson": 22,
+      "words": [
+        {
+          "original": "машин",
+          "pinyin": "mashýn",
+          "it": "macchine",
+          "en": "cars",
+          "zh": "车"
+        },
+        {
+          "original": "завжди",
+          "pinyin": "zavzhdý",
+          "it": "sempre",
+          "en": "always",
+          "zh": "总是"
+        },
+        {
+          "original": "затори",
+          "pinyin": "zatóry",
+          "it": "ingorghi",
+          "en": "traffic jams",
+          "zh": "堵车"
+        },
+        {
+          "original": "припаркуватися",
+          "pinyin": "pryparkuvátysia",
+          "it": "parcheggiare",
+          "en": "to park",
+          "zh": "停车"
+        },
+        {
+          "original": "немає",
+          "pinyin": "nemáye",
+          "it": "non c'è",
+          "en": "there isn't",
+          "zh": "没有"
+        },
+        {
+          "original": "місця",
+          "pinyin": "místsia",
+          "it": "posto",
+          "en": "space",
+          "zh": "车位"
+        },
+        {
+          "original": "пошукаю",
+          "pinyin": "poshukáyu",
+          "it": "cercherò",
+          "en": "will look for",
+          "zh": "找找"
+        },
+        {
+          "original": "далі",
+          "pinyin": "dáli",
+          "it": "più avanti",
+          "en": "further on",
+          "zh": "往前"
+        },
+        {
+          "original": "паркуватися",
+          "pinyin": "parkuvátysia",
+          "it": "parcheggiare",
+          "en": "to park",
+          "zh": "停车"
+        },
+        {
+          "original": "запізнимось",
+          "pinyin": "zapíznymos",
+          "it": "faremo tardi",
+          "en": "(we) will be late",
+          "zh": "迟到"
+        },
+        {
+          "original": "дорога",
+          "pinyin": "doróha",
+          "it": "strada",
+          "en": "road",
+          "zh": "路"
+        },
+        {
+          "original": "вільна",
+          "pinyin": "vílna",
+          "it": "libera",
+          "en": "free",
+          "zh": "畅通"
+        },
+        {
+          "original": "приїхав",
+          "pinyin": "pryyíkhav",
+          "it": "sono arrivato",
+          "en": "arrived",
+          "zh": "到了"
+        },
+        {
+          "original": "знайти",
+          "pinyin": "znaitý",
+          "it": "trovare",
+          "en": "to find",
+          "zh": "找到"
+        },
+        {
+          "original": "місце",
+          "pinyin": "místse",
+          "it": "posto",
+          "en": "place",
+          "zh": "车位"
+        },
+        {
+          "original": "важко",
+          "pinyin": "vázhko",
+          "it": "difficile",
+          "en": "difficult",
+          "zh": "难"
+        }
+      ]
+    },
+    {
+      "lesson": 23,
+      "words": [
+        {
+          "original": "найближчий",
+          "pinyin": "naiblýzhchyi",
+          "it": "più vicino",
+          "en": "nearest",
+          "zh": "最近的"
+        },
+        {
+          "original": "магазин",
+          "pinyin": "mahazýn",
+          "it": "negozio",
+          "en": "shop",
+          "zh": "商店"
+        },
+        {
+          "original": "ринок",
+          "pinyin": "rýnok",
+          "it": "mercato",
+          "en": "market",
+          "zh": "市场"
+        },
+        {
+          "original": "працює",
+          "pinyin": "pratsiúye",
+          "it": "aperto",
+          "en": "open",
+          "zh": "营业"
+        },
+        {
+          "original": "кав'ярню",
+          "pinyin": "kavyárniu",
+          "it": "caffetteria",
+          "en": "café",
+          "zh": "咖啡馆"
+        },
+        {
+          "original": "аптека",
+          "pinyin": "aptéka",
+          "it": "farmacia",
+          "en": "pharmacy",
+          "zh": "药店"
+        },
+        {
+          "original": "пекарня",
+          "pinyin": "pekárnia",
+          "it": "panificio",
+          "en": "bakery",
+          "zh": "面包店"
+        },
+        {
+          "original": "сюди",
+          "pinyin": "siudý",
+          "it": "qui",
+          "en": "here",
+          "zh": "这里"
+        },
+        {
+          "original": "ходжу",
+          "pinyin": "khodzhú",
+          "it": "vado",
+          "en": "(I) go",
+          "zh": "来"
+        },
+        {
+          "original": "цей",
+          "pinyin": "tsei",
+          "it": "questo",
+          "en": "this",
+          "zh": "这家"
+        },
+        {
+          "original": "хороший",
+          "pinyin": "khoróshyi",
+          "it": "buono",
+          "en": "good",
+          "zh": "不错"
+        },
+        {
+          "original": "дешевші",
+          "pinyin": "deshévshi",
+          "it": "più economici",
+          "en": "cheaper",
+          "zh": "更便宜"
+        },
+        {
+          "original": "закритий",
+          "pinyin": "zakrýtyi",
+          "it": "chiuso",
+          "en": "closed",
+          "zh": "关门了"
+        },
+        {
+          "original": "можемо",
+          "pinyin": "mózhemo",
+          "it": "possiamo",
+          "en": "(we) can",
+          "zh": "我们可以"
+        },
+        {
+          "original": "зайти",
+          "pinyin": "zaitý",
+          "it": "passare",
+          "en": "to drop in",
+          "zh": "进去"
+        },
+        {
+          "original": "по",
+          "pinyin": "po",
+          "it": "lungo",
+          "en": "along",
+          "zh": "沿着"
+        },
+        {
+          "original": "дорозі",
+          "pinyin": "dorózi",
+          "it": "strada",
+          "en": "way",
+          "zh": "路上"
+        }
+      ]
+    },
+    {
+      "lesson": 24,
+      "words": [
+        {
+          "original": "почуваєшся",
+          "pinyin": "pochuváyeshsia",
+          "it": "ti senti",
+          "en": "(you) feel",
+          "zh": "感觉"
+        },
+        {
+          "original": "болить",
+          "pinyin": "bolýt",
+          "it": "fa male",
+          "en": "hurts",
+          "zh": "疼"
+        },
+        {
+          "original": "голова",
+          "pinyin": "holová",
+          "it": "testa",
+          "en": "head",
+          "zh": "头"
+        },
+        {
+          "original": "застудився",
+          "pinyin": "zastudývsia",
+          "it": "mi sono raffreddato",
+          "en": "caught a cold",
+          "zh": "感冒了"
+        },
+        {
+          "original": "відпочинь",
+          "pinyin": "vidpochýn",
+          "it": "riposati",
+          "en": "rest",
+          "zh": "休息一下"
+        },
+        {
+          "original": "випий",
+          "pinyin": "výpyi",
+          "it": "bevi",
+          "en": "drink",
+          "zh": "喝点"
+        },
+        {
+          "original": "медом",
+          "pinyin": "médom",
+          "it": "miele",
+          "en": "honey",
+          "zh": "蜂蜜"
+        },
+        {
+          "original": "сил",
+          "pinyin": "syl",
+          "it": "forze",
+          "en": "strength",
+          "zh": "力气"
+        },
+        {
+          "original": "майже",
+          "pinyin": "máizhe",
+          "it": "quasi",
+          "en": "almost",
+          "zh": "几乎"
+        },
+        {
+          "original": "мине",
+          "pinyin": "myné",
+          "it": "passerà",
+          "en": "will pass",
+          "zh": "会过去"
+        }
+      ]
+    },
+    {
+      "lesson": 25,
+      "words": [
+        {
+          "original": "чергова",
+          "pinyin": "cherhóva",
+          "it": "di turno",
+          "en": "on duty",
+          "zh": "值班的"
+        },
+        {
+          "original": "потрібні",
+          "pinyin": "potríbni",
+          "it": "servono",
+          "en": "needed",
+          "zh": "需要"
+        },
+        {
+          "original": "ліки",
+          "pinyin": "líky",
+          "it": "medicine",
+          "en": "medicine",
+          "zh": "药"
+        },
+        {
+          "original": "спитай",
+          "pinyin": "spytái",
+          "it": "chiedi",
+          "en": "ask",
+          "zh": "问问"
+        },
+        {
+          "original": "фармацевта",
+          "pinyin": "farmatsévta",
+          "it": "farmacista",
+          "en": "pharmacist",
+          "zh": "药剂师"
+        },
+        {
+          "original": "подзвонити",
+          "pinyin": "podzvonýty",
+          "it": "chiamare",
+          "en": "to call",
+          "zh": "打电话"
+        },
+        {
+          "original": "лікарю",
+          "pinyin": "líkariu",
+          "it": "medico",
+          "en": "doctor",
+          "zh": "医生"
+        },
+        {
+          "original": "температура",
+          "pinyin": "temperatúra",
+          "it": "febbre",
+          "en": "fever",
+          "zh": "发烧"
+        },
+        {
+          "original": "почалося",
+          "pinyin": "pochalósia",
+          "it": "è cominciato",
+          "en": "started",
+          "zh": "开始了"
+        },
+        {
+          "original": "лікар",
+          "pinyin": "líkar",
+          "it": "medico",
+          "en": "doctor",
+          "zh": "医生"
+        },
+        {
+          "original": "приймає",
+          "pinyin": "pryimáye",
+          "it": "riceve",
+          "en": "sees patients",
+          "zh": "坐诊"
+        },
+        {
+          "original": "можу",
+          "pinyin": "mózhu",
+          "it": "posso",
+          "en": "(I) can",
+          "zh": "我可以"
+        },
+        {
+          "original": "допомогти",
+          "pinyin": "dopomohtý",
+          "it": "aiutare",
+          "en": "to help",
+          "zh": "帮忙"
+        },
+        {
+          "original": "бережи",
+          "pinyin": "berezhý",
+          "it": "abbi cura",
+          "en": "take care",
+          "zh": "照顾好"
+        },
+        {
+          "original": "себе",
+          "pinyin": "sebé",
+          "it": "te stesso",
+          "en": "yourself",
+          "zh": "自己"
+        }
+      ]
+    },
+    {
+      "lesson": 26,
+      "words": [
+        {
+          "original": "потрібно",
+          "pinyin": "potríbno",
+          "it": "serve",
+          "en": "needed",
+          "zh": "需要"
+        },
+        {
+          "original": "гаразд",
+          "pinyin": "harázd",
+          "it": "a posto",
+          "en": "all right",
+          "zh": "没问题"
+        },
+        {
+          "original": "залишити",
+          "pinyin": "zalyshýty",
+          "it": "lasciare",
+          "en": "to leave",
+          "zh": "留下"
+        },
+        {
+          "original": "робити",
+          "pinyin": "robýty",
+          "it": "fare",
+          "en": "to do",
+          "zh": "做"
+        },
+        {
+          "original": "зроби",
+          "pinyin": "zrobý",
+          "it": "fai",
+          "en": "do",
+          "zh": "做"
+        },
+        {
+          "original": "невелику",
+          "pinyin": "nevelýku",
+          "it": "piccola",
+          "en": "small",
+          "zh": "小"
+        },
+        {
+          "original": "перерву",
+          "pinyin": "perérvu",
+          "it": "pausa",
+          "en": "break",
+          "zh": "休息"
+        },
+        {
+          "original": "сам",
+          "pinyin": "sam",
+          "it": "da solo",
+          "en": "myself",
+          "zh": "自己"
+        },
+        {
+          "original": "зроблю",
+          "pinyin": "zrobliú",
+          "it": "farò",
+          "en": "will do",
+          "zh": "做"
+        },
+        {
+          "original": "якщо",
+          "pinyin": "yakshchó",
+          "it": "se",
+          "en": "if",
+          "zh": "如果"
+        },
+        {
+          "original": "допомогу",
+          "pinyin": "dopomóhu",
+          "it": "aiuto",
+          "en": "help",
+          "zh": "帮助"
+        }
+      ]
+    },
+    {
+      "lesson": 27,
+      "words": [
+        {
+          "original": "робитимеш",
+          "pinyin": "robýtymesh",
+          "it": "farai",
+          "en": "will (you) do",
+          "zh": "会做"
+        },
+        {
+          "original": "планував",
+          "pinyin": "planuváv",
+          "it": "avevo intenzione",
+          "en": "was planning",
+          "zh": "打算"
+        },
+        {
+          "original": "відпочити",
+          "pinyin": "vidpochýty",
+          "it": "riposarsi",
+          "en": "to rest",
+          "zh": "休息"
+        },
+        {
+          "original": "побачуся",
+          "pinyin": "pobáchusia",
+          "it": "mi vedrò",
+          "en": "will see (each other)",
+          "zh": "见面"
+        },
+        {
+          "original": "друзями",
+          "pinyin": "drúziamy",
+          "it": "amici",
+          "en": "friends",
+          "zh": "朋友们"
+        },
+        {
+          "original": "неділю",
+          "pinyin": "nedíliu",
+          "it": "domenica",
+          "en": "Sunday",
+          "zh": "星期日"
+        },
+        {
+          "original": "гарна",
+          "pinyin": "hárna",
+          "it": "bella",
+          "en": "nice",
+          "zh": "好"
+        },
+        {
+          "original": "погуляти",
+          "pinyin": "pohuliáty",
+          "it": "passeggiare",
+          "en": "to take a walk",
+          "zh": "出去走走"
+        },
+        {
+          "original": "суботу",
+          "pinyin": "subótu",
+          "it": "sabato",
+          "en": "Saturday",
+          "zh": "星期六"
+        },
+        {
+          "original": "подивимось",
+          "pinyin": "podyvýmos",
+          "it": "vedremo",
+          "en": "(we) will see",
+          "zh": "看看"
+        }
+      ]
+    },
+    {
+      "lesson": 28,
+      "words": [
+        {
+          "original": "пообідати",
+          "pinyin": "poobídaty",
+          "it": "pranzare",
+          "en": "to have lunch",
+          "zh": "吃午饭"
+        },
+        {
+          "original": "разом",
+          "pinyin": "rázom",
+          "it": "insieme",
+          "en": "together",
+          "zh": "一起"
+        },
+        {
+          "original": "залюбки",
+          "pinyin": "zaliúbky",
+          "it": "volentieri",
+          "en": "gladly",
+          "zh": "很乐意"
+        },
+        {
+          "original": "заходь",
+          "pinyin": "zakhód",
+          "it": "passa",
+          "en": "come round",
+          "zh": "过来"
+        },
+        {
+          "original": "повечеряємо",
+          "pinyin": "povechériayemo",
+          "it": "ceneremo",
+          "en": "(we) will have dinner",
+          "zh": "吃晚饭"
+        },
+        {
+          "original": "зручно",
+          "pinyin": "zrúchno",
+          "it": "comodo",
+          "en": "convenient",
+          "zh": "方便"
+        },
+        {
+          "original": "приготую",
+          "pinyin": "pryhotúyu",
+          "it": "preparerò",
+          "en": "will prepare",
+          "zh": "会准备"
+        },
+        {
+          "original": "принось",
+          "pinyin": "prynós",
+          "it": "porta",
+          "en": "bring",
+          "zh": "带来"
+        },
+        {
+          "original": "приходь",
+          "pinyin": "prykhód",
+          "it": "vieni",
+          "en": "come",
+          "zh": "来"
+        },
+        {
+          "original": "восьмої",
+          "pinyin": "vosmóyi",
+          "it": "otto",
+          "en": "eight (o'clock)",
+          "zh": "八点"
+        }
+      ]
+    },
+    {
+      "lesson": 29,
+      "words": [
+        {
+          "original": "бачила",
+          "pinyin": "báchyla",
+          "it": "hai visto",
+          "en": "saw",
+          "zh": "看到了"
+        },
+        {
+          "original": "повідомлення",
+          "pinyin": "povidómlennia",
+          "it": "messaggio",
+          "en": "message",
+          "zh": "消息"
+        },
+        {
+          "original": "передзвоню",
+          "pinyin": "peredzvoniú",
+          "it": "richiamerò",
+          "en": "will call back",
+          "zh": "回电话"
+        },
+        {
+          "original": "напиши",
+          "pinyin": "napyshý",
+          "it": "scrivi",
+          "en": "write",
+          "zh": "写"
+        },
+        {
+          "original": "зможеш",
+          "pinyin": "zmózhesh",
+          "it": "potrai",
+          "en": "(you) will be able",
+          "zh": "能"
+        },
+        {
+          "original": "плани",
+          "pinyin": "plány",
+          "it": "piani",
+          "en": "plans",
+          "zh": "计划"
+        },
+        {
+          "original": "змінилися",
+          "pinyin": "zminýlysia",
+          "it": "sono cambiati",
+          "en": "have changed",
+          "zh": "变了"
+        },
+        {
+          "original": "зустрітися",
+          "pinyin": "zustrítysia",
+          "it": "incontrarsi",
+          "en": "to meet",
+          "zh": "见面"
+        },
+        {
+          "original": "вийде",
+          "pinyin": "výide",
+          "it": "riuscirà",
+          "en": "will work out",
+          "zh": "行"
+        },
+        {
+          "original": "дам",
+          "pinyin": "dam",
+          "it": "darò",
+          "en": "will give",
+          "zh": "给"
+        },
+        {
+          "original": "знати",
+          "pinyin": "znáty",
+          "it": "sapere",
+          "en": "to know",
+          "zh": "知道"
+        },
+        {
+          "original": "тоді",
+          "pinyin": "todí",
+          "it": "allora",
+          "en": "then",
+          "zh": "那"
+        }
+      ]
+    },
+    {
+      "lesson": 30,
+      "words": [
+        {
+          "original": "йти",
+          "pinyin": "yty",
+          "it": "andare",
+          "en": "to go",
+          "zh": "走"
+        },
+        {
+          "original": "п'ятницю",
+          "pinyin": "pyátnytsiu",
+          "it": "venerdì",
+          "en": "Friday",
+          "zh": "星期五"
+        },
+        {
+          "original": "домовимось",
+          "pinyin": "domóvymos",
+          "it": "ci metteremo d'accordo",
+          "en": "(we) will agree",
+          "zh": "说定"
+        },
+        {
+          "original": "гарного",
+          "pinyin": "hárnoho",
+          "it": "buona",
+          "en": "good",
+          "zh": "愉快"
+        },
+        {
+          "original": "вечора",
+          "pinyin": "véchora",
+          "it": "sera",
+          "en": "evening",
+          "zh": "晚上"
+        },
+        {
+          "original": "вихідних",
+          "pinyin": "vykhidnýkh",
+          "it": "fine settimana",
+          "en": "weekend",
+          "zh": "周末"
+        },
+        {
+          "original": "усім",
+          "pinyin": "usím",
+          "it": "tutti",
+          "en": "everyone",
+          "zh": "大家"
+        },
+        {
+          "original": "скорої",
+          "pinyin": "skóroyi",
+          "it": "presto",
+          "en": "soon",
+          "zh": "很快"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,589 @@
+{
+  "_comment": "This manifest is the single authoritative source for course-level config (playback mode, translations, transliteration, which packages exist, and — as of this update — each package's own display label). The app should always read that config from here, never by inspecting an individual package JSON's own top-level fields, or by guessing a label from position — even though French/Spanish package files also happen to carry course_id/playback/translations themselves for human-readability and standalone validity, the running app must not branch on those. One source of truth avoids the desync class of bug we hit earlier in this project (the IS_ADMIN duplication). Chinese100_0N.json files carry none of these fields at all and are untouched — this manifest supplies their course-level config entirely from here. NOTE: Chinese's own code path (TL_PACK_LABELS in index.html) does NOT read the 'label' field below — it's included here for data consistency and any future migration, but Chinese's existing, working label system is intentionally left untouched. Only the generic (TTS) course system actually reads 'label' from here.",
+  "courses": [
+    {
+      "course_id": "chinese_100",
+      "course_title": "Chinese",
+      "course_abbreviation": "Chinese",
+      "playback": {
+        "mode": "audio"
+      },
+      "transliteration": "pinyin",
+      "translations": [
+        "en",
+        "it",
+        "de",
+        "fr",
+        "es"
+      ],
+      "packages": [
+        {
+          "episode_id": "Chinese100_01",
+          "label": "11"
+        },
+        {
+          "episode_id": "Chinese100_02",
+          "label": "2"
+        },
+        {
+          "episode_id": "Chinese100_03",
+          "label": "3"
+        },
+        {
+          "episode_id": "Chinese100_04",
+          "label": "4"
+        }
+      ]
+    },
+    {
+      "course_id": "french_101",
+      "course_title": "French",
+      "course_abbreviation": "French",
+      "playback": {
+        "mode": "tts",
+        "tts_lang": "fr-FR",
+        "voice_hint": "fr-FR-Standard"
+      },
+      "transliteration": null,
+      "translations": [
+        "zh",
+        "it",
+        "de",
+        "en",
+        "tl"
+      ],
+      "packages": [
+        {
+          "episode_id": "French100_01",
+          "label": "1"
+        },
+        {
+          "episode_id": "French100_02",
+          "label": "2"
+        },
+        {
+          "episode_id": "French100_03",
+          "label": "3"
+        },
+        {
+          "episode_id": "French100_04",
+          "label": "4"
+        }
+      ]
+    },
+    {
+      "course_id": "spanish_101",
+      "course_title": "Spanish",
+      "course_abbreviation": "Spanish",
+      "playback": {
+        "mode": "tts",
+        "tts_lang": "es-ES",
+        "voice_hint": "es-ES-Standard"
+      },
+      "transliteration": null,
+      "translations": [
+        "zh",
+        "it",
+        "de"
+      ],
+      "packages": [
+        {
+          "episode_id": "Spanish100_01",
+          "label": "1–2"
+        }
+      ]
+    },
+    {
+      "course_id": "tache03",
+      "course_title": "Tâche 3",
+      "course_abbreviation": "Tâche 3",
+      "playback": {
+        "mode": "tts",
+        "tts_lang": "fr-FR",
+        "voice_hint": "fr-FR-Standard"
+      },
+      "transliteration": null,
+      "translations": [
+        "zh",
+        "it"
+      ],
+      "packages": [
+        {
+          "episode_id": "Tache3_01",
+          "label": "1–2"
+        }
+      ]
+    },
+    {
+      "course_id": "challenge30",
+      "course_title": "C30",
+      "course_abbreviation": "C30",
+      "playback": {
+        "mode": "tts",
+        "tts_lang": "fr-FR",
+        "voice_hint": "fr-FR-Standard"
+      },
+      "transliteration": null,
+      "translations": [
+        "zh",
+        "it"
+      ],
+      "packages": [
+        {
+          "episode_id": "Challenge30_01",
+          "label": "1"
+        }
+      ]
+    },
+    {
+      "course_id": "MFR",
+      "course_title": "French for Mollis & Müslis (1983)",
+      "course_abbreviation": "M & M",
+      "playback": {
+        "mode": "tts",
+        "tts_lang": "fr-FR",
+        "voice_hint": "fr-FR-Standard"
+      },
+      "transliteration": null,
+      "translations": [
+        "en",
+        "de",
+        "it",
+        "es",
+        "zh"
+      ],
+      "packages": [
+        {
+          "episode_id": "MFR",
+          "label": "1–20"
+        }
+      ]
+    },
+    {
+      "course_id": "MIT",
+      "course_title": "Italian for Mollis & Müslis (1983)",
+      "course_abbreviation": "M & M",
+      "playback": {
+        "mode": "tts",
+        "tts_lang": "it-IT",
+        "voice_hint": "it-IT-Standard"
+      },
+      "transliteration": null,
+      "translations": [
+        "en",
+        "de",
+        "fr",
+        "es",
+        "zh"
+      ],
+      "packages": [
+        {
+          "episode_id": "MIT",
+          "label": "1–20"
+        }
+      ]
+    },
+    {
+      "course_id": "VenusFR",
+      "course_title": "French Between the Hills of Venus (1991)",
+      "course_abbreviation": "Hills of Venus",
+      "playback": {
+        "mode": "tts",
+        "tts_lang": "fr-FR",
+        "voice_hint": "fr-FR-Standard"
+      },
+      "transliteration": null,
+      "translations": [
+        "en",
+        "de",
+        "it",
+        "es",
+        "zh"
+      ],
+      "packages": [
+        {
+          "episode_id": "VenusFR",
+          "label": "1–20"
+        }
+      ]
+    },
+    {
+      "course_id": "VenusIT",
+      "course_title": "Italian Between the Hills of Venus (1991)",
+      "course_abbreviation": "Hills of Venus",
+      "playback": {
+        "mode": "tts",
+        "tts_lang": "it-IT",
+        "voice_hint": "it-IT-Standard"
+      },
+      "transliteration": null,
+      "translations": [
+        "en",
+        "de",
+        "it",
+        "es",
+        "zh"
+      ],
+      "packages": [
+        {
+          "episode_id": "VenusIT",
+          "label": "1–24"
+        }
+      ]
+    },
+    {
+      "course_id": "aioLinguaFR",
+      "course_title": "aioLingua French (2022)",
+      "course_abbreviation": "aioLingua",
+      "playback": {
+        "mode": "tts",
+        "tts_lang": "fr-FR",
+        "voice_hint": "fr-FR-Standard"
+      },
+      "transliteration": null,
+      "translations": [
+        "en",
+        "de",
+        "it",
+        "es",
+        "zh"
+      ],
+      "packages": [
+        {
+          "episode_id": "aioLinguaFR",
+          "label": "1–20"
+        }
+      ]
+    },
+    {
+      "course_id": "aioLinguaEN",
+      "course_title": "aioLingua English (2022)",
+      "course_abbreviation": "aioLingua",
+      "playback": {
+        "mode": "tts",
+        "tts_lang": "en-US",
+        "voice_hint": "en-US-Standard"
+      },
+      "transliteration": null,
+      "translations": [
+        "fr",
+        "de",
+        "it",
+        "es",
+        "zh",
+        "pt-BR"
+      ],
+      "packages": [
+        {
+          "episode_id": "aioLinguaEN",
+          "label": "1–20"
+        }
+      ]
+    },
+    {
+      "course_id": "aioLinguaES",
+      "course_title": "aioLingua Spanish (2022)",
+      "course_abbreviation": "aioLingua",
+      "playback": {
+        "mode": "tts",
+        "tts_lang": "es-ES",
+        "voice_hint": "es-ES-Standard"
+      },
+      "transliteration": null,
+      "translations": [
+        "en",
+        "de",
+        "it",
+        "fr",
+        "zh",
+        "pt-BR"
+      ],
+      "packages": [
+        {
+          "episode_id": "aioLinguaES",
+          "label": "1–20"
+        }
+      ]
+    },
+    {
+      "course_id": "aioLinguaIT",
+      "course_title": "aioLingua Italian (2022)",
+      "course_abbreviation": "aioLingua",
+      "playback": {
+        "mode": "tts",
+        "tts_lang": "it-IT",
+        "voice_hint": "it-IT-Standard"
+      },
+      "transliteration": null,
+      "translations": [
+        "en",
+        "de",
+        "fr",
+        "es",
+        "zh",
+        "pt-BR"
+      ],
+      "packages": [
+        {
+          "episode_id": "aioLinguaIT",
+          "label": "1–20"
+        }
+      ]
+    },
+    {
+      "course_id": "aioLinguaDE",
+      "course_title": "aioLingua German (2022)",
+      "course_abbreviation": "aioLingua",
+      "playback": {
+        "mode": "tts",
+        "tts_lang": "de-DE",
+        "voice_hint": "de-DE-Standard"
+      },
+      "transliteration": null,
+      "translations": [
+        "fr",
+        "en",
+        "it",
+        "es",
+        "zh",
+        "pt-BR"
+      ],
+      "packages": [
+        {
+          "episode_id": "aioLinguaDE",
+          "label": "1–20"
+        }
+      ]
+    },
+    {
+      "course_id": "aioLinguaZH",
+      "course_title": "aioLingua Chinese (2022)",
+      "course_abbreviation": "aioLingua",
+      "playback": {
+        "mode": "tts",
+        "tts_lang": "zh-CN",
+        "voice_hint": "zh-CN-Standard"
+      },
+      "transliteration": null,
+      "translations": [
+        "fr",
+        "en",
+        "de",
+        "it",
+        "es",
+        "pt-BR"
+      ],
+      "packages": [
+        {
+          "episode_id": "aioLinguaZH",
+          "label": "1–20"
+        }
+      ]
+    },
+    {
+      "course_id": "aioLinguaPT",
+      "course_title": "aioLingua Portuguese (2022)",
+      "course_abbreviation": "aioLingua",
+      "playback": {
+        "mode": "tts",
+        "tts_lang": "pt-PT",
+        "voice_hint": "pt-PT-Standard"
+      },
+      "transliteration": null,
+      "translations": [
+        "fr",
+        "en",
+        "de",
+        "it",
+        "es",
+        "zh"
+      ],
+      "packages": [
+        {
+          "episode_id": "aioLinguaPT",
+          "label": "1–20"
+        }
+      ]
+    },
+    {
+      "course_id": "MES",
+      "course_title": "Spanish for Mollis & Müslis (1984)",
+      "course_abbreviation": "M & M",
+      "playback": {
+        "mode": "tts",
+        "tts_lang": "es-ES",
+        "voice_hint": "es-ES-Standard"
+      },
+      "transliteration": null,
+      "translations": [
+        "de",
+        "en",
+        "fr",
+        "it",
+        "zh",
+        "pt-BR"
+      ],
+      "packages": [
+        {
+          "episode_id": "MES",
+          "label": "1–19"
+        }
+      ]
+    },
+    {
+      "course_id": "MEN",
+      "course_title": "English for Mollis & Müslis (1984)",
+      "course_abbreviation": "M & M",
+      "playback": {
+        "mode": "tts",
+        "tts_lang": "en-US",
+        "voice_hint": "en-US-Standard"
+      },
+      "transliteration": null,
+      "translations": [
+        "de",
+        "fr",
+        "it",
+        "es",
+        "zh",
+        "pt-BR"
+      ],
+      "packages": [
+        {
+          "episode_id": "MEN",
+          "label": "2–14"
+        }
+      ]
+    },
+    {
+      "course_id": "Meng",
+      "course_title": "France 2026-2028",
+      "course_abbreviation": "France 2026-2028",
+      "playback": {
+        "mode": "tts",
+        "tts_lang": "fr-FR",
+        "voice_hint": "fr-FR-Standard"
+      },
+      "transliteration": null,
+      "translations": [
+        "en",
+        "zh"
+      ],
+      "packages": [
+        {
+          "episode_id": "Meng",
+          "label": "1"
+        }
+      ]
+    },
+    {
+      "course_id": "Ukrainian",
+      "course_title": "Ukrainian",
+      "course_abbreviation": "Ukrainian",
+      "playback": {
+        "mode": "tts",
+        "tts_lang": "uk-UA",
+        "voice_hint": "uk-UA-Standard"
+      },
+      "transliteration": "pinyin",
+      "translations": [
+        "en",
+        "it",
+        "de",
+        "pl",
+        "es",
+        "fr"
+      ],
+      "packages": [
+        {
+          "episode_id": "Ukrainian",
+          "label": "1"
+        }
+      ]
+    },
+    {
+      "course_id": "ukrainian_101",
+      "course_title": "UK 01 01 (2026)",
+	  "course_abbreviation": "UK 01 01",
+      "playback": {
+        "mode": "tts",
+        "tts_lang": "uk-UA",
+        "voice_hint": "uk-UA-Standard"
+      },
+      "transliteration": true,
+      "translations": [
+        "zh",
+		"en",
+        "it"
+      ],
+      "packages": [
+        {
+          "episode_id": "Ukrainian101_01",
+          "label": "Part 1"
+        }
+      ]
+    },
+    {
+      "course_id": "uzbek_101",
+      "course_title": "UZ 01 01 (2026)",
+      "course_abbreviation": "Uzbek 1.1",
+      "playback": {
+        "mode": "tts",
+        "tts_lang": "uz-UZ",
+        "voice_hint": "uz-UZ-Standard"
+      },
+      "transliteration": true,
+      "translations": [
+        "zh",
+        "en",
+        "ar",
+        "hi",
+        "kk",
+        "ko",
+        "ky",
+        "ru",
+        "tg",
+        "tr",
+        "tk",
+        "ur"
+      ],
+      "packages": [
+        {
+          "episode_id": "Uzbek01_01",
+          "label": "Part 1"
+        }
+      ]
+    },
+    {
+      "course_id": "italian_101",
+      "course_title": "IT 01 01 (2026)",
+      "course_abbreviation": "Italian 1.1",
+      "playback": {
+        "mode": "tts",
+        "tts_lang": "it-IT",
+        "voice_hint": "it-IT-Standard"
+      },
+      "transliteration": null,
+      "translations": [
+        "zh",
+        "en",
+        "de",
+        "es",
+        "fr",
+        "pt",
+        "tl",
+        "ky",
+        "uk",
+        "ar",
+        "ur",
+        "bn"
+      ],
+      "packages": [
+        {
+          "episode_id": "Italian01_01",
+          "label": "Part 1"
+        }
+      ]
+    }
+  ]
+}

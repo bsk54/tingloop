@@ -1,0 +1,24 @@
+{
+  "allowedCourses": [
+    "MFR",
+    "MIT",
+    "MES",
+    "MEN",
+    "VenusFR",
+    "VenusIT",
+    "aioLinguaZH",
+    "aioLinguaEN",
+    "aioLinguaFR",
+    "aioLinguaDE",
+    "aioLinguaPT",
+    "aioLinguaES",
+    "ukrainian_101",
+    "uzbek_101",
+    "italian_101"
+  ],
+  "defaultCourse": "VenusFR",
+  "gatePassword": null,
+  "asdf": "Ukrainian"
+}
+
+

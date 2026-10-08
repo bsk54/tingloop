@@ -1,0 +1,3167 @@
+{
+  "course_id": "ukrainian_101",
+  "course_title": "UK 01 01",
+  "playback": {
+    "mode": "tts",
+    "tts_lang": "uk-UA",
+    "voice_hint": "uk-UA-Standard"
+  },
+  "transliteration": true,
+  "translations": [
+    "it",
+    "en",
+    "zh"
+  ],
+  "lessons": [
+    {
+      "lesson": 1,
+      "title_native": "1",
+      "source_file": "Ucrainian01.txt",
+      "lines": [
+        {
+          "id": 1,
+          "type": "title",
+          "original": "Ciao, come stai?",
+          "it": "Ciao, come stai?",
+          "en": "Hello, how are you?",
+          "zh": "你好，最近怎么样？"
+        },
+        {
+          "id": 2,
+          "type": "line",
+          "original": "Привіт!",
+          "it": "Ciao!",
+          "pinyin": "Pryvít!",
+          "en": "Hi!",
+          "zh": "你好！"
+        },
+        {
+          "id": 3,
+          "type": "line",
+          "original": "Як справи?",
+          "it": "Come stai?",
+          "pinyin": "Yak správy?",
+          "en": "How are you?",
+          "zh": "最近怎么样？"
+        },
+        {
+          "id": 4,
+          "type": "line",
+          "original": "У мене все добре.",
+          "it": "Tutto bene.",
+          "pinyin": "U mené vse dóbre.",
+          "en": "I'm doing well.",
+          "zh": "我挺好的。"
+        },
+        {
+          "id": 5,
+          "type": "line",
+          "original": "Дякую, добре.",
+          "it": "Bene, grazie.",
+          "pinyin": "Diákuyu, dóbre.",
+          "en": "Good, thank you.",
+          "zh": "挺好的，谢谢。"
+        },
+        {
+          "id": 6,
+          "type": "line",
+          "original": "А в тебе?",
+          "it": "E tu?",
+          "pinyin": "A v tebé?",
+          "en": "And you?",
+          "zh": "你呢？"
+        },
+        {
+          "id": 7,
+          "type": "line",
+          "original": "Теж непогано.",
+          "it": "Anch'io, non c'è male.",
+          "pinyin": "Tezh nepoháno.",
+          "en": "Not bad either.",
+          "zh": "我也还不错。"
+        },
+        {
+          "id": 8,
+          "type": "line",
+          "original": "Радий тебе бачити.",
+          "it": "Che bello vederti.",
+          "pinyin": "Rádyi tebé báchyty.",
+          "en": "Nice to see you.",
+          "zh": "很高兴见到你。"
+        },
+        {
+          "id": 9,
+          "type": "line",
+          "original": "До зустрічі!",
+          "it": "Ci vediamo!",
+          "pinyin": "Do zústrichi!",
+          "en": "See you!",
+          "zh": "回头见！"
+        },
+        {
+          "id": 10,
+          "type": "line",
+          "original": "До завтра!",
+          "it": "A domani!",
+          "pinyin": "Do závtra!",
+          "en": "See you tomorrow!",
+          "zh": "明天见！"
+        },
+        {
+          "id": 11,
+          "type": "line",
+          "original": "Доброго ранку!",
+          "it": "Buongiorno!",
+          "pinyin": "Dóbroho ránku!",
+          "en": "Good morning!",
+          "zh": "早上好！"
+        }
+      ]
+    },
+    {
+      "lesson": 2,
+      "title_native": "2",
+      "source_file": "Ucrainian01.txt",
+      "lines": [
+        {
+          "id": 1,
+          "type": "title",
+          "original": "Cortesia e risposte rapide",
+          "it": "Cortesia e risposte rapide",
+          "en": "Courtesy and quick replies",
+          "zh": "礼貌用语和简短回应"
+        },
+        {
+          "id": 2,
+          "type": "line",
+          "original": "Дякую тобі.",
+          "it": "Ti ringrazio.",
+          "pinyin": "Diákuyu tobí.",
+          "en": "Thank you.",
+          "zh": "谢谢你。"
+        },
+        {
+          "id": 3,
+          "type": "line",
+          "original": "Будь ласка.",
+          "it": "Prego.",
+          "pinyin": "Bud láska.",
+          "en": "You're welcome.",
+          "zh": "不客气。"
+        },
+        {
+          "id": 4,
+          "type": "line",
+          "original": "Вибач, будь ласка.",
+          "it": "Scusami.",
+          "pinyin": "Výbach, bud láska.",
+          "en": "Excuse me, please.",
+          "zh": "不好意思。"
+        },
+        {
+          "id": 5,
+          "type": "line",
+          "original": "Нічого страшного.",
+          "it": "Non fa niente.",
+          "pinyin": "Nichóho stráshnoho.",
+          "en": "It's nothing.",
+          "zh": "没关系。"
+        },
+        {
+          "id": 6,
+          "type": "line",
+          "original": "Нема за що.",
+          "it": "Di niente.",
+          "pinyin": "Nemá za shcho.",
+          "en": "Don't mention it.",
+          "zh": "不用谢。"
+        },
+        {
+          "id": 7,
+          "type": "line",
+          "original": "Звісно.",
+          "it": "Certo.",
+          "pinyin": "Zvísno.",
+          "en": "Of course.",
+          "zh": "当然。"
+        },
+        {
+          "id": 8,
+          "type": "line",
+          "original": "Можливо.",
+          "it": "Può darsi.",
+          "pinyin": "Mozhlývo.",
+          "en": "Maybe.",
+          "zh": "也许吧。"
+        },
+        {
+          "id": 9,
+          "type": "line",
+          "original": "Я не проти.",
+          "it": "Per me va bene.",
+          "pinyin": "Ya ne próty.",
+          "en": "I don't mind.",
+          "zh": "我不介意。"
+        },
+        {
+          "id": 10,
+          "type": "line",
+          "original": "Добре, домовились.",
+          "it": "Va bene, d'accordo.",
+          "pinyin": "Dóbre, domóvylys.",
+          "en": "Okay, agreed.",
+          "zh": "好，就这么定了。"
+        },
+        {
+          "id": 11,
+          "type": "line",
+          "original": "Без проблем.",
+          "it": "Nessun problema.",
+          "pinyin": "Bez problém.",
+          "en": "No problem.",
+          "zh": "没问题。"
+        }
+      ]
+    },
+    {
+      "lesson": 3,
+      "title_native": "3",
+      "source_file": "Ucrainian01.txt",
+      "lines": [
+        {
+          "id": 1,
+          "type": "title",
+          "original": "Capirsi",
+          "it": "Capirsi",
+          "en": "Understanding each other",
+          "zh": "听懂对方"
+        },
+        {
+          "id": 2,
+          "type": "line",
+          "original": "Я не розумію.",
+          "it": "Non capisco.",
+          "pinyin": "Ya ne rozumíyu.",
+          "en": "I don't understand.",
+          "zh": "我不明白。"
+        },
+        {
+          "id": 3,
+          "type": "line",
+          "original": "Повтори, будь ласка.",
+          "it": "Ripeti, per favore.",
+          "pinyin": "Povtorý, bud láska.",
+          "en": "Repeat, please.",
+          "zh": "请重复一遍。"
+        },
+        {
+          "id": 4,
+          "type": "line",
+          "original": "Говори трохи повільніше.",
+          "it": "Parla un po' più piano.",
+          "pinyin": "Hovorý trókhy povílnishe.",
+          "en": "Speak a bit more slowly.",
+          "zh": "请说慢一点。"
+        },
+        {
+          "id": 5,
+          "type": "line",
+          "original": "Ще раз, будь ласка.",
+          "it": "Un'altra volta, per favore.",
+          "pinyin": "Shche raz, bud láska.",
+          "en": "One more time, please.",
+          "zh": "请再说一遍。"
+        },
+        {
+          "id": 6,
+          "type": "line",
+          "original": "Що це означає?",
+          "it": "Che cosa significa?",
+          "pinyin": "Shcho tse oznáchaye?",
+          "en": "What does this mean?",
+          "zh": "这是什么意思？"
+        },
+        {
+          "id": 7,
+          "type": "line",
+          "original": "Як це сказати?",
+          "it": "Come si dice?",
+          "pinyin": "Yak tse skazáty?",
+          "en": "How do you say this?",
+          "zh": "这个怎么说？"
+        },
+        {
+          "id": 8,
+          "type": "line",
+          "original": "Я забув це слово.",
+          "it": "Ho dimenticato questa parola.",
+          "pinyin": "Ya zabúv tse slóvo.",
+          "en": "I forgot this word.",
+          "zh": "我忘了这个词。"
+        },
+        {
+          "id": 9,
+          "type": "line",
+          "original": "Тепер зрозумів.",
+          "it": "Adesso ho capito.",
+          "pinyin": "Tepér zrozumív.",
+          "en": "Now I understand.",
+          "zh": "现在明白了。"
+        },
+        {
+          "id": 10,
+          "type": "line",
+          "original": "Так правильно?",
+          "it": "È giusto così?",
+          "pinyin": "Tak právylno?",
+          "en": "Is this correct?",
+          "zh": "这样对吗？"
+        },
+        {
+          "id": 11,
+          "type": "line",
+          "original": "Можеш показати?",
+          "it": "Puoi farmi vedere?",
+          "pinyin": "Mózhesh pokazáty?",
+          "en": "Can you show me?",
+          "zh": "你能给我看看吗？"
+        }
+      ]
+    },
+    {
+      "lesson": 4,
+      "title_native": "4",
+      "source_file": "Ucrainian01.txt",
+      "lines": [
+        {
+          "id": 1,
+          "type": "title",
+          "original": "Nomi e presentazioni",
+          "it": "Nomi e presentazioni",
+          "en": "Names and introductions",
+          "zh": "姓名和介绍"
+        },
+        {
+          "id": 2,
+          "type": "line",
+          "original": "Як тебе звати?",
+          "it": "Come ti chiami?",
+          "pinyin": "Yak tebé zváty?",
+          "en": "What's your name?",
+          "zh": "你叫什么名字？"
+        },
+        {
+          "id": 3,
+          "type": "line",
+          "original": "Мене звати Марко.",
+          "it": "Mi chiamo Marco.",
+          "pinyin": "Mené zváty Márko.",
+          "en": "My name is Marco.",
+          "zh": "我叫马尔科。"
+        },
+        {
+          "id": 4,
+          "type": "line",
+          "original": "Дуже приємно.",
+          "it": "Piacere.",
+          "pinyin": "Dúzhe pryyémno.",
+          "en": "Nice to meet you.",
+          "zh": "很高兴。"
+        },
+        {
+          "id": 5,
+          "type": "line",
+          "original": "Ми вже знайомі.",
+          "it": "Ci conosciamo già.",
+          "pinyin": "My vzhe znaiómi.",
+          "en": "We already know each other.",
+          "zh": "我们已经认识了。"
+        },
+        {
+          "id": 6,
+          "type": "line",
+          "original": "Це моя подруга.",
+          "it": "Questa è una mia amica.",
+          "pinyin": "Tse moyá pódruha.",
+          "en": "This is my friend.",
+          "zh": "她是我的朋友。"
+        },
+        {
+          "id": 7,
+          "type": "line",
+          "original": "Це мій друг.",
+          "it": "Questo è un mio amico.",
+          "pinyin": "Tse miy druh.",
+          "en": "This is my friend.",
+          "zh": "他是我的朋友。"
+        },
+        {
+          "id": 8,
+          "type": "line",
+          "original": "Ти знаєш Анну?",
+          "it": "Conosci Anna?",
+          "pinyin": "Ty znáyesh Ánnu?",
+          "en": "Do you know Anna?",
+          "zh": "你认识安娜吗？"
+        },
+        {
+          "id": 9,
+          "type": "line",
+          "original": "Так, трохи знаю.",
+          "it": "Sì, la conosco un po'.",
+          "pinyin": "Tak, trókhy znáyu.",
+          "en": "Yes, I know her a little.",
+          "zh": "认识，但不太熟。"
+        },
+        {
+          "id": 10,
+          "type": "line",
+          "original": "Ми часто бачимося.",
+          "it": "Ci vediamo spesso.",
+          "pinyin": "My chásto báchymosia.",
+          "en": "We see each other often.",
+          "zh": "我们经常见面。"
+        },
+        {
+          "id": 11,
+          "type": "line",
+          "original": "Радий познайомитися.",
+          "it": "Piacere di conoscerti.",
+          "pinyin": "Rádyi poznaiómytysia.",
+          "en": "Pleased to meet you.",
+          "zh": "很高兴认识你。"
+        }
+      ]
+    },
+    {
+      "lesson": 5,
+      "title_native": "5",
+      "source_file": "Ucrainian01.txt",
+      "lines": [
+        {
+          "id": 1,
+          "type": "title",
+          "original": "Di dove sei?",
+          "it": "Di dove sei?",
+          "en": "Where are you from?",
+          "zh": "你是哪里人？"
+        },
+        {
+          "id": 2,
+          "type": "line",
+          "original": "Звідки ти?",
+          "it": "Di dove sei?",
+          "pinyin": "Zvídky ty?",
+          "en": "Where are you from?",
+          "zh": "你是哪里人？"
+        },
+        {
+          "id": 3,
+          "type": "line",
+          "original": "Я італієць.",
+          "it": "Sono italiano.",
+          "pinyin": "Ya italíyets.",
+          "en": "I'm Italian.",
+          "zh": "我是意大利人。"
+        },
+        {
+          "id": 4,
+          "type": "line",
+          "original": "Я живу в Кальярі.",
+          "it": "Vivo a Cagliari.",
+          "pinyin": "Ya zhyvú v Kályari.",
+          "en": "I live in Cagliari.",
+          "zh": "我住在卡利亚里。"
+        },
+        {
+          "id": 5,
+          "type": "line",
+          "original": "З якого ти міста?",
+          "it": "Di quale città sei?",
+          "pinyin": "Z yakóho ty místa?",
+          "en": "What city are you from?",
+          "zh": "你是哪个城市的？"
+        },
+        {
+          "id": 6,
+          "type": "line",
+          "original": "Це далеко від Києва?",
+          "it": "È lontano da Kyiv?",
+          "pinyin": "Tse daléko vid Kýyeva?",
+          "en": "Is it far from Kyiv?",
+          "zh": "那里离基辅远吗？"
+        },
+        {
+          "id": 7,
+          "type": "line",
+          "original": "Твоє місто велике?",
+          "it": "La tua città è grande?",
+          "pinyin": "Tvoyé místo velýke?",
+          "en": "Is your city big?",
+          "zh": "你的城市大吗？"
+        },
+        {
+          "id": 8,
+          "type": "line",
+          "original": "Ти давно тут живеш?",
+          "it": "Vivi qui da molto?",
+          "pinyin": "Ty davnó tut zhyvésh?",
+          "en": "Have you lived here long?",
+          "zh": "你在这里住很久了吗？"
+        },
+        {
+          "id": 9,
+          "type": "line",
+          "original": "Тобі тут подобається?",
+          "it": "Ti piace qui?",
+          "pinyin": "Tobí tut podóbayetsia?",
+          "en": "Do you like it here?",
+          "zh": "你喜欢这里吗？"
+        },
+        {
+          "id": 10,
+          "type": "line",
+          "original": "Сардинія далеко від України.",
+          "it": "La Sardegna è lontana dall'Ucraina.",
+          "pinyin": "Sardýniya daléko vid Ukrayíny.",
+          "en": "Sardinia is far from Ukraine.",
+          "zh": "撒丁岛离乌克兰很远。"
+        },
+        {
+          "id": 11,
+          "type": "line",
+          "original": "Я ніколи там не був.",
+          "it": "Non ci sono mai stato.",
+          "pinyin": "Ya nikóly tam ne buv.",
+          "en": "I've never been there.",
+          "zh": "我从没去过那里。"
+        }
+      ]
+    },
+    {
+      "lesson": 6,
+      "title_native": "6",
+      "source_file": "Ucrainian01.txt",
+      "lines": [
+        {
+          "id": 1,
+          "type": "title",
+          "original": "Le lingue",
+          "it": "Le lingue",
+          "en": "Languages",
+          "zh": "语言"
+        },
+        {
+          "id": 2,
+          "type": "line",
+          "original": "Ти говориш італійською?",
+          "it": "Parli italiano?",
+          "pinyin": "Ty hovorýsh italíyskoyu?",
+          "en": "Do you speak Italian?",
+          "zh": "你会说意大利语吗？"
+        },
+        {
+          "id": 3,
+          "type": "line",
+          "original": "Я трохи говорю українською.",
+          "it": "Parlo un po' di ucraino.",
+          "pinyin": "Ya trókhy hovoriú ukrayínskoyu.",
+          "en": "I speak a little Ukrainian.",
+          "zh": "我会说一点乌克兰语。"
+        },
+        {
+          "id": 4,
+          "type": "line",
+          "original": "Я ще вчуся.",
+          "it": "Sto ancora imparando.",
+          "pinyin": "Ya shche vchúsia.",
+          "en": "I'm still learning.",
+          "zh": "我还在学。"
+        },
+        {
+          "id": 5,
+          "type": "line",
+          "original": "Українська непроста.",
+          "it": "L'ucraino non è facile.",
+          "pinyin": "Ukrayínska neprostá.",
+          "en": "Ukrainian isn't easy.",
+          "zh": "乌克兰语不简单。"
+        },
+        {
+          "id": 6,
+          "type": "line",
+          "original": "Італійська теж непроста.",
+          "it": "Anche l'italiano non è facile.",
+          "pinyin": "Italíyska tezh neprostá.",
+          "en": "Italian isn't easy either.",
+          "zh": "意大利语也不简单。"
+        },
+        {
+          "id": 7,
+          "type": "line",
+          "original": "Я знаю це слово.",
+          "it": "Questa parola la conosco.",
+          "pinyin": "Ya znáyu tse slóvo.",
+          "en": "I know this word.",
+          "zh": "这个词我知道。"
+        },
+        {
+          "id": 8,
+          "type": "line",
+          "original": "Цього слова не знаю.",
+          "it": "Questa parola non la conosco.",
+          "pinyin": "Tsóho slóva ne znáyu.",
+          "en": "I don't know this word.",
+          "zh": "这个词我不认识。"
+        },
+        {
+          "id": 9,
+          "type": "line",
+          "original": "Як це буде українською?",
+          "it": "Come si dice in ucraino?",
+          "pinyin": "Yak tse búde ukrayínskoyu?",
+          "en": "How do you say this in Ukrainian?",
+          "zh": "这个用乌克兰语怎么说？"
+        },
+        {
+          "id": 10,
+          "type": "line",
+          "original": "Скажи це італійською.",
+          "it": "Dillo in italiano.",
+          "pinyin": "Skazhý tse italíyskoyu.",
+          "en": "Say it in Italian.",
+          "zh": "你用意大利语说一下。"
+        },
+        {
+          "id": 11,
+          "type": "line",
+          "original": "Мені треба більше практикуватися.",
+          "it": "Devo esercitarmi di più.",
+          "pinyin": "Mení tréba bílshe praktykuvátysia.",
+          "en": "I need to practice more.",
+          "zh": "我需要多练习。"
+        }
+      ]
+    },
+    {
+      "lesson": 7,
+      "title_native": "7",
+      "source_file": "Ucrainian01.txt",
+      "lines": [
+        {
+          "id": 1,
+          "type": "title",
+          "original": "La famiglia",
+          "it": "La famiglia",
+          "en": "Family",
+          "zh": "家庭"
+        },
+        {
+          "id": 2,
+          "type": "line",
+          "original": "У тебе є діти?",
+          "it": "Hai figli?",
+          "pinyin": "U tebé ye díty?",
+          "en": "Do you have children?",
+          "zh": "你有孩子吗？"
+        },
+        {
+          "id": 3,
+          "type": "line",
+          "original": "У мене двоє дітей.",
+          "it": "Ho due figli.",
+          "pinyin": "U mené dvóye ditéi.",
+          "en": "I have two children.",
+          "zh": "我有两个孩子。"
+        },
+        {
+          "id": 4,
+          "type": "line",
+          "original": "У тебе є брати чи сестри?",
+          "it": "Hai fratelli o sorelle?",
+          "pinyin": "U tebé ye bratý chy séstry?",
+          "en": "Do you have brothers or sisters?",
+          "zh": "你有兄弟姐妹吗？"
+        },
+        {
+          "id": 5,
+          "type": "line",
+          "original": "У мене є сестра.",
+          "it": "Ho una sorella.",
+          "pinyin": "U mené ye sestrá.",
+          "en": "I have a sister.",
+          "zh": "我有姐妹。"
+        },
+        {
+          "id": 6,
+          "type": "line",
+          "original": "Як твої батьки?",
+          "it": "Come stanno i tuoi genitori?",
+          "pinyin": "Yak tvoyí batký?",
+          "en": "How are your parents?",
+          "zh": "你父母还好吗？"
+        },
+        {
+          "id": 7,
+          "type": "line",
+          "original": "У них усе добре.",
+          "it": "Stanno bene.",
+          "pinyin": "U nykh usé dóbre.",
+          "en": "They're doing well.",
+          "zh": "他们都很好。"
+        },
+        {
+          "id": 8,
+          "type": "line",
+          "original": "Вони живуть далеко?",
+          "it": "Vivono lontano?",
+          "pinyin": "Voný zhyvút daléko?",
+          "en": "Do they live far away?",
+          "zh": "他们住得远吗？"
+        },
+        {
+          "id": 9,
+          "type": "line",
+          "original": "Ми часто розмовляємо телефоном.",
+          "it": "Ci sentiamo spesso al telefono.",
+          "pinyin": "My chásto rozmovliáyemo telefónom.",
+          "en": "We talk on the phone often.",
+          "zh": "我们经常打电话聊天。"
+        },
+        {
+          "id": 10,
+          "type": "line",
+          "original": "Передавай їм привіт.",
+          "it": "Salutali da parte mia.",
+          "pinyin": "Peredavái yim pryvít.",
+          "en": "Say hello to them for me.",
+          "zh": "代我向他们问好。"
+        },
+        {
+          "id": 11,
+          "type": "line",
+          "original": "Сподіваюся, усі здорові.",
+          "it": "Spero che stiano tutti bene.",
+          "pinyin": "Spodiváyusia, usí zdoróvi.",
+          "en": "I hope everyone is well.",
+          "zh": "希望大家都健康。"
+        }
+      ]
+    },
+    {
+      "lesson": 8,
+      "title_native": "8",
+      "source_file": "Ucrainian01.txt",
+      "lines": [
+        {
+          "id": 1,
+          "type": "title",
+          "original": "Com'è andata la settimana?",
+          "it": "Com'è andata la settimana?",
+          "en": "How was the week?",
+          "zh": "这周过得怎么样？"
+        },
+        {
+          "id": 2,
+          "type": "line",
+          "original": "Як минув тиждень?",
+          "it": "Com'è andata la settimana?",
+          "pinyin": "Yak mynúv týzhden?",
+          "en": "How was the week?",
+          "zh": "这周过得怎么样？"
+        },
+        {
+          "id": 3,
+          "type": "line",
+          "original": "Добре, але швидко.",
+          "it": "Bene, ma è passata in fretta.",
+          "pinyin": "Dóbre, alé shvýdko.",
+          "en": "Good, but it went by fast.",
+          "zh": "挺好的，就是过得太快了。"
+        },
+        {
+          "id": 4,
+          "type": "line",
+          "original": "Було багато справ.",
+          "it": "Ho avuto molte cose da fare.",
+          "pinyin": "Buló baháto sprav.",
+          "en": "I had a lot to do.",
+          "zh": "有很多事要做。"
+        },
+        {
+          "id": 5,
+          "type": "line",
+          "original": "Я трохи втомився.",
+          "it": "Sono un po' stanco.",
+          "pinyin": "Ya trókhy vtomývsia.",
+          "en": "I'm a bit tired.",
+          "zh": "我有点累了。"
+        },
+        {
+          "id": 6,
+          "type": "line",
+          "original": "Тиждень був спокійний.",
+          "it": "È stata una settimana tranquilla.",
+          "pinyin": "Týzhden buv spokíynyi.",
+          "en": "It was a quiet week.",
+          "zh": "这一周挺平静的。"
+        },
+        {
+          "id": 7,
+          "type": "line",
+          "original": "Я багато працював.",
+          "it": "Ho lavorato molto.",
+          "pinyin": "Ya baháto pratsiuváv.",
+          "en": "I worked a lot.",
+          "zh": "这周工作挺多的。"
+        },
+        {
+          "id": 8,
+          "type": "line",
+          "original": "А твій тиждень?",
+          "it": "E la tua settimana?",
+          "pinyin": "A tviy týzhden?",
+          "en": "And your week?",
+          "zh": "你这周怎么样？"
+        },
+        {
+          "id": 9,
+          "type": "line",
+          "original": "Було щось цікаве?",
+          "it": "È successo qualcosa di interessante?",
+          "pinyin": "Buló shchos tsikáve?",
+          "en": "Did anything interesting happen?",
+          "zh": "有什么有意思的事吗？"
+        },
+        {
+          "id": 10,
+          "type": "line",
+          "original": "Вихідні були гарні.",
+          "it": "Il fine settimana è stato bello.",
+          "pinyin": "Vykhidní bulý hárni.",
+          "en": "The weekend was nice.",
+          "zh": "周末过得不错。"
+        },
+        {
+          "id": 11,
+          "type": "line",
+          "original": "Добре, що вже п'ятниця.",
+          "it": "Meno male che è già venerdì.",
+          "pinyin": "Dóbre, shcho vzhe pyátnytsia.",
+          "en": "Good thing it's already Friday.",
+          "zh": "幸好已经周五了。"
+        }
+      ]
+    },
+    {
+      "lesson": 9,
+      "title_native": "9",
+      "source_file": "Ucrainian01.txt",
+      "lines": [
+        {
+          "id": 1,
+          "type": "title",
+          "original": "Oggi e domani",
+          "it": "Oggi e domani",
+          "en": "Today and tomorrow",
+          "zh": "今天和明天"
+        },
+        {
+          "id": 2,
+          "type": "line",
+          "original": "Що робиш сьогодні?",
+          "it": "Che fai oggi?",
+          "pinyin": "Shcho róbysh sohódni?",
+          "en": "What are you doing today?",
+          "zh": "你今天做什么？"
+        },
+        {
+          "id": 3,
+          "type": "line",
+          "original": "Сьогодні я вдома.",
+          "it": "Oggi sono a casa.",
+          "pinyin": "Sohódni ya vdóma.",
+          "en": "I'm home today.",
+          "zh": "我今天在家。"
+        },
+        {
+          "id": 4,
+          "type": "line",
+          "original": "Потім піду в центр.",
+          "it": "Dopo vado in centro.",
+          "pinyin": "Pótim pidú v tsentr.",
+          "en": "Then I'll go downtown.",
+          "zh": "然后我去市中心。"
+        },
+        {
+          "id": 5,
+          "type": "line",
+          "original": "У мене є справи.",
+          "it": "Ho delle cose da fare.",
+          "pinyin": "U mené ye správy.",
+          "en": "I have some things to do.",
+          "zh": "我有些事要办。"
+        },
+        {
+          "id": 6,
+          "type": "line",
+          "original": "А що завтра?",
+          "it": "E domani?",
+          "pinyin": "A shcho závtra?",
+          "en": "And tomorrow?",
+          "zh": "那明天呢？"
+        },
+        {
+          "id": 7,
+          "type": "line",
+          "original": "Завтра я працюю.",
+          "it": "Domani lavoro.",
+          "pinyin": "Závtra ya pratsiúyu.",
+          "en": "I'm working tomorrow.",
+          "zh": "我明天上班。"
+        },
+        {
+          "id": 8,
+          "type": "line",
+          "original": "Завтра я вільний.",
+          "it": "Domani sono libero.",
+          "pinyin": "Závtra ya vílnyi.",
+          "en": "I'm free tomorrow.",
+          "zh": "我明天有空。"
+        },
+        {
+          "id": 9,
+          "type": "line",
+          "original": "Може, побачимось завтра?",
+          "it": "Magari ci vediamo domani?",
+          "pinyin": "Mózhe, pobáchymos závtra?",
+          "en": "Maybe we'll see each other tomorrow?",
+          "zh": "要不明天见？"
+        },
+        {
+          "id": 10,
+          "type": "line",
+          "original": "Я ще не знаю.",
+          "it": "Non lo so ancora.",
+          "pinyin": "Ya shche ne znáyu.",
+          "en": "I don't know yet.",
+          "zh": "我还不知道。"
+        },
+        {
+          "id": 11,
+          "type": "line",
+          "original": "Напишу тобі пізніше.",
+          "it": "Ti scrivo più tardi.",
+          "pinyin": "Napyshú tobí pizníshe.",
+          "en": "I'll write to you later.",
+          "zh": "我晚点给你发消息。"
+        }
+      ]
+    },
+    {
+      "lesson": 10,
+      "title_native": "10",
+      "source_file": "Ucrainian01.txt",
+      "lines": [
+        {
+          "id": 1,
+          "type": "title",
+          "original": "La giornata tipo",
+          "it": "La giornata tipo",
+          "en": "A typical day",
+          "zh": "日常作息"
+        },
+        {
+          "id": 2,
+          "type": "line",
+          "original": "Я рано встаю.",
+          "it": "Mi alzo presto.",
+          "pinyin": "Ya ráno vstayú.",
+          "en": "I get up early.",
+          "zh": "我起得早。"
+        },
+        {
+          "id": 3,
+          "type": "line",
+          "original": "Зранку п'ю каву.",
+          "it": "La mattina bevo il caffè.",
+          "pinyin": "Zránku pyu kávu.",
+          "en": "In the morning I drink coffee.",
+          "zh": "早上我喝咖啡。"
+        },
+        {
+          "id": 4,
+          "type": "line",
+          "original": "Потім іду на роботу.",
+          "it": "Poi vado al lavoro.",
+          "pinyin": "Pótim idú na robótu.",
+          "en": "Then I go to work.",
+          "zh": "然后我去上班。"
+        },
+        {
+          "id": 5,
+          "type": "line",
+          "original": "Обідаю близько першої.",
+          "it": "Pranzo verso l'una.",
+          "pinyin": "Obídayu blýzko pérshoyi.",
+          "en": "I have lunch around one.",
+          "zh": "我一点左右吃午饭。"
+        },
+        {
+          "id": 6,
+          "type": "line",
+          "original": "Після обіду відпочиваю.",
+          "it": "Dopo pranzo mi riposo.",
+          "pinyin": "Píslia obídu vidpochyváyu.",
+          "en": "After lunch I rest.",
+          "zh": "午饭后我休息一会儿。"
+        },
+        {
+          "id": 7,
+          "type": "line",
+          "original": "Увечері гуляю.",
+          "it": "La sera faccio una passeggiata.",
+          "pinyin": "Uvécheri huliáyu.",
+          "en": "In the evening I go for a walk.",
+          "zh": "晚上我散步。"
+        },
+        {
+          "id": 8,
+          "type": "line",
+          "original": "Іноді дивлюся телевізор.",
+          "it": "A volte guardo la televisione.",
+          "pinyin": "Ínodi dyvliúsia televízor.",
+          "en": "Sometimes I watch TV.",
+          "zh": "我有时看电视。"
+        },
+        {
+          "id": 9,
+          "type": "line",
+          "original": "Лягаю досить пізно.",
+          "it": "Vado a letto abbastanza tardi.",
+          "pinyin": "Liaháyu dósyt pízno.",
+          "en": "I go to bed quite late.",
+          "zh": "我睡得比较晚。"
+        },
+        {
+          "id": 10,
+          "type": "line",
+          "original": "А ти рано встаєш?",
+          "it": "E tu ti alzi presto?",
+          "pinyin": "A ty ráno vstayésh?",
+          "en": "And do you get up early?",
+          "zh": "那你起得早吗？"
+        },
+        {
+          "id": 11,
+          "type": "line",
+          "original": "Кожен день по-різному.",
+          "it": "Ogni giorno è diverso.",
+          "pinyin": "Kózhen den po-ríznomu.",
+          "en": "Every day is different.",
+          "zh": "每天都不太一样。"
+        }
+      ]
+    },
+    {
+      "lesson": 11,
+      "title_native": "11",
+      "source_file": "Ucrainian01.txt",
+      "lines": [
+        {
+          "id": 1,
+          "type": "title",
+          "original": "Orari e appuntamenti",
+          "it": "Orari e appuntamenti",
+          "en": "Times and appointments",
+          "zh": "时间和见面安排"
+        },
+        {
+          "id": 2,
+          "type": "line",
+          "original": "Котра година?",
+          "it": "Che ore sono?",
+          "pinyin": "Kotrá hodýna?",
+          "en": "What time is it?",
+          "zh": "几点了？"
+        },
+        {
+          "id": 3,
+          "type": "line",
+          "original": "Зараз десята.",
+          "it": "Sono le dieci.",
+          "pinyin": "Záraz desiáta.",
+          "en": "It's ten o'clock.",
+          "zh": "现在十点了。"
+        },
+        {
+          "id": 4,
+          "type": "line",
+          "original": "О котрій зустрінемось?",
+          "it": "A che ora ci vediamo?",
+          "pinyin": "O kotríy zustrínemos?",
+          "en": "What time shall we meet?",
+          "zh": "我们几点见？"
+        },
+        {
+          "id": 5,
+          "type": "line",
+          "original": "Давай о третій.",
+          "it": "Facciamo alle tre.",
+          "pinyin": "Davái o trétiy.",
+          "en": "Let's make it three o'clock.",
+          "zh": "三点吧。"
+        },
+        {
+          "id": 6,
+          "type": "line",
+          "original": "Мені підходить.",
+          "it": "Per me va bene.",
+          "pinyin": "Mení pidkhódyt.",
+          "en": "That works for me.",
+          "zh": "这个时间我可以。"
+        },
+        {
+          "id": 7,
+          "type": "line",
+          "original": "Я буду вчасно.",
+          "it": "Sarò puntuale.",
+          "pinyin": "Ya búdu vchásno.",
+          "en": "I'll be on time.",
+          "zh": "我会准时到。"
+        },
+        {
+          "id": 8,
+          "type": "line",
+          "original": "Я трохи запізнюся.",
+          "it": "Farò un po' tardi.",
+          "pinyin": "Ya trókhy zapizniúsia.",
+          "en": "I'll be a bit late.",
+          "zh": "我会晚一点到。"
+        },
+        {
+          "id": 9,
+          "type": "line",
+          "original": "Не поспішай.",
+          "it": "Non avere fretta.",
+          "pinyin": "Ne pospishái.",
+          "en": "Don't rush.",
+          "zh": "别着急。"
+        },
+        {
+          "id": 10,
+          "type": "line",
+          "original": "Я вже прийшов.",
+          "it": "Sono già arrivato.",
+          "pinyin": "Ya vzhe pryishóv.",
+          "en": "I've already arrived.",
+          "zh": "我已经到了。"
+        },
+        {
+          "id": 11,
+          "type": "line",
+          "original": "Побачимось о п'ятій.",
+          "it": "Ci vediamo alle cinque.",
+          "pinyin": "Pobáchymos o pyátiy.",
+          "en": "See you at five.",
+          "zh": "五点见。"
+        }
+      ]
+    },
+    {
+      "lesson": 12,
+      "title_native": "12",
+      "source_file": "Ucrainian01.txt",
+      "lines": [
+        {
+          "id": 1,
+          "type": "title",
+          "original": "Caffè, tè e acqua",
+          "it": "Caffè, tè e acqua",
+          "en": "Coffee, tea, and water",
+          "zh": "咖啡、茶和水"
+        },
+        {
+          "id": 2,
+          "type": "line",
+          "original": "Хочеш кави?",
+          "it": "Vuoi un caffè?",
+          "pinyin": "Khóchesh kávy?",
+          "en": "Would you like a coffee?",
+          "zh": "要不要来杯咖啡？"
+        },
+        {
+          "id": 3,
+          "type": "line",
+          "original": "Так, із задоволенням.",
+          "it": "Sì, volentieri.",
+          "pinyin": "Tak, iz zadovólenniam.",
+          "en": "Yes, gladly.",
+          "zh": "好啊，谢谢。"
+        },
+        {
+          "id": 4,
+          "type": "line",
+          "original": "А може, чаю?",
+          "it": "O magari un tè?",
+          "pinyin": "A mózhe, cháyu?",
+          "en": "Or maybe a tea?",
+          "zh": "要不喝茶？"
+        },
+        {
+          "id": 5,
+          "type": "line",
+          "original": "Я краще вип'ю чаю.",
+          "it": "Preferisco un tè.",
+          "pinyin": "Ya kráshche výpyu cháyu.",
+          "en": "I'd rather have tea.",
+          "zh": "我还是喝茶吧。"
+        },
+        {
+          "id": 6,
+          "type": "line",
+          "original": "Хочеш води?",
+          "it": "Vuoi dell'acqua?",
+          "pinyin": "Khóchesh vodý?",
+          "en": "Would you like some water?",
+          "zh": "要水吗？"
+        },
+        {
+          "id": 7,
+          "type": "line",
+          "original": "Так, будь ласка.",
+          "it": "Sì, grazie.",
+          "pinyin": "Tak, bud láska.",
+          "en": "Yes, please.",
+          "zh": "好，谢谢。"
+        },
+        {
+          "id": 8,
+          "type": "line",
+          "original": "З цукром чи без?",
+          "it": "Con lo zucchero o senza?",
+          "pinyin": "Z tsúkrom chy bez?",
+          "en": "With sugar or without?",
+          "zh": "加糖还是不加？"
+        },
+        {
+          "id": 9,
+          "type": "line",
+          "original": "Без цукру, дякую.",
+          "it": "Senza zucchero, grazie.",
+          "pinyin": "Bez tsúkru, diákuyu.",
+          "en": "Without sugar, thank you.",
+          "zh": "不加糖，谢谢。"
+        },
+        {
+          "id": 10,
+          "type": "line",
+          "original": "Ще одну каву?",
+          "it": "Un altro caffè?",
+          "pinyin": "Shche odnú kávu?",
+          "en": "Another coffee?",
+          "zh": "再来一杯咖啡？"
+        },
+        {
+          "id": 11,
+          "type": "line",
+          "original": "Ні, мені досить.",
+          "it": "No, per me basta.",
+          "pinyin": "Ni, mení dósyt.",
+          "en": "No, that's enough for me.",
+          "zh": "不了，够了。"
+        }
+      ]
+    },
+    {
+      "lesson": 13,
+      "title_native": "13",
+      "source_file": "Ucrainian01.txt",
+      "lines": [
+        {
+          "id": 1,
+          "type": "title",
+          "original": "I pasti",
+          "it": "I pasti",
+          "en": "Meals",
+          "zh": "用餐"
+        },
+        {
+          "id": 2,
+          "type": "line",
+          "original": "Ти вже снідала?",
+          "it": "Hai già fatto colazione?",
+          "pinyin": "Ty vzhe snídala?",
+          "en": "Have you had breakfast yet?",
+          "zh": "你吃过早饭了吗？"
+        },
+        {
+          "id": 3,
+          "type": "line",
+          "original": "Я трохи голодний.",
+          "it": "Ho un po' di fame.",
+          "pinyin": "Ya trókhy holódnyi.",
+          "en": "I'm a little hungry.",
+          "zh": "我有点饿。"
+        },
+        {
+          "id": 4,
+          "type": "line",
+          "original": "Що приготуємо на обід?",
+          "it": "Cosa prepariamo per pranzo?",
+          "pinyin": "Shcho pryhotúyemo na obíd?",
+          "en": "What shall we make for lunch?",
+          "zh": "午饭我们做什么？"
+        },
+        {
+          "id": 5,
+          "type": "line",
+          "original": "Смачного!",
+          "it": "Buon appetito!",
+          "pinyin": "Smachnóho!",
+          "en": "Enjoy your meal!",
+          "zh": "请慢用！"
+        },
+        {
+          "id": 6,
+          "type": "line",
+          "original": "Це дуже смачно.",
+          "it": "È molto buono.",
+          "pinyin": "Tse dúzhe smáchno.",
+          "en": "This is very tasty.",
+          "zh": "这个很好吃。"
+        },
+        {
+          "id": 7,
+          "type": "line",
+          "original": "Спробуй трохи.",
+          "it": "Assaggiane un po'.",
+          "pinyin": "Spróbui trókhy.",
+          "en": "Try a little.",
+          "zh": "尝一点吧。"
+        },
+        {
+          "id": 8,
+          "type": "line",
+          "original": "Хочеш ще?",
+          "it": "Ne vuoi ancora?",
+          "pinyin": "Khóchesh shche?",
+          "en": "Do you want more?",
+          "zh": "还要吗？"
+        },
+        {
+          "id": 9,
+          "type": "line",
+          "original": "Ні, дякую, я наївся.",
+          "it": "No, grazie, sono sazio.",
+          "pinyin": "Ni, diákuyu, ya nayívsia.",
+          "en": "No, thanks, I'm full.",
+          "zh": "不了，谢谢，我吃饱了。"
+        },
+        {
+          "id": 10,
+          "type": "line",
+          "original": "Коли будемо вечеряти?",
+          "it": "Quando ceniamo?",
+          "pinyin": "Kolý búdemo vechériaty?",
+          "en": "When are we having dinner?",
+          "zh": "我们什么时候吃晚饭？"
+        },
+        {
+          "id": 11,
+          "type": "line",
+          "original": "Я поїм пізніше.",
+          "it": "Mangio più tardi.",
+          "pinyin": "Ya poyím pizníshe.",
+          "en": "I'll eat later.",
+          "zh": "我晚点再吃。"
+        }
+      ]
+    },
+    {
+      "lesson": 14,
+      "title_native": "14",
+      "source_file": "Ucrainian01.txt",
+      "lines": [
+        {
+          "id": 1,
+          "type": "title",
+          "original": "Cucina italiana e ucraina",
+          "it": "Cucina italiana e ucraina",
+          "en": "Italian and Ukrainian cuisine",
+          "zh": "意大利和乌克兰美食"
+        },
+        {
+          "id": 2,
+          "type": "line",
+          "original": "Тобі подобається паста?",
+          "it": "Ti piace la pasta?",
+          "pinyin": "Tobí podóbayetsia pásta?",
+          "en": "Do you like pasta?",
+          "zh": "你喜欢意大利面吗？"
+        },
+        {
+          "id": 3,
+          "type": "line",
+          "original": "Я дуже люблю піцу.",
+          "it": "Mi piace molto la pizza.",
+          "pinyin": "Ya dúzhe liubliú pítsu.",
+          "en": "I really like pizza.",
+          "zh": "我很喜欢披萨。"
+        },
+        {
+          "id": 4,
+          "type": "line",
+          "original": "Ти вмієш варити борщ?",
+          "it": "Sai fare il borscht?",
+          "pinyin": "Ty vmíyesh varýty borshch?",
+          "en": "Do you know how to make borscht?",
+          "zh": "你会做红菜汤吗？"
+        },
+        {
+          "id": 5,
+          "type": "line",
+          "original": "Я хочу спробувати.",
+          "it": "Vorrei assaggiarlo.",
+          "pinyin": "Ya khóchu spróbuvaty.",
+          "en": "I'd like to try it.",
+          "zh": "我想尝尝。"
+        },
+        {
+          "id": 6,
+          "type": "line",
+          "original": "Це українська страва?",
+          "it": "È un piatto ucraino?",
+          "pinyin": "Tse ukrayínska stráva?",
+          "en": "Is this a Ukrainian dish?",
+          "zh": "这是乌克兰菜吗？"
+        },
+        {
+          "id": 7,
+          "type": "line",
+          "original": "Це типова сардинська страва.",
+          "it": "È un piatto tipico sardo.",
+          "pinyin": "Tse typóva sardýnska stráva.",
+          "en": "This is a typical Sardinian dish.",
+          "zh": "这是撒丁岛的特色菜。"
+        },
+        {
+          "id": 8,
+          "type": "line",
+          "original": "Смак зовсім інший.",
+          "it": "Il sapore è completamente diverso.",
+          "pinyin": "Smak zóvsim ínshyi.",
+          "en": "The taste is completely different.",
+          "zh": "味道完全不一样。"
+        },
+        {
+          "id": 9,
+          "type": "line",
+          "original": "Мені це подобається.",
+          "it": "Questo mi piace.",
+          "pinyin": "Mení tse podóbayetsia.",
+          "en": "I like this.",
+          "zh": "我喜欢这个。"
+        },
+        {
+          "id": 10,
+          "type": "line",
+          "original": "Це трохи гостре.",
+          "it": "È un po' piccante.",
+          "pinyin": "Tse trókhy hóstre.",
+          "en": "This is a bit spicy.",
+          "zh": "这个有点辣。"
+        },
+        {
+          "id": 11,
+          "type": "line",
+          "original": "А це дуже ніжне.",
+          "it": "Questo invece è molto delicato.",
+          "pinyin": "A tse dúzhe nízhne.",
+          "en": "And this one is very mild.",
+          "zh": "这个倒是很清淡。"
+        }
+      ]
+    },
+    {
+      "lesson": 15,
+      "title_native": "15",
+      "source_file": "Ucrainian01.txt",
+      "lines": [
+        {
+          "id": 1,
+          "type": "title",
+          "original": "La spesa",
+          "it": "La spesa",
+          "en": "Grocery shopping",
+          "zh": "买菜"
+        },
+        {
+          "id": 2,
+          "type": "line",
+          "original": "Треба купити хліб.",
+          "it": "Bisogna comprare il pane.",
+          "pinyin": "Tréba kupýty khlib.",
+          "en": "We need to buy bread.",
+          "zh": "得买面包。"
+        },
+        {
+          "id": 3,
+          "type": "line",
+          "original": "Молоко ще є?",
+          "it": "C'è ancora latte?",
+          "pinyin": "Molokó shche ye?",
+          "en": "Is there still milk?",
+          "zh": "还有牛奶吗？"
+        },
+        {
+          "id": 4,
+          "type": "line",
+          "original": "Купимо трохи фруктів.",
+          "it": "Compriamo un po' di frutta.",
+          "pinyin": "Kúpymo trókhy frúktiv.",
+          "en": "Let's buy some fruit.",
+          "zh": "买点水果吧。"
+        },
+        {
+          "id": 5,
+          "type": "line",
+          "original": "Помідори сьогодні гарні.",
+          "it": "Oggi i pomodori sono belli.",
+          "pinyin": "Pomidóry sohódni hárni.",
+          "en": "The tomatoes are nice today.",
+          "zh": "今天的西红柿不错。"
+        },
+        {
+          "id": 6,
+          "type": "line",
+          "original": "Ці яблука солодкі.",
+          "it": "Queste mele sono dolci.",
+          "pinyin": "Tsi yábluka solódki.",
+          "en": "These apples are sweet.",
+          "zh": "这些苹果很甜。"
+        },
+        {
+          "id": 7,
+          "type": "line",
+          "original": "Де тут овочі?",
+          "it": "Dove sono le verdure?",
+          "pinyin": "De tut óvochi?",
+          "en": "Where are the vegetables?",
+          "zh": "蔬菜在哪儿？"
+        },
+        {
+          "id": 8,
+          "type": "line",
+          "original": "Мені потрібен сир.",
+          "it": "Mi serve del formaggio.",
+          "pinyin": "Mení potríben syr.",
+          "en": "I need some cheese.",
+          "zh": "我需要奶酪。"
+        },
+        {
+          "id": 9,
+          "type": "line",
+          "original": "Візьмемо оливкову олію.",
+          "it": "Prendiamo dell'olio d'oliva.",
+          "pinyin": "Vízmemo olývkovu olíyu.",
+          "en": "Let's get some olive oil.",
+          "zh": "我们买橄榄油吧。"
+        },
+        {
+          "id": 10,
+          "type": "line",
+          "original": "Цього вже досить.",
+          "it": "Di questo basta così.",
+          "pinyin": "Tsóho vzhe dósyt.",
+          "en": "That's enough of this.",
+          "zh": "这个已经够了。"
+        },
+        {
+          "id": 11,
+          "type": "line",
+          "original": "Я піду в супермаркет.",
+          "it": "Vado al supermercato.",
+          "pinyin": "Ya pidú v supermárket.",
+          "en": "I'll go to the supermarket.",
+          "zh": "我去超市。"
+        }
+      ]
+    },
+    {
+      "lesson": 16,
+      "title_native": "16",
+      "source_file": "Ucrainian01.txt",
+      "lines": [
+        {
+          "id": 1,
+          "type": "title",
+          "original": "I prezzi e il carovita",
+          "it": "I prezzi e il carovita",
+          "en": "Prices and the cost of living",
+          "zh": "物价和生活成本"
+        },
+        {
+          "id": 2,
+          "type": "line",
+          "original": "Це дорого.",
+          "it": "È caro.",
+          "pinyin": "Tse dóroho.",
+          "en": "This is expensive.",
+          "zh": "这个挺贵的。"
+        },
+        {
+          "id": 3,
+          "type": "line",
+          "original": "А це дешевше.",
+          "it": "Questo invece costa meno.",
+          "pinyin": "A tse deshévshe.",
+          "en": "This one costs less, though.",
+          "zh": "这个便宜一些。"
+        },
+        {
+          "id": 4,
+          "type": "line",
+          "original": "Ціни знову виросли.",
+          "it": "I prezzi sono aumentati di nuovo.",
+          "pinyin": "Tsíny znóvu výrosly.",
+          "en": "Prices have gone up again.",
+          "zh": "价格又涨了。"
+        },
+        {
+          "id": 5,
+          "type": "line",
+          "original": "Усе стало дорожче.",
+          "it": "È diventato tutto più caro.",
+          "pinyin": "Usé stálo dorózhche.",
+          "en": "Everything has gotten more expensive.",
+          "zh": "什么都变贵了。"
+        },
+        {
+          "id": 6,
+          "type": "line",
+          "original": "Продукти зараз дорогі.",
+          "it": "La spesa costa molto adesso.",
+          "pinyin": "Prodúkty záraz dorohí.",
+          "en": "Groceries are expensive now.",
+          "zh": "现在食品很贵。"
+        },
+        {
+          "id": 7,
+          "type": "line",
+          "original": "Кава теж подорожчала.",
+          "it": "Anche il caffè è aumentato.",
+          "pinyin": "Káva tezh podorozhchála.",
+          "en": "Coffee has gone up too.",
+          "zh": "咖啡也涨价了。"
+        },
+        {
+          "id": 8,
+          "type": "line",
+          "original": "Раніше було дешевше.",
+          "it": "Prima costava meno.",
+          "pinyin": "Raníshe buló deshévshe.",
+          "en": "It used to be cheaper.",
+          "zh": "以前便宜一些。"
+        },
+        {
+          "id": 9,
+          "type": "line",
+          "original": "Тут ціна нормальна.",
+          "it": "Qui il prezzo è ragionevole.",
+          "pinyin": "Tut tsiná normálna.",
+          "en": "The price here is reasonable.",
+          "zh": "这里的价格还算合理。"
+        },
+        {
+          "id": 10,
+          "type": "line",
+          "original": "Це хороша ціна.",
+          "it": "È un buon prezzo.",
+          "pinyin": "Tse khorósha tsiná.",
+          "en": "That's a good price.",
+          "zh": "这个价格不错。"
+        },
+        {
+          "id": 11,
+          "type": "line",
+          "original": "Треба трохи економити.",
+          "it": "Bisogna risparmiare un po'.",
+          "pinyin": "Tréba trókhy ekonómyty.",
+          "en": "We need to save a bit.",
+          "zh": "得省一点钱。"
+        }
+      ]
+    },
+    {
+      "lesson": 17,
+      "title_native": "17",
+      "source_file": "Ucrainian01.txt",
+      "lines": [
+        {
+          "id": 1,
+          "type": "title",
+          "original": "Il tempo oggi",
+          "it": "Il tempo oggi",
+          "en": "The weather today",
+          "zh": "今天的天气"
+        },
+        {
+          "id": 2,
+          "type": "line",
+          "original": "Яка сьогодні погода?",
+          "it": "Che tempo fa oggi?",
+          "pinyin": "Yaká sohódni pohóda?",
+          "en": "What's the weather like today?",
+          "zh": "今天天气怎么样？"
+        },
+        {
+          "id": 3,
+          "type": "line",
+          "original": "Сьогодні дуже тепло.",
+          "it": "Oggi fa proprio caldo.",
+          "pinyin": "Sohódni dúzhe téplo.",
+          "en": "It's really warm today.",
+          "zh": "今天很暖和。"
+        },
+        {
+          "id": 4,
+          "type": "line",
+          "original": "Сонце дуже пече.",
+          "it": "Il sole picchia forte.",
+          "pinyin": "Sóntse dúzhe peché.",
+          "en": "The sun is beating down hard.",
+          "zh": "太阳晒得很厉害。"
+        },
+        {
+          "id": 5,
+          "type": "line",
+          "original": "Сьогодні трохи хмарно.",
+          "it": "Oggi è un po' nuvoloso.",
+          "pinyin": "Sohódni trókhy khmárno.",
+          "en": "It's a bit cloudy today.",
+          "zh": "今天有点多云。"
+        },
+        {
+          "id": 6,
+          "type": "line",
+          "original": "Здається, буде дощ.",
+          "it": "Sembra che pioverà.",
+          "pinyin": "Zdayétsia, búde doshch.",
+          "en": "It looks like it's going to rain.",
+          "zh": "看起来要下雨。"
+        },
+        {
+          "id": 7,
+          "type": "line",
+          "original": "Сьогодні сильний вітер.",
+          "it": "Oggi c'è molto vento.",
+          "pinyin": "Sohódni sýlnyi víter.",
+          "en": "It's very windy today.",
+          "zh": "今天风很大。"
+        },
+        {
+          "id": 8,
+          "type": "line",
+          "original": "Надворі прохолодно.",
+          "it": "Fuori fa fresco.",
+          "pinyin": "Nadvorí prokholódno.",
+          "en": "It's cool outside.",
+          "zh": "外面有点凉。"
+        },
+        {
+          "id": 9,
+          "type": "line",
+          "original": "Погода швидко змінюється.",
+          "it": "Il tempo cambia in fretta.",
+          "pinyin": "Pohóda shvýdko zmíniuyetsia.",
+          "en": "The weather changes quickly.",
+          "zh": "天气变化很快。"
+        },
+        {
+          "id": 10,
+          "type": "line",
+          "original": "Учора було тепліше.",
+          "it": "Ieri faceva più caldo.",
+          "pinyin": "Uchóra buló teplíshe.",
+          "en": "Yesterday it was warmer.",
+          "zh": "昨天更暖和。"
+        },
+        {
+          "id": 11,
+          "type": "line",
+          "original": "Завтра буде краще.",
+          "it": "Domani sarà meglio.",
+          "pinyin": "Závtra búde kráshche.",
+          "en": "Tomorrow will be better.",
+          "zh": "明天会好一些。"
+        }
+      ]
+    },
+    {
+      "lesson": 18,
+      "title_native": "18",
+      "source_file": "Ucrainian01.txt",
+      "lines": [
+        {
+          "id": 1,
+          "type": "title",
+          "original": "Il caldo estivo in Sardegna",
+          "it": "Il caldo estivo in Sardegna",
+          "en": "The summer heat in Sardinia",
+          "zh": "撒丁岛的夏日酷暑"
+        },
+        {
+          "id": 2,
+          "type": "line",
+          "original": "Сьогодні страшна спека.",
+          "it": "Oggi fa un caldo tremendo.",
+          "pinyin": "Sohódni strashná spéka.",
+          "en": "Today it's terribly hot.",
+          "zh": "今天热得厉害。"
+        },
+        {
+          "id": 3,
+          "type": "line",
+          "original": "Улітку тут дуже жарко.",
+          "it": "D'estate qui fa molto caldo.",
+          "pinyin": "Ulítku tut dúzhe zhárko.",
+          "en": "In summer it's very hot here.",
+          "zh": "这里夏天很热。"
+        },
+        {
+          "id": 4,
+          "type": "line",
+          "original": "Я погано спав.",
+          "it": "Ho dormito male.",
+          "pinyin": "Ya poháno spav.",
+          "en": "I slept badly.",
+          "zh": "我没睡好。"
+        },
+        {
+          "id": 5,
+          "type": "line",
+          "original": "Уночі було спекотно.",
+          "it": "Di notte faceva caldo.",
+          "pinyin": "Unochí buló spekótno.",
+          "en": "It was hot at night.",
+          "zh": "夜里很热。"
+        },
+        {
+          "id": 6,
+          "type": "line",
+          "original": "Пий більше води.",
+          "it": "Bevi più acqua.",
+          "pinyin": "Pyi bílshe vodý.",
+          "en": "Drink more water.",
+          "zh": "多喝点水。"
+        },
+        {
+          "id": 7,
+          "type": "line",
+          "original": "Хочеш холодної води?",
+          "it": "Vuoi dell'acqua fredda?",
+          "pinyin": "Khóchesh kholódnoyi vodý?",
+          "en": "Would you like some cold water?",
+          "zh": "想喝点冷水吗？"
+        },
+        {
+          "id": 8,
+          "type": "line",
+          "original": "Увімкнути кондиціонер?",
+          "it": "Accendo l'aria condizionata?",
+          "pinyin": "Uvimknúty kondytsionér?",
+          "en": "Shall I turn on the air conditioning?",
+          "zh": "要我开空调吗？"
+        },
+        {
+          "id": 9,
+          "type": "line",
+          "original": "Вентилятор допомагає.",
+          "it": "Il ventilatore aiuta.",
+          "pinyin": "Ventyliátor dopomaháye.",
+          "en": "The fan helps.",
+          "zh": "风扇挺管用的。"
+        },
+        {
+          "id": 10,
+          "type": "line",
+          "original": "На сонці дуже жарко.",
+          "it": "Al sole fa molto caldo.",
+          "pinyin": "Na sóntsi dúzhe zhárko.",
+          "en": "It's very hot in the sun.",
+          "zh": "太阳底下很热。"
+        },
+        {
+          "id": 11,
+          "type": "line",
+          "original": "Краще бути в тіні.",
+          "it": "Meglio stare all'ombra.",
+          "pinyin": "Kráshche búty v tíni.",
+          "en": "It's better to stay in the shade.",
+          "zh": "最好待在阴凉处。"
+        }
+      ]
+    },
+    {
+      "lesson": 19,
+      "title_native": "19",
+      "source_file": "Ucrainian01.txt",
+      "lines": [
+        {
+          "id": 1,
+          "type": "title",
+          "original": "Il mare e la spiaggia",
+          "it": "Il mare e la spiaggia",
+          "en": "The sea and the beach",
+          "zh": "大海和海滩"
+        },
+        {
+          "id": 2,
+          "type": "line",
+          "original": "Ти любиш море?",
+          "it": "Ti piace il mare?",
+          "pinyin": "Ty liúbysh móre?",
+          "en": "Do you like the sea?",
+          "zh": "你喜欢大海吗？"
+        },
+        {
+          "id": 3,
+          "type": "line",
+          "original": "Я дуже люблю море.",
+          "it": "Mi piace molto il mare.",
+          "pinyin": "Ya dúzhe liubliú móre.",
+          "en": "I really like the sea.",
+          "zh": "我很喜欢大海。"
+        },
+        {
+          "id": 4,
+          "type": "line",
+          "original": "Ходімо на пляж?",
+          "it": "Andiamo in spiaggia?",
+          "pinyin": "Khodímo na pliazh?",
+          "en": "Shall we go to the beach?",
+          "zh": "要不要去海滩？"
+        },
+        {
+          "id": 5,
+          "type": "line",
+          "original": "Сьогодні море спокійне.",
+          "it": "Oggi il mare è calmo.",
+          "pinyin": "Sohódni móre spokíyne.",
+          "en": "The sea is calm today.",
+          "zh": "今天海面很平静。"
+        },
+        {
+          "id": 6,
+          "type": "line",
+          "original": "Вода дуже тепла.",
+          "it": "L'acqua è molto calda.",
+          "pinyin": "Vodá dúzhe tépla.",
+          "en": "The water is very warm.",
+          "zh": "水很暖。"
+        },
+        {
+          "id": 7,
+          "type": "line",
+          "original": "Ти будеш плавати?",
+          "it": "Fai il bagno?",
+          "pinyin": "Ty búdesh plávaty?",
+          "en": "Are you going to swim?",
+          "zh": "你要游泳吗？"
+        },
+        {
+          "id": 8,
+          "type": "line",
+          "original": "Не забудь рушник.",
+          "it": "Non dimenticare l'asciugamano.",
+          "pinyin": "Ne zabúd rushnýk.",
+          "en": "Don't forget the towel.",
+          "zh": "别忘了毛巾。"
+        },
+        {
+          "id": 9,
+          "type": "line",
+          "original": "Треба взяти крем від сонця.",
+          "it": "Bisogna prendere la crema solare.",
+          "pinyin": "Tréba vziáty krem vid sóntsia.",
+          "en": "We need to bring sunscreen.",
+          "zh": "得带防晒霜。"
+        },
+        {
+          "id": 10,
+          "type": "line",
+          "original": "Тут гарний пляж.",
+          "it": "Qui c'è una bella spiaggia.",
+          "pinyin": "Tut hárnyi pliazh.",
+          "en": "There's a nice beach here.",
+          "zh": "这里有个很漂亮的海滩。"
+        },
+        {
+          "id": 11,
+          "type": "line",
+          "original": "Увечері тут краще.",
+          "it": "La sera qui si sta meglio.",
+          "pinyin": "Uvécheri tut kráshche.",
+          "en": "It's better here in the evening.",
+          "zh": "晚上这里更舒服。"
+        }
+      ]
+    },
+    {
+      "lesson": 20,
+      "title_native": "20",
+      "source_file": "Ucrainian01.txt",
+      "lines": [
+        {
+          "id": 1,
+          "type": "title",
+          "original": "Cagliari e la Sardegna",
+          "it": "Cagliari e la Sardegna",
+          "en": "Cagliari and Sardinia",
+          "zh": "卡利亚里和撒丁岛"
+        },
+        {
+          "id": 2,
+          "type": "line",
+          "original": "Тобі подобається Кальярі?",
+          "it": "Ti piace Cagliari?",
+          "pinyin": "Tobí podóbayetsia Kályari?",
+          "en": "Do you like Cagliari?",
+          "zh": "你喜欢卡利亚里吗？"
+        },
+        {
+          "id": 3,
+          "type": "line",
+          "original": "Це спокійне місто.",
+          "it": "È una città tranquilla.",
+          "pinyin": "Tse spokíyne místo.",
+          "en": "It's a quiet city.",
+          "zh": "这是个安静的城市。"
+        },
+        {
+          "id": 4,
+          "type": "line",
+          "original": "Тут гарне море.",
+          "it": "Qui il mare è bello.",
+          "pinyin": "Tut hárne móre.",
+          "en": "The sea is beautiful here.",
+          "zh": "这里的海很美。"
+        },
+        {
+          "id": 5,
+          "type": "line",
+          "original": "Сардинія дуже різна.",
+          "it": "La Sardegna è molto varia.",
+          "pinyin": "Sardýniya dúzhe rízna.",
+          "en": "Sardinia is very varied.",
+          "zh": "撒丁岛各地很不一样。"
+        },
+        {
+          "id": 6,
+          "type": "line",
+          "original": "Тут багато гарних місць.",
+          "it": "Qui ci sono molti bei posti.",
+          "pinyin": "Tut baháto hárnykh mists.",
+          "en": "There are many beautiful places here.",
+          "zh": "这里有很多漂亮的地方。"
+        },
+        {
+          "id": 7,
+          "type": "line",
+          "original": "Центр недалеко.",
+          "it": "Il centro non è lontano.",
+          "pinyin": "Tsentr nedaléko.",
+          "en": "The center isn't far.",
+          "zh": "市中心不远。"
+        },
+        {
+          "id": 8,
+          "type": "line",
+          "original": "Поетто зовсім поруч.",
+          "it": "Il Poetto è proprio vicino.",
+          "pinyin": "Poétto zóvsim póruch.",
+          "en": "Poetto is very close by.",
+          "zh": "波埃托就在附近。"
+        },
+        {
+          "id": 9,
+          "type": "line",
+          "original": "Тут люблять довгі обіди.",
+          "it": "Qui amano i pranzi lunghi.",
+          "pinyin": "Tut liúbliat dóvhi obídy.",
+          "en": "People here love long lunches.",
+          "zh": "这里的人喜欢慢慢吃午饭。"
+        },
+        {
+          "id": 10,
+          "type": "line",
+          "original": "Улітку багато туристів.",
+          "it": "D'estate ci sono molti turisti.",
+          "pinyin": "Ulítku baháto turýstiv.",
+          "en": "In summer there are many tourists.",
+          "zh": "夏天游客很多。"
+        },
+        {
+          "id": 11,
+          "type": "line",
+          "original": "Я покажу тобі місто.",
+          "it": "Ti faccio vedere la città.",
+          "pinyin": "Ya pokazhú tobí místo.",
+          "en": "I'll show you the city.",
+          "zh": "我带你看看这座城市。"
+        }
+      ]
+    },
+    {
+      "lesson": 21,
+      "title_native": "21",
+      "source_file": "Ucrainian01.txt",
+      "lines": [
+        {
+          "id": 1,
+          "type": "title",
+          "original": "Spostarsi in città",
+          "it": "Spostarsi in città",
+          "en": "Getting around the city",
+          "zh": "在城里出行"
+        },
+        {
+          "id": 2,
+          "type": "line",
+          "original": "Ти йдеш пішки?",
+          "it": "Vai a piedi?",
+          "pinyin": "Ty ydesh píshky?",
+          "en": "Are you going on foot?",
+          "zh": "你走路去吗？"
+        },
+        {
+          "id": 3,
+          "type": "line",
+          "original": "Я поїду автобусом.",
+          "it": "Vado in autobus.",
+          "pinyin": "Ya poyídu avtóbusom.",
+          "en": "I'll go by bus.",
+          "zh": "我坐公交车去。"
+        },
+        {
+          "id": 4,
+          "type": "line",
+          "original": "Я сьогодні на машині.",
+          "it": "Oggi sono in macchina.",
+          "pinyin": "Ya sohódni na mashýni.",
+          "en": "I'm driving today.",
+          "zh": "我今天开车。"
+        },
+        {
+          "id": 5,
+          "type": "line",
+          "original": "Це далеко звідси?",
+          "it": "È lontano da qui?",
+          "pinyin": "Tse daléko zvídsy?",
+          "en": "Is it far from here?",
+          "zh": "离这里远吗？"
+        },
+        {
+          "id": 6,
+          "type": "line",
+          "original": "Ні, зовсім близько.",
+          "it": "No, è vicinissimo.",
+          "pinyin": "Ni, zóvsim blýzko.",
+          "en": "No, it's very close.",
+          "zh": "不，很近。"
+        },
+        {
+          "id": 7,
+          "type": "line",
+          "original": "Можна дійти пішки.",
+          "it": "Si può andare a piedi.",
+          "pinyin": "Mózhna diytý píshky.",
+          "en": "You can walk there.",
+          "zh": "可以走过去。"
+        },
+        {
+          "id": 8,
+          "type": "line",
+          "original": "Автобус уже їде.",
+          "it": "L'autobus sta arrivando.",
+          "pinyin": "Avtóbus uzhé yíde.",
+          "en": "The bus is coming.",
+          "zh": "公交车已经开过来了。"
+        },
+        {
+          "id": 9,
+          "type": "line",
+          "original": "Де наша зупинка?",
+          "it": "Dov'è la nostra fermata?",
+          "pinyin": "De násha zupýnka?",
+          "en": "Where's our stop?",
+          "zh": "我们在哪一站下车？"
+        },
+        {
+          "id": 10,
+          "type": "line",
+          "original": "Ми скоро приїдемо.",
+          "it": "Arriviamo presto.",
+          "pinyin": "My skóro pryyídemo.",
+          "en": "We'll arrive soon.",
+          "zh": "我们很快就到了。"
+        },
+        {
+          "id": 11,
+          "type": "line",
+          "original": "Я тебе підвезу.",
+          "it": "Ti do un passaggio.",
+          "pinyin": "Ya tebé pidvezú.",
+          "en": "I'll give you a ride.",
+          "zh": "我开车送你。"
+        }
+      ]
+    },
+    {
+      "lesson": 22,
+      "title_native": "22",
+      "source_file": "Ucrainian01.txt",
+      "lines": [
+        {
+          "id": 1,
+          "type": "title",
+          "original": "Traffico e parcheggio",
+          "it": "Traffico e parcheggio",
+          "en": "Traffic and parking",
+          "zh": "交通和停车"
+        },
+        {
+          "id": 2,
+          "type": "line",
+          "original": "Сьогодні багато машин.",
+          "it": "Oggi c'è molto traffico.",
+          "pinyin": "Sohódni baháto mashýn.",
+          "en": "There's a lot of traffic today.",
+          "zh": "今天路上车很多。"
+        },
+        {
+          "id": 3,
+          "type": "line",
+          "original": "Тут завжди затори.",
+          "it": "Qui c'è sempre traffico.",
+          "pinyin": "Tut zavzhdý zatóry.",
+          "en": "There's always traffic here.",
+          "zh": "这里总是堵车。"
+        },
+        {
+          "id": 4,
+          "type": "line",
+          "original": "Де можна припаркуватися?",
+          "it": "Dove si può parcheggiare?",
+          "pinyin": "De mózhna pryparkuvátysia?",
+          "en": "Where can I park?",
+          "zh": "哪里可以停车？"
+        },
+        {
+          "id": 5,
+          "type": "line",
+          "original": "Тут немає місця.",
+          "it": "Qui non c'è posto.",
+          "pinyin": "Tut nemáye místsia.",
+          "en": "There's no space here.",
+          "zh": "这里没车位。"
+        },
+        {
+          "id": 6,
+          "type": "line",
+          "original": "Я пошукаю далі.",
+          "it": "Cerco più avanti.",
+          "pinyin": "Ya poshukáyu dáli.",
+          "en": "I'll look further ahead.",
+          "zh": "我再往前找找。"
+        },
+        {
+          "id": 7,
+          "type": "line",
+          "original": "Тут не можна паркуватися.",
+          "it": "Qui non si può parcheggiare.",
+          "pinyin": "Tut ne mózhna parkuvátysia.",
+          "en": "You can't park here.",
+          "zh": "这里不能停车。"
+        },
+        {
+          "id": 8,
+          "type": "line",
+          "original": "Ми трохи запізнимось.",
+          "it": "Faremo un po' tardi.",
+          "pinyin": "My trókhy zapíznymos.",
+          "en": "We'll be a bit late.",
+          "zh": "我们会晚一点。"
+        },
+        {
+          "id": 9,
+          "type": "line",
+          "original": "Дорога сьогодні вільна.",
+          "it": "Oggi la strada è libera.",
+          "pinyin": "Doróha sohódni vílna.",
+          "en": "The road is clear today.",
+          "zh": "今天路上很畅通。"
+        },
+        {
+          "id": 10,
+          "type": "line",
+          "original": "Я приїхав раніше.",
+          "it": "Sono arrivato prima.",
+          "pinyin": "Ya pryyíkhav raníshe.",
+          "en": "I arrived earlier.",
+          "zh": "我来早了。"
+        },
+        {
+          "id": 11,
+          "type": "line",
+          "original": "Знайти місце важко.",
+          "it": "È difficile trovare parcheggio.",
+          "pinyin": "Znaitý místse vázhko.",
+          "en": "It's hard to find parking.",
+          "zh": "停车位很难找。"
+        }
+      ]
+    },
+    {
+      "lesson": 23,
+      "title_native": "23",
+      "source_file": "Ucrainian01.txt",
+      "lines": [
+        {
+          "id": 1,
+          "type": "title",
+          "original": "I posti del quartiere",
+          "it": "I posti del quartiere",
+          "en": "Places in the neighborhood",
+          "zh": "附近的地方"
+        },
+        {
+          "id": 2,
+          "type": "line",
+          "original": "Де найближчий магазин?",
+          "it": "Dov'è il negozio più vicino?",
+          "pinyin": "De naiblýzhchyi mahazýn?",
+          "en": "Where's the nearest shop?",
+          "zh": "最近的商店在哪儿？"
+        },
+        {
+          "id": 3,
+          "type": "line",
+          "original": "Ринок сьогодні працює?",
+          "it": "Il mercato è aperto oggi?",
+          "pinyin": "Rýnok sohódni pratsiúye?",
+          "en": "Is the market open today?",
+          "zh": "市场今天开门吗？"
+        },
+        {
+          "id": 4,
+          "type": "line",
+          "original": "Ходімо в кав'ярню?",
+          "it": "Andiamo al bar?",
+          "pinyin": "Khodímo v kavyárniu?",
+          "en": "Shall we go to the café?",
+          "zh": "要不要去咖啡馆？"
+        },
+        {
+          "id": 5,
+          "type": "line",
+          "original": "Аптека зовсім поруч.",
+          "it": "La farmacia è qui vicino.",
+          "pinyin": "Aptéka zóvsim póruch.",
+          "en": "The pharmacy is very close.",
+          "zh": "药店就在附近。"
+        },
+        {
+          "id": 6,
+          "type": "line",
+          "original": "Тут є хороша пекарня.",
+          "it": "Qui c'è un buon panificio.",
+          "pinyin": "Tut ye khorósha pekárnia.",
+          "en": "There's a good bakery here.",
+          "zh": "这里有一家不错的面包店。"
+        },
+        {
+          "id": 7,
+          "type": "line",
+          "original": "Я часто сюди ходжу.",
+          "it": "Vengo spesso qui.",
+          "pinyin": "Ya chásto siudý khodzhú.",
+          "en": "I come here often.",
+          "zh": "我经常来这里。"
+        },
+        {
+          "id": 8,
+          "type": "line",
+          "original": "Цей магазин хороший.",
+          "it": "Questo negozio è buono.",
+          "pinyin": "Tsei mahazýn khoróshyi.",
+          "en": "This shop is good.",
+          "zh": "这家商店不错。"
+        },
+        {
+          "id": 9,
+          "type": "line",
+          "original": "Там овочі дешевші.",
+          "it": "Lì le verdure costano meno.",
+          "pinyin": "Tam óvochi deshévshi.",
+          "en": "The vegetables are cheaper there.",
+          "zh": "那里的蔬菜更便宜。"
+        },
+        {
+          "id": 10,
+          "type": "line",
+          "original": "Ринок уже закритий.",
+          "it": "Il mercato è già chiuso.",
+          "pinyin": "Rýnok uzhé zakrýtyi.",
+          "en": "The market is already closed.",
+          "zh": "市场已经关门了。"
+        },
+        {
+          "id": 11,
+          "type": "line",
+          "original": "Можемо зайти по дорозі.",
+          "it": "Possiamo passarci strada facendo.",
+          "pinyin": "Mózhemo zaitý po dorózi.",
+          "en": "We can stop by on the way.",
+          "zh": "我们可以顺路进去一下。"
+        }
+      ]
+    },
+    {
+      "lesson": 24,
+      "title_native": "24",
+      "source_file": "Ucrainian01.txt",
+      "lines": [
+        {
+          "id": 1,
+          "type": "title",
+          "original": "Stanchezza e malesseri",
+          "it": "Stanchezza e malesseri",
+          "en": "Tiredness and minor ailments",
+          "zh": "疲劳和小毛病"
+        },
+        {
+          "id": 2,
+          "type": "line",
+          "original": "Я сьогодні втомився.",
+          "it": "Oggi sono stanco.",
+          "pinyin": "Ya sohódni vtomývsia.",
+          "en": "I'm tired today.",
+          "zh": "我今天很累。"
+        },
+        {
+          "id": 3,
+          "type": "line",
+          "original": "Ти добре почуваєшся?",
+          "it": "Ti senti bene?",
+          "pinyin": "Ty dóbre pochuváyeshsia?",
+          "en": "Are you feeling well?",
+          "zh": "你感觉还好吗？"
+        },
+        {
+          "id": 4,
+          "type": "line",
+          "original": "У мене болить голова.",
+          "it": "Mi fa male la testa.",
+          "pinyin": "U mené bolýt holová.",
+          "en": "I have a headache.",
+          "zh": "我头疼。"
+        },
+        {
+          "id": 5,
+          "type": "line",
+          "original": "Я трохи застудився.",
+          "it": "Mi sono un po' raffreddato.",
+          "pinyin": "Ya trókhy zastudývsia.",
+          "en": "I've caught a bit of a cold.",
+          "zh": "我有点感冒了。"
+        },
+        {
+          "id": 6,
+          "type": "line",
+          "original": "Мені вже краще.",
+          "it": "Sto già meglio.",
+          "pinyin": "Mení vzhe kráshche.",
+          "en": "I'm already feeling better.",
+          "zh": "我已经好多了。"
+        },
+        {
+          "id": 7,
+          "type": "line",
+          "original": "Може, трохи відпочинь.",
+          "it": "Riposati un po', magari.",
+          "pinyin": "Mózhe, trókhy vidpochýn.",
+          "en": "Maybe rest a little.",
+          "zh": "要不休息一会儿吧。"
+        },
+        {
+          "id": 8,
+          "type": "line",
+          "original": "Випий чаю з медом.",
+          "it": "Bevi un tè con il miele.",
+          "pinyin": "Výpyi cháyu z médom.",
+          "en": "Drink tea with honey.",
+          "zh": "喝点蜂蜜茶吧。"
+        },
+        {
+          "id": 9,
+          "type": "line",
+          "original": "Сьогодні я без сил.",
+          "it": "Oggi sono senza forze.",
+          "pinyin": "Sohódni ya bez syl.",
+          "en": "I'm out of energy today.",
+          "zh": "我今天一点力气都没有。"
+        },
+        {
+          "id": 10,
+          "type": "line",
+          "original": "Я майже не спав.",
+          "it": "Non ho quasi dormito.",
+          "pinyin": "Ya máizhe ne spav.",
+          "en": "I barely slept.",
+          "zh": "我几乎没睡。"
+        },
+        {
+          "id": 11,
+          "type": "line",
+          "original": "Сподіваюся, завтра мине.",
+          "it": "Spero che domani passi.",
+          "pinyin": "Spodiváyusia, závtra myné.",
+          "en": "I hope it passes by tomorrow.",
+          "zh": "希望明天就好了。"
+        }
+      ]
+    },
+    {
+      "lesson": 25,
+      "title_native": "25",
+      "source_file": "Ucrainian01.txt",
+      "lines": [
+        {
+          "id": 1,
+          "type": "title",
+          "original": "Farmacia e medico",
+          "it": "Farmacia e medico",
+          "en": "Pharmacy and doctor",
+          "zh": "药店和医生"
+        },
+        {
+          "id": 2,
+          "type": "line",
+          "original": "Де тут чергова аптека?",
+          "it": "Dov'è la farmacia di turno?",
+          "pinyin": "De tut cherhóva aptéka?",
+          "en": "Where's the duty pharmacy?",
+          "zh": "值班药店在哪儿？"
+        },
+        {
+          "id": 3,
+          "type": "line",
+          "original": "Аптека ще працює.",
+          "it": "La farmacia è ancora aperta.",
+          "pinyin": "Aptéka shche pratsiúye.",
+          "en": "The pharmacy is still open.",
+          "zh": "药店还开着。"
+        },
+        {
+          "id": 4,
+          "type": "line",
+          "original": "Тобі потрібні ліки?",
+          "it": "Ti servono delle medicine?",
+          "pinyin": "Tobí potríbni líky?",
+          "en": "Do you need any medicine?",
+          "zh": "你需要药吗？"
+        },
+        {
+          "id": 5,
+          "type": "line",
+          "original": "Краще спитай у фармацевта.",
+          "it": "Meglio chiedere al farmacista.",
+          "pinyin": "Kráshche spytái u farmatsévta.",
+          "en": "It's better to ask the pharmacist.",
+          "zh": "最好问问药剂师。"
+        },
+        {
+          "id": 6,
+          "type": "line",
+          "original": "Треба подзвонити лікарю.",
+          "it": "Bisogna chiamare il medico.",
+          "pinyin": "Tréba podzvonýty líkariu.",
+          "en": "We need to call the doctor.",
+          "zh": "得给医生打电话。"
+        },
+        {
+          "id": 7,
+          "type": "line",
+          "original": "У тебе температура?",
+          "it": "Hai la febbre?",
+          "pinyin": "U tebé temperatúra?",
+          "en": "Do you have a fever?",
+          "zh": "你发烧吗？"
+        },
+        {
+          "id": 8,
+          "type": "line",
+          "original": "Давно це почалося?",
+          "it": "Da quanto è cominciato?",
+          "pinyin": "Davnó tse pochalósia?",
+          "en": "How long has this been going on?",
+          "zh": "这种情况多久了？"
+        },
+        {
+          "id": 9,
+          "type": "line",
+          "original": "Сьогодні лікар приймає.",
+          "it": "Oggi il medico riceve.",
+          "pinyin": "Sohódni líkar pryimáye.",
+          "en": "The doctor is seeing patients today.",
+          "zh": "医生今天坐诊。"
+        },
+        {
+          "id": 10,
+          "type": "line",
+          "original": "Я можу допомогти.",
+          "it": "Posso aiutarti.",
+          "pinyin": "Ya mózhu dopomohtý.",
+          "en": "I can help you.",
+          "zh": "我可以帮你。"
+        },
+        {
+          "id": 11,
+          "type": "line",
+          "original": "Бережи себе.",
+          "it": "Abbi cura di te.",
+          "pinyin": "Berezhý sebé.",
+          "en": "Take care of yourself.",
+          "zh": "照顾好自己。"
+        }
+      ]
+    },
+    {
+      "lesson": 26,
+      "title_native": "26",
+      "source_file": "Ucrainian01.txt",
+      "lines": [
+        {
+          "id": 1,
+          "type": "title",
+          "original": "Oggi a casa",
+          "it": "Oggi a casa",
+          "en": "At home today",
+          "zh": "今天在家"
+        },
+        {
+          "id": 2,
+          "type": "line",
+          "original": "Тобі щось потрібно?",
+          "it": "Ti serve qualcosa?",
+          "pinyin": "Tobí shchos potríbno?",
+          "en": "Do you need anything?",
+          "zh": "你需要什么吗？"
+        },
+        {
+          "id": 3,
+          "type": "line",
+          "original": "Ні, усе гаразд.",
+          "it": "No, è tutto a posto.",
+          "pinyin": "Ni, usé harázd.",
+          "en": "No, everything's fine.",
+          "zh": "不用，一切都好。"
+        },
+        {
+          "id": 4,
+          "type": "line",
+          "original": "Можеш залишити це тут.",
+          "it": "Puoi lasciarlo qui.",
+          "pinyin": "Mózhesh zalyshýty tse tut.",
+          "en": "You can leave it here.",
+          "zh": "你可以把这个放在这里。"
+        },
+        {
+          "id": 5,
+          "type": "line",
+          "original": "Це можна не робити.",
+          "it": "Questo non è necessario.",
+          "pinyin": "Tse mózhna ne robýty.",
+          "en": "This doesn't need to be done.",
+          "zh": "这个可以不用做。"
+        },
+        {
+          "id": 6,
+          "type": "line",
+          "original": "Сьогодні не поспішай.",
+          "it": "Oggi non avere fretta.",
+          "pinyin": "Sohódni ne pospishái.",
+          "en": "Don't rush today.",
+          "zh": "今天别着急。"
+        },
+        {
+          "id": 7,
+          "type": "line",
+          "original": "Зроби невелику перерву.",
+          "it": "Fai una piccola pausa.",
+          "pinyin": "Zrobý nevelýku perérvu.",
+          "en": "Take a short break.",
+          "zh": "休息一小会儿吧。"
+        },
+        {
+          "id": 8,
+          "type": "line",
+          "original": "Хочеш води чи кави?",
+          "it": "Vuoi acqua o caffè?",
+          "pinyin": "Khóchesh vodý chy kávy?",
+          "en": "Would you like water or coffee?",
+          "zh": "要水还是咖啡？"
+        },
+        {
+          "id": 9,
+          "type": "line",
+          "original": "Я сам це зроблю.",
+          "it": "Questo lo faccio io.",
+          "pinyin": "Ya sam tse zrobliú.",
+          "en": "I'll do this myself.",
+          "zh": "这个我自己来。"
+        },
+        {
+          "id": 10,
+          "type": "line",
+          "original": "Якщо треба, скажи.",
+          "it": "Se ti serve qualcosa, dimmelo.",
+          "pinyin": "Yakshchó tréba, skazhý.",
+          "en": "If you need anything, let me know.",
+          "zh": "如果需要就告诉我。"
+        },
+        {
+          "id": 11,
+          "type": "line",
+          "original": "Дякую за допомогу.",
+          "it": "Grazie per l'aiuto.",
+          "pinyin": "Diákuyu za dopomóhu.",
+          "en": "Thank you for the help.",
+          "zh": "谢谢你的帮忙。"
+        }
+      ]
+    },
+    {
+      "lesson": 27,
+      "title_native": "27",
+      "source_file": "Ucrainian01.txt",
+      "lines": [
+        {
+          "id": 1,
+          "type": "title",
+          "original": "Programmi per il fine settimana",
+          "it": "Programmi per il fine settimana",
+          "en": "Plans for the weekend",
+          "zh": "周末计划"
+        },
+        {
+          "id": 2,
+          "type": "line",
+          "original": "Що робитимеш у вихідні?",
+          "it": "Che fai nel fine settimana?",
+          "pinyin": "Shcho robýtymesh u vykhidní?",
+          "en": "What are you doing on the weekend?",
+          "zh": "周末你打算做什么？"
+        },
+        {
+          "id": 3,
+          "type": "line",
+          "original": "Ще нічого не планував.",
+          "it": "Non ho ancora fatto programmi.",
+          "pinyin": "Shche nichóho ne planuváv.",
+          "en": "I haven't made any plans yet.",
+          "zh": "我还没什么计划。"
+        },
+        {
+          "id": 4,
+          "type": "line",
+          "original": "Може, поїду на море.",
+          "it": "Forse vado al mare.",
+          "pinyin": "Mózhe, poyídu na móre.",
+          "en": "Maybe I'll go to the seaside.",
+          "zh": "也许我会去海边。"
+        },
+        {
+          "id": 5,
+          "type": "line",
+          "original": "Я хочу відпочити.",
+          "it": "Voglio riposarmi.",
+          "pinyin": "Ya khóchu vidpochýty.",
+          "en": "I want to rest.",
+          "zh": "我想休息一下。"
+        },
+        {
+          "id": 6,
+          "type": "line",
+          "original": "Побачуся з друзями.",
+          "it": "Vedrò degli amici.",
+          "pinyin": "Pobáchusia z drúziamy.",
+          "en": "I'll see some friends.",
+          "zh": "我会去见几个朋友。"
+        },
+        {
+          "id": 7,
+          "type": "line",
+          "original": "У неділю буду вдома.",
+          "it": "Domenica resto a casa.",
+          "pinyin": "U nedíliu búdu vdóma.",
+          "en": "On Sunday I'll stay home.",
+          "zh": "星期天我会待在家。"
+        },
+        {
+          "id": 8,
+          "type": "line",
+          "original": "Якщо буде гарна погода.",
+          "it": "Se farà bel tempo.",
+          "pinyin": "Yakshchó búde hárna pohóda.",
+          "en": "If the weather is nice.",
+          "zh": "如果天气好的话。"
+        },
+        {
+          "id": 9,
+          "type": "line",
+          "original": "Хочеш погуляти?",
+          "it": "Ti va di fare una passeggiata?",
+          "pinyin": "Khóchesh pohuliáty?",
+          "en": "Do you feel like taking a walk?",
+          "zh": "想出去走走吗？"
+        },
+        {
+          "id": 10,
+          "type": "line",
+          "original": "У суботу я вільний.",
+          "it": "Sabato sono libero.",
+          "pinyin": "U subótu ya vílnyi.",
+          "en": "I'm free on Saturday.",
+          "zh": "我星期六有空。"
+        },
+        {
+          "id": 11,
+          "type": "line",
+          "original": "Подивимось завтра.",
+          "it": "Vediamo domani.",
+          "pinyin": "Podyvýmos závtra.",
+          "en": "We'll see tomorrow.",
+          "zh": "明天再看吧。"
+        }
+      ]
+    },
+    {
+      "lesson": 28,
+      "title_native": "28",
+      "source_file": "Ucrainian01.txt",
+      "lines": [
+        {
+          "id": 1,
+          "type": "title",
+          "original": "Inviti e pasti insieme",
+          "it": "Inviti e pasti insieme",
+          "en": "Invitations and meals together",
+          "zh": "邀请和一起吃饭"
+        },
+        {
+          "id": 2,
+          "type": "line",
+          "original": "Хочеш пообідати разом?",
+          "it": "Vuoi pranzare insieme?",
+          "pinyin": "Khóchesh poobídaty rázom?",
+          "en": "Would you like to have lunch together?",
+          "zh": "想一起吃午饭吗？"
+        },
+        {
+          "id": 3,
+          "type": "line",
+          "original": "Залюбки!",
+          "it": "Volentieri!",
+          "pinyin": "Zaliúbky!",
+          "en": "Gladly!",
+          "zh": "很乐意！"
+        },
+        {
+          "id": 4,
+          "type": "line",
+          "original": "Заходь на каву.",
+          "it": "Passa per un caffè.",
+          "pinyin": "Zakhód na kávu.",
+          "en": "Come by for a coffee.",
+          "zh": "过来喝杯咖啡吧。"
+        },
+        {
+          "id": 5,
+          "type": "line",
+          "original": "Може, повечеряємо разом?",
+          "it": "Ceniamo insieme, magari?",
+          "pinyin": "Mózhe, povechériayemo rázom?",
+          "en": "Maybe we'll have dinner together?",
+          "zh": "要不一起吃晚饭？"
+        },
+        {
+          "id": 6,
+          "type": "line",
+          "original": "Коли тобі зручно?",
+          "it": "Quando ti va bene?",
+          "pinyin": "Kolý tobí zrúchno?",
+          "en": "When is it convenient for you?",
+          "zh": "你什么时候方便？"
+        },
+        {
+          "id": 7,
+          "type": "line",
+          "original": "Давай у суботу.",
+          "it": "Facciamo sabato.",
+          "pinyin": "Davái u subótu.",
+          "en": "Let's make it Saturday.",
+          "zh": "那就星期六吧。"
+        },
+        {
+          "id": 8,
+          "type": "line",
+          "original": "Я щось приготую.",
+          "it": "Preparo qualcosa io.",
+          "pinyin": "Ya shchos pryhotúyu.",
+          "en": "I'll make something.",
+          "zh": "我来做点吃的。"
+        },
+        {
+          "id": 9,
+          "type": "line",
+          "original": "Нічого не принось.",
+          "it": "Non portare niente.",
+          "pinyin": "Nichóho ne prynós.",
+          "en": "Don't bring anything.",
+          "zh": "什么都别带。"
+        },
+        {
+          "id": 10,
+          "type": "line",
+          "original": "Приходь близько восьмої.",
+          "it": "Vieni verso le otto.",
+          "pinyin": "Prykhód blýzko vosmóyi.",
+          "en": "Come around eight.",
+          "zh": "八点左右来吧。"
+        },
+        {
+          "id": 11,
+          "type": "line",
+          "original": "Буду радий тебе бачити.",
+          "it": "Mi farà piacere vederti.",
+          "pinyin": "Búdu rádyi tebé báchyty.",
+          "en": "I'll be glad to see you.",
+          "zh": "见到你我会很高兴。"
+        }
+      ]
+    },
+    {
+      "lesson": 29,
+      "title_native": "29",
+      "source_file": "Ucrainian01.txt",
+      "lines": [
+        {
+          "id": 1,
+          "type": "title",
+          "original": "Messaggi e cambi di programma",
+          "it": "Messaggi e cambi di programma",
+          "en": "Messages and schedule changes",
+          "zh": "消息和计划变动"
+        },
+        {
+          "id": 2,
+          "type": "line",
+          "original": "Я тобі напишу.",
+          "it": "Ti scrivo.",
+          "pinyin": "Ya tobí napyshú.",
+          "en": "I'll write to you.",
+          "zh": "我会给你发消息。"
+        },
+        {
+          "id": 3,
+          "type": "line",
+          "original": "Ти бачила повідомлення?",
+          "it": "Hai visto il messaggio?",
+          "pinyin": "Ty báchyla povidómlennia?",
+          "en": "Did you see the message?",
+          "zh": "你看到消息了吗？"
+        },
+        {
+          "id": 4,
+          "type": "line",
+          "original": "Я зараз передзвоню.",
+          "it": "Ti richiamo subito.",
+          "pinyin": "Ya záraz peredzvoniú.",
+          "en": "I'll call you right back.",
+          "zh": "我马上给你回电话。"
+        },
+        {
+          "id": 5,
+          "type": "line",
+          "original": "Напиши, коли зможеш.",
+          "it": "Scrivimi quando puoi.",
+          "pinyin": "Napyshý, kolý zmózhesh.",
+          "en": "Write to me when you can.",
+          "zh": "有空的时候给我发消息。"
+        },
+        {
+          "id": 6,
+          "type": "line",
+          "original": "Плани трохи змінилися.",
+          "it": "I programmi sono un po' cambiati.",
+          "pinyin": "Plány trókhy zminýlysia.",
+          "en": "Plans have changed a bit.",
+          "zh": "计划有点变了。"
+        },
+        {
+          "id": 7,
+          "type": "line",
+          "original": "Я буду трохи пізніше.",
+          "it": "Arrivo un po' più tardi.",
+          "pinyin": "Ya búdu trókhy pizníshe.",
+          "en": "I'll arrive a bit later.",
+          "zh": "我会晚一点到。"
+        },
+        {
+          "id": 8,
+          "type": "line",
+          "original": "Можемо зустрітися завтра.",
+          "it": "Possiamo vederci domani.",
+          "pinyin": "Mózhemo zustrítysia závtra.",
+          "en": "We can meet tomorrow.",
+          "zh": "我们可以明天见。"
+        },
+        {
+          "id": 9,
+          "type": "line",
+          "original": "Сьогодні не вийде.",
+          "it": "Oggi non riesco.",
+          "pinyin": "Sohódni ne výide.",
+          "en": "I can't make it today.",
+          "zh": "今天不行。"
+        },
+        {
+          "id": 10,
+          "type": "line",
+          "original": "Я дам тобі знати пізніше.",
+          "it": "Ti faccio sapere più tardi.",
+          "pinyin": "Ya dam tobí znáty pizníshe.",
+          "en": "I'll let you know later.",
+          "zh": "我晚点告诉你。"
+        },
+        {
+          "id": 11,
+          "type": "line",
+          "original": "Добре, тоді до завтра.",
+          "it": "Va bene, allora a domani.",
+          "pinyin": "Dóbre, todí do závtra.",
+          "en": "Okay, see you tomorrow then.",
+          "zh": "好，那明天见。"
+        }
+      ]
+    },
+    {
+      "lesson": 30,
+      "title_native": "30",
+      "source_file": "Ucrainian01.txt",
+      "lines": [
+        {
+          "id": 1,
+          "type": "title",
+          "original": "Saluti e prossimo incontro",
+          "it": "Saluti e prossimo incontro",
+          "en": "Goodbyes and the next meeting",
+          "zh": "告别和下次见面"
+        },
+        {
+          "id": 2,
+          "type": "line",
+          "original": "Мені вже треба йти.",
+          "it": "Ora devo andare.",
+          "pinyin": "Mení vzhe tréba yty.",
+          "en": "I need to go now.",
+          "zh": "我得走了。"
+        },
+        {
+          "id": 3,
+          "type": "line",
+          "original": "Добре, до зустрічі.",
+          "it": "Va bene, ci vediamo.",
+          "pinyin": "Dóbre, do zústrichi.",
+          "en": "Okay, see you.",
+          "zh": "好，下次见。"
+        },
+        {
+          "id": 4,
+          "type": "line",
+          "original": "Дякую за все!",
+          "it": "Grazie di tutto!",
+          "pinyin": "Diákuyu za vse!",
+          "en": "Thanks for everything!",
+          "zh": "太谢谢你了！"
+        },
+        {
+          "id": 5,
+          "type": "line",
+          "original": "Побачимось у п'ятницю.",
+          "it": "Ci vediamo venerdì.",
+          "pinyin": "Pobáchymos u pyátnytsiu.",
+          "en": "See you on Friday.",
+          "zh": "星期五见。"
+        },
+        {
+          "id": 6,
+          "type": "line",
+          "original": "Напиши мені завтра.",
+          "it": "Scrivimi domani.",
+          "pinyin": "Napyshý mení závtra.",
+          "en": "Write to me tomorrow.",
+          "zh": "明天给我发消息。"
+        },
+        {
+          "id": 7,
+          "type": "line",
+          "original": "Домовимось пізніше.",
+          "it": "Ci mettiamo d'accordo più tardi.",
+          "pinyin": "Domóvymos pizníshe.",
+          "en": "We'll arrange it later.",
+          "zh": "我们晚点再定。"
+        },
+        {
+          "id": 8,
+          "type": "line",
+          "original": "Гарного вечора!",
+          "it": "Buona serata!",
+          "pinyin": "Hárnoho véchora!",
+          "en": "Have a nice evening!",
+          "zh": "祝你晚上愉快！"
+        },
+        {
+          "id": 9,
+          "type": "line",
+          "original": "Гарних вихідних!",
+          "it": "Buon fine settimana!",
+          "pinyin": "Hárnykh vykhidnýkh!",
+          "en": "Have a nice weekend!",
+          "zh": "周末愉快！"
+        },
+        {
+          "id": 10,
+          "type": "line",
+          "original": "Передавай усім привіт.",
+          "it": "Saluta tutti da parte mia.",
+          "pinyin": "Peredavái usím pryvít.",
+          "en": "Say hi to everyone for me.",
+          "zh": "代我向大家问好。"
+        },
+        {
+          "id": 11,
+          "type": "line",
+          "original": "До скорої зустрічі!",
+          "it": "A presto!",
+          "pinyin": "Do skóroyi zústrichi!",
+          "en": "See you soon!",
+          "zh": "希望很快再见到你！"
+        }
+      ]
+    }
+  ]
+}
